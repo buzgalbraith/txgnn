@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/scratch/wbg231/dey_work/TxGNN/run.py", line 10, in <module>
+    TxGNN = TxGNN(data = TxData, 
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/wbg231/dey_work/TxGNN/txgnn/TxGNN.py", line 63, in __init__
+    ('drug', 'drug_protein', 'gene/protein')
+TypeError: 'tuple' object is not callable

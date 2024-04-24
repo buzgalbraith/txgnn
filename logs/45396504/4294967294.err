@@ -1,0 +1,25 @@
+Traceback (most recent call last):
+  File "/scratch/wbg231/dey_work/TxGNN/txgnn/model.py", line 209, in forward
+    sim = self.sim_all_etypes[etype][np.array([self.diseaseid2id_etypes[etype][i.item()] for i in h_disease['disease_query_id'][0]])]
+KeyError: 'disease_query_id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/wbg231/dey_work/TxGNN/run.py", line 37, in <module>
+    TxGNN.finetune(n_epoch = 500, 
+  File "/scratch/wbg231/dey_work/TxGNN/txgnn/TxGNN.py", line 272, in finetune
+    pred_score_pos, pred_score_neg, pos_score, neg_score = self.model(self.G, negative_graph, pretrain_mode = False, mode = 'train')
+  File "/ext3/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/ext3/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/scratch/wbg231/dey_work/TxGNN/txgnn/model.py", line 558, in forward
+    scores, out_pos = self.pred(G, G, h, pretrain_mode, mode = mode + '_pos')
+  File "/ext3/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/ext3/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/scratch/wbg231/dey_work/TxGNN/txgnn/model.py", line 217, in forward
+    for i in h_disease['disease_query_id'][0]:
+KeyError: 'disease_query_id'
