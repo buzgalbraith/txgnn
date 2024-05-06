@@ -59,11 +59,11 @@ class TxGNN:
         self.dd_etypes = [('drug', 'contraindication', 'disease'), 
                 ('drug', 'indication', 'disease'),
                 #   ('drug', 'off-label use', 'disease'),
-                # ('drug', 'drug_protein', 'gene/protein'),
+                ('drug', 'drug_protein', 'gene/protein'),
                 ('disease', 'rev_contraindication', 'drug'), 
-                ('disease', 'rev_indication', 'drug')
+                ('disease', 'rev_indication', 'drug'),
                 #   ('disease', 'rev_off-label use', 'drug')
-                #('drug', 'rev_drug_protein', 'gene/protein')
+                ('drug', 'rev_drug_protein', 'gene/protein')
                 ]
         
         if self.weight_bias_track:

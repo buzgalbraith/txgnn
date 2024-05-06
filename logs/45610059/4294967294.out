@@ -1,0 +1,1702 @@
+Found local copy...
+Found local copy...
+Found local copy...
+Found saved processed KG... Loading...
+Splits detected... Loading splits....
+Creating DGL graph....
+Done!
+Creating minibatch pretraining dataloader...
+Start pre-training with #param: 1015000
+Epoch: 0 Step: 0 LR: 0.00100 Loss 0.6930, Pretrain Micro AUROC 0.5089 Pretrain Micro AUPRC 0.5149 Pretrain Macro AUROC 0.5553 Pretrain Macro AUPRC 0.6274
+Epoch: 0 Step: 20 LR: 0.00100 Loss 0.6825, Pretrain Micro AUROC 0.5905 Pretrain Micro AUPRC 0.5734 Pretrain Macro AUROC 0.4782 Pretrain Macro AUPRC 0.5927
+Epoch: 0 Step: 40 LR: 0.00100 Loss 0.6702, Pretrain Micro AUROC 0.6231 Pretrain Micro AUPRC 0.6014 Pretrain Macro AUROC 0.6146 Pretrain Macro AUPRC 0.7134
+Epoch: 0 Step: 60 LR: 0.00100 Loss 0.6622, Pretrain Micro AUROC 0.6377 Pretrain Micro AUPRC 0.6136 Pretrain Macro AUROC 0.6137 Pretrain Macro AUPRC 0.6961
+Epoch: 0 Step: 80 LR: 0.00100 Loss 0.6557, Pretrain Micro AUROC 0.6389 Pretrain Micro AUPRC 0.6126 Pretrain Macro AUROC 0.6480 Pretrain Macro AUPRC 0.7120
+Epoch: 0 Step: 100 LR: 0.00100 Loss 0.6569, Pretrain Micro AUROC 0.6415 Pretrain Micro AUPRC 0.6181 Pretrain Macro AUROC 0.5907 Pretrain Macro AUPRC 0.6875
+Epoch: 0 Step: 120 LR: 0.00100 Loss 0.6480, Pretrain Micro AUROC 0.6613 Pretrain Micro AUPRC 0.6327 Pretrain Macro AUROC 0.6679 Pretrain Macro AUPRC 0.7301
+Epoch: 0 Step: 140 LR: 0.00100 Loss 0.6611, Pretrain Micro AUROC 0.6248 Pretrain Micro AUPRC 0.5939 Pretrain Macro AUROC 0.6067 Pretrain Macro AUPRC 0.6893
+Epoch: 0 Step: 160 LR: 0.00100 Loss 0.6378, Pretrain Micro AUROC 0.6759 Pretrain Micro AUPRC 0.6486 Pretrain Macro AUROC 0.7076 Pretrain Macro AUPRC 0.7450
+Epoch: 0 Step: 180 LR: 0.00100 Loss 0.6430, Pretrain Micro AUROC 0.6583 Pretrain Micro AUPRC 0.6224 Pretrain Macro AUROC 0.6811 Pretrain Macro AUPRC 0.7174
+Epoch: 0 Step: 200 LR: 0.00100 Loss 0.6534, Pretrain Micro AUROC 0.6450 Pretrain Micro AUPRC 0.6073 Pretrain Macro AUROC 0.6806 Pretrain Macro AUPRC 0.7244
+Epoch: 0 Step: 220 LR: 0.00100 Loss 0.6331, Pretrain Micro AUROC 0.6801 Pretrain Micro AUPRC 0.6433 Pretrain Macro AUROC 0.7609 Pretrain Macro AUPRC 0.7966
+Epoch: 0 Step: 240 LR: 0.00100 Loss 0.6335, Pretrain Micro AUROC 0.6797 Pretrain Micro AUPRC 0.6410 Pretrain Macro AUROC 0.7369 Pretrain Macro AUPRC 0.7717
+Epoch: 0 Step: 260 LR: 0.00100 Loss 0.6272, Pretrain Micro AUROC 0.6854 Pretrain Micro AUPRC 0.6485 Pretrain Macro AUROC 0.6854 Pretrain Macro AUPRC 0.7457
+Epoch: 0 Step: 280 LR: 0.00100 Loss 0.6353, Pretrain Micro AUROC 0.6697 Pretrain Micro AUPRC 0.6358 Pretrain Macro AUROC 0.5981 Pretrain Macro AUPRC 0.6808
+Epoch: 0 Step: 300 LR: 0.00100 Loss 0.6265, Pretrain Micro AUROC 0.6853 Pretrain Micro AUPRC 0.6622 Pretrain Macro AUROC 0.7014 Pretrain Macro AUPRC 0.7666
+Epoch: 0 Step: 320 LR: 0.00100 Loss 0.6178, Pretrain Micro AUROC 0.6975 Pretrain Micro AUPRC 0.6674 Pretrain Macro AUROC 0.6915 Pretrain Macro AUPRC 0.7646
+Epoch: 0 Step: 340 LR: 0.00100 Loss 0.6241, Pretrain Micro AUROC 0.6865 Pretrain Micro AUPRC 0.6471 Pretrain Macro AUROC 0.6475 Pretrain Macro AUPRC 0.7261
+Epoch: 0 Step: 360 LR: 0.00100 Loss 0.6261, Pretrain Micro AUROC 0.6784 Pretrain Micro AUPRC 0.6514 Pretrain Macro AUROC 0.6309 Pretrain Macro AUPRC 0.7089
+Epoch: 0 Step: 380 LR: 0.00100 Loss 0.6141, Pretrain Micro AUROC 0.6988 Pretrain Micro AUPRC 0.6709 Pretrain Macro AUROC 0.7706 Pretrain Macro AUPRC 0.7943
+Epoch: 0 Step: 400 LR: 0.00100 Loss 0.6185, Pretrain Micro AUROC 0.6975 Pretrain Micro AUPRC 0.6635 Pretrain Macro AUROC 0.7021 Pretrain Macro AUPRC 0.7321
+Epoch: 0 Step: 420 LR: 0.00100 Loss 0.6251, Pretrain Micro AUROC 0.6747 Pretrain Micro AUPRC 0.6447 Pretrain Macro AUROC 0.6676 Pretrain Macro AUPRC 0.7417
+Epoch: 0 Step: 440 LR: 0.00100 Loss 0.6236, Pretrain Micro AUROC 0.6887 Pretrain Micro AUPRC 0.6603 Pretrain Macro AUROC 0.7020 Pretrain Macro AUPRC 0.7549
+Epoch: 0 Step: 460 LR: 0.00100 Loss 0.6071, Pretrain Micro AUROC 0.7119 Pretrain Micro AUPRC 0.6789 Pretrain Macro AUROC 0.6615 Pretrain Macro AUPRC 0.7413
+Epoch: 0 Step: 480 LR: 0.00100 Loss 0.6092, Pretrain Micro AUROC 0.7119 Pretrain Micro AUPRC 0.6850 Pretrain Macro AUROC 0.6925 Pretrain Macro AUPRC 0.7484
+Epoch: 0 Step: 500 LR: 0.00100 Loss 0.6134, Pretrain Micro AUROC 0.7112 Pretrain Micro AUPRC 0.6828 Pretrain Macro AUROC 0.7116 Pretrain Macro AUPRC 0.7765
+Epoch: 0 Step: 520 LR: 0.00100 Loss 0.6078, Pretrain Micro AUROC 0.7038 Pretrain Micro AUPRC 0.6700 Pretrain Macro AUROC 0.6692 Pretrain Macro AUPRC 0.7476
+Epoch: 0 Step: 540 LR: 0.00100 Loss 0.6135, Pretrain Micro AUROC 0.7053 Pretrain Micro AUPRC 0.6660 Pretrain Macro AUROC 0.7171 Pretrain Macro AUPRC 0.7607
+Epoch: 0 Step: 560 LR: 0.00100 Loss 0.6050, Pretrain Micro AUROC 0.7095 Pretrain Micro AUPRC 0.6698 Pretrain Macro AUROC 0.7226 Pretrain Macro AUPRC 0.7537
+Epoch: 0 Step: 580 LR: 0.00100 Loss 0.6055, Pretrain Micro AUROC 0.7079 Pretrain Micro AUPRC 0.6703 Pretrain Macro AUROC 0.7214 Pretrain Macro AUPRC 0.7627
+Epoch: 0 Step: 600 LR: 0.00100 Loss 0.5936, Pretrain Micro AUROC 0.7284 Pretrain Micro AUPRC 0.6973 Pretrain Macro AUROC 0.6207 Pretrain Macro AUPRC 0.7260
+Epoch: 0 Step: 620 LR: 0.00100 Loss 0.6085, Pretrain Micro AUROC 0.7038 Pretrain Micro AUPRC 0.6771 Pretrain Macro AUROC 0.7508 Pretrain Macro AUPRC 0.7957
+Epoch: 0 Step: 640 LR: 0.00100 Loss 0.6041, Pretrain Micro AUROC 0.7165 Pretrain Micro AUPRC 0.6856 Pretrain Macro AUROC 0.7830 Pretrain Macro AUPRC 0.8180
+Epoch: 0 Step: 660 LR: 0.00100 Loss 0.6030, Pretrain Micro AUROC 0.7130 Pretrain Micro AUPRC 0.6851 Pretrain Macro AUROC 0.6835 Pretrain Macro AUPRC 0.7422
+Epoch: 0 Step: 680 LR: 0.00100 Loss 0.5815, Pretrain Micro AUROC 0.7430 Pretrain Micro AUPRC 0.7207 Pretrain Macro AUROC 0.7627 Pretrain Macro AUPRC 0.8038
+Epoch: 0 Step: 700 LR: 0.00100 Loss 0.5823, Pretrain Micro AUROC 0.7408 Pretrain Micro AUPRC 0.7073 Pretrain Macro AUROC 0.7537 Pretrain Macro AUPRC 0.7965
+Epoch: 0 Step: 720 LR: 0.00100 Loss 0.6044, Pretrain Micro AUROC 0.7122 Pretrain Micro AUPRC 0.6676 Pretrain Macro AUROC 0.7290 Pretrain Macro AUPRC 0.7740
+Epoch: 0 Step: 740 LR: 0.00100 Loss 0.6164, Pretrain Micro AUROC 0.6951 Pretrain Micro AUPRC 0.6635 Pretrain Macro AUROC 0.6407 Pretrain Macro AUPRC 0.7254
+Epoch: 0 Step: 760 LR: 0.00100 Loss 0.6030, Pretrain Micro AUROC 0.7215 Pretrain Micro AUPRC 0.6744 Pretrain Macro AUROC 0.7310 Pretrain Macro AUPRC 0.7671
+Epoch: 0 Step: 780 LR: 0.00100 Loss 0.5911, Pretrain Micro AUROC 0.7283 Pretrain Micro AUPRC 0.6982 Pretrain Macro AUROC 0.7427 Pretrain Macro AUPRC 0.7968
+Epoch: 0 Step: 800 LR: 0.00100 Loss 0.5894, Pretrain Micro AUROC 0.7326 Pretrain Micro AUPRC 0.7103 Pretrain Macro AUROC 0.7543 Pretrain Macro AUPRC 0.7887
+Epoch: 0 Step: 820 LR: 0.00100 Loss 0.5897, Pretrain Micro AUROC 0.7331 Pretrain Micro AUPRC 0.6937 Pretrain Macro AUROC 0.7695 Pretrain Macro AUPRC 0.7915
+Epoch: 0 Step: 840 LR: 0.00100 Loss 0.5909, Pretrain Micro AUROC 0.7280 Pretrain Micro AUPRC 0.6960 Pretrain Macro AUROC 0.6844 Pretrain Macro AUPRC 0.7448
+Epoch: 0 Step: 860 LR: 0.00100 Loss 0.5943, Pretrain Micro AUROC 0.7207 Pretrain Micro AUPRC 0.6936 Pretrain Macro AUROC 0.7865 Pretrain Macro AUPRC 0.8193
+Epoch: 0 Step: 880 LR: 0.00100 Loss 0.5971, Pretrain Micro AUROC 0.7222 Pretrain Micro AUPRC 0.6791 Pretrain Macro AUROC 0.7290 Pretrain Macro AUPRC 0.7680
+Epoch: 0 Step: 900 LR: 0.00100 Loss 0.5798, Pretrain Micro AUROC 0.7412 Pretrain Micro AUPRC 0.7093 Pretrain Macro AUROC 0.7077 Pretrain Macro AUPRC 0.7822
+Epoch: 0 Step: 920 LR: 0.00100 Loss 0.5926, Pretrain Micro AUROC 0.7180 Pretrain Micro AUPRC 0.6776 Pretrain Macro AUROC 0.7250 Pretrain Macro AUPRC 0.7801
+Epoch: 0 Step: 940 LR: 0.00100 Loss 0.5877, Pretrain Micro AUROC 0.7275 Pretrain Micro AUPRC 0.6941 Pretrain Macro AUROC 0.7926 Pretrain Macro AUPRC 0.8199
+Epoch: 0 Step: 960 LR: 0.00100 Loss 0.5929, Pretrain Micro AUROC 0.7214 Pretrain Micro AUPRC 0.6956 Pretrain Macro AUROC 0.7322 Pretrain Macro AUPRC 0.7833
+Epoch: 0 Step: 980 LR: 0.00100 Loss 0.5736, Pretrain Micro AUROC 0.7506 Pretrain Micro AUPRC 0.7206 Pretrain Macro AUROC 0.7599 Pretrain Macro AUPRC 0.8090
+Epoch: 0 Step: 1000 LR: 0.00100 Loss 0.5907, Pretrain Micro AUROC 0.7316 Pretrain Micro AUPRC 0.6918 Pretrain Macro AUROC 0.7175 Pretrain Macro AUPRC 0.7745
+Epoch: 0 Step: 1020 LR: 0.00100 Loss 0.5858, Pretrain Micro AUROC 0.7362 Pretrain Micro AUPRC 0.7006 Pretrain Macro AUROC 0.7129 Pretrain Macro AUPRC 0.7471
+Epoch: 0 Step: 1040 LR: 0.00100 Loss 0.5986, Pretrain Micro AUROC 0.7178 Pretrain Micro AUPRC 0.6814 Pretrain Macro AUROC 0.7228 Pretrain Macro AUPRC 0.7730
+Epoch: 0 Step: 1060 LR: 0.00100 Loss 0.5779, Pretrain Micro AUROC 0.7463 Pretrain Micro AUPRC 0.7135 Pretrain Macro AUROC 0.7639 Pretrain Macro AUPRC 0.7926
+Epoch: 0 Step: 1080 LR: 0.00100 Loss 0.5722, Pretrain Micro AUROC 0.7485 Pretrain Micro AUPRC 0.7193 Pretrain Macro AUROC 0.7183 Pretrain Macro AUPRC 0.7678
+Epoch: 0 Step: 1100 LR: 0.00100 Loss 0.5791, Pretrain Micro AUROC 0.7450 Pretrain Micro AUPRC 0.7151 Pretrain Macro AUROC 0.7509 Pretrain Macro AUPRC 0.8023
+Epoch: 0 Step: 1120 LR: 0.00100 Loss 0.5876, Pretrain Micro AUROC 0.7310 Pretrain Micro AUPRC 0.6911 Pretrain Macro AUROC 0.7484 Pretrain Macro AUPRC 0.7799
+Epoch: 0 Step: 1140 LR: 0.00100 Loss 0.5869, Pretrain Micro AUROC 0.7409 Pretrain Micro AUPRC 0.7046 Pretrain Macro AUROC 0.7518 Pretrain Macro AUPRC 0.7794
+Epoch: 0 Step: 1160 LR: 0.00100 Loss 0.5833, Pretrain Micro AUROC 0.7334 Pretrain Micro AUPRC 0.7100 Pretrain Macro AUROC 0.7486 Pretrain Macro AUPRC 0.7915
+Epoch: 0 Step: 1180 LR: 0.00100 Loss 0.5887, Pretrain Micro AUROC 0.7245 Pretrain Micro AUPRC 0.6914 Pretrain Macro AUROC 0.7165 Pretrain Macro AUPRC 0.7806
+Epoch: 0 Step: 1200 LR: 0.00100 Loss 0.5949, Pretrain Micro AUROC 0.7194 Pretrain Micro AUPRC 0.6810 Pretrain Macro AUROC 0.7031 Pretrain Macro AUPRC 0.7705
+Epoch: 0 Step: 1220 LR: 0.00100 Loss 0.5899, Pretrain Micro AUROC 0.7245 Pretrain Micro AUPRC 0.6880 Pretrain Macro AUROC 0.7299 Pretrain Macro AUPRC 0.7625
+Epoch: 0 Step: 1240 LR: 0.00100 Loss 0.5778, Pretrain Micro AUROC 0.7457 Pretrain Micro AUPRC 0.7132 Pretrain Macro AUROC 0.7668 Pretrain Macro AUPRC 0.7835
+Epoch: 0 Step: 1260 LR: 0.00100 Loss 0.5732, Pretrain Micro AUROC 0.7565 Pretrain Micro AUPRC 0.7226 Pretrain Macro AUROC 0.7815 Pretrain Macro AUPRC 0.7981
+Epoch: 0 Step: 1280 LR: 0.00100 Loss 0.5809, Pretrain Micro AUROC 0.7396 Pretrain Micro AUPRC 0.7134 Pretrain Macro AUROC 0.6897 Pretrain Macro AUPRC 0.7573
+Epoch: 0 Step: 1300 LR: 0.00100 Loss 0.5751, Pretrain Micro AUROC 0.7444 Pretrain Micro AUPRC 0.7030 Pretrain Macro AUROC 0.6832 Pretrain Macro AUPRC 0.7565
+Epoch: 0 Step: 1320 LR: 0.00100 Loss 0.5737, Pretrain Micro AUROC 0.7446 Pretrain Micro AUPRC 0.7042 Pretrain Macro AUROC 0.6819 Pretrain Macro AUPRC 0.7563
+Epoch: 0 Step: 1340 LR: 0.00100 Loss 0.5865, Pretrain Micro AUROC 0.7344 Pretrain Micro AUPRC 0.7040 Pretrain Macro AUROC 0.7275 Pretrain Macro AUPRC 0.7795
+Epoch: 0 Step: 1360 LR: 0.00100 Loss 0.5860, Pretrain Micro AUROC 0.7306 Pretrain Micro AUPRC 0.6966 Pretrain Macro AUROC 0.7621 Pretrain Macro AUPRC 0.7793
+Epoch: 0 Step: 1380 LR: 0.00100 Loss 0.5899, Pretrain Micro AUROC 0.7306 Pretrain Micro AUPRC 0.6915 Pretrain Macro AUROC 0.7575 Pretrain Macro AUPRC 0.7970
+Epoch: 0 Step: 1400 LR: 0.00100 Loss 0.5718, Pretrain Micro AUROC 0.7498 Pretrain Micro AUPRC 0.7039 Pretrain Macro AUROC 0.7910 Pretrain Macro AUPRC 0.8099
+Epoch: 0 Step: 1420 LR: 0.00100 Loss 0.5778, Pretrain Micro AUROC 0.7424 Pretrain Micro AUPRC 0.7134 Pretrain Macro AUROC 0.7462 Pretrain Macro AUPRC 0.8000
+Epoch: 0 Step: 1440 LR: 0.00100 Loss 0.5795, Pretrain Micro AUROC 0.7354 Pretrain Micro AUPRC 0.7020 Pretrain Macro AUROC 0.7709 Pretrain Macro AUPRC 0.8152
+Epoch: 0 Step: 1460 LR: 0.00100 Loss 0.5714, Pretrain Micro AUROC 0.7574 Pretrain Micro AUPRC 0.7103 Pretrain Macro AUROC 0.7710 Pretrain Macro AUPRC 0.7984
+Epoch: 0 Step: 1480 LR: 0.00100 Loss 0.5809, Pretrain Micro AUROC 0.7394 Pretrain Micro AUPRC 0.7060 Pretrain Macro AUROC 0.7964 Pretrain Macro AUPRC 0.8107
+Epoch: 0 Step: 1500 LR: 0.00100 Loss 0.5782, Pretrain Micro AUROC 0.7419 Pretrain Micro AUPRC 0.7102 Pretrain Macro AUROC 0.7607 Pretrain Macro AUPRC 0.7986
+Epoch: 0 Step: 1520 LR: 0.00100 Loss 0.5736, Pretrain Micro AUROC 0.7498 Pretrain Micro AUPRC 0.7217 Pretrain Macro AUROC 0.7651 Pretrain Macro AUPRC 0.8084
+Epoch: 0 Step: 1540 LR: 0.00100 Loss 0.5875, Pretrain Micro AUROC 0.7314 Pretrain Micro AUPRC 0.6930 Pretrain Macro AUROC 0.7443 Pretrain Macro AUPRC 0.7754
+Epoch: 0 Step: 1560 LR: 0.00100 Loss 0.5748, Pretrain Micro AUROC 0.7453 Pretrain Micro AUPRC 0.7138 Pretrain Macro AUROC 0.7777 Pretrain Macro AUPRC 0.8133
+Epoch: 0 Step: 1580 LR: 0.00100 Loss 0.5724, Pretrain Micro AUROC 0.7523 Pretrain Micro AUPRC 0.7190 Pretrain Macro AUROC 0.8073 Pretrain Macro AUPRC 0.8210
+Epoch: 0 Step: 1600 LR: 0.00100 Loss 0.5556, Pretrain Micro AUROC 0.7685 Pretrain Micro AUPRC 0.7275 Pretrain Macro AUROC 0.7422 Pretrain Macro AUPRC 0.7973
+Epoch: 0 Step: 1620 LR: 0.00100 Loss 0.5659, Pretrain Micro AUROC 0.7537 Pretrain Micro AUPRC 0.7243 Pretrain Macro AUROC 0.6995 Pretrain Macro AUPRC 0.7727
+Epoch: 0 Step: 1640 LR: 0.00100 Loss 0.5923, Pretrain Micro AUROC 0.7318 Pretrain Micro AUPRC 0.6931 Pretrain Macro AUROC 0.7263 Pretrain Macro AUPRC 0.7751
+Epoch: 0 Step: 1660 LR: 0.00100 Loss 0.5710, Pretrain Micro AUROC 0.7479 Pretrain Micro AUPRC 0.7172 Pretrain Macro AUROC 0.7630 Pretrain Macro AUPRC 0.7936
+Epoch: 0 Step: 1680 LR: 0.00100 Loss 0.5555, Pretrain Micro AUROC 0.7690 Pretrain Micro AUPRC 0.7426 Pretrain Macro AUROC 0.8112 Pretrain Macro AUPRC 0.8353
+Epoch: 0 Step: 1700 LR: 0.00100 Loss 0.5709, Pretrain Micro AUROC 0.7507 Pretrain Micro AUPRC 0.7189 Pretrain Macro AUROC 0.7833 Pretrain Macro AUPRC 0.8162
+Epoch: 0 Step: 1720 LR: 0.00100 Loss 0.5576, Pretrain Micro AUROC 0.7708 Pretrain Micro AUPRC 0.7427 Pretrain Macro AUROC 0.7484 Pretrain Macro AUPRC 0.7983
+Epoch: 0 Step: 1740 LR: 0.00100 Loss 0.5747, Pretrain Micro AUROC 0.7551 Pretrain Micro AUPRC 0.7174 Pretrain Macro AUROC 0.7433 Pretrain Macro AUPRC 0.7781
+Epoch: 0 Step: 1760 LR: 0.00100 Loss 0.5862, Pretrain Micro AUROC 0.7337 Pretrain Micro AUPRC 0.7036 Pretrain Macro AUROC 0.6948 Pretrain Macro AUPRC 0.7558
+Epoch: 0 Step: 1780 LR: 0.00100 Loss 0.5670, Pretrain Micro AUROC 0.7561 Pretrain Micro AUPRC 0.7171 Pretrain Macro AUROC 0.7831 Pretrain Macro AUPRC 0.8066
+Epoch: 0 Step: 1800 LR: 0.00100 Loss 0.5582, Pretrain Micro AUROC 0.7652 Pretrain Micro AUPRC 0.7287 Pretrain Macro AUROC 0.7586 Pretrain Macro AUPRC 0.7873
+Epoch: 0 Step: 1820 LR: 0.00100 Loss 0.5559, Pretrain Micro AUROC 0.7638 Pretrain Micro AUPRC 0.7288 Pretrain Macro AUROC 0.8106 Pretrain Macro AUPRC 0.8221
+Epoch: 0 Step: 1840 LR: 0.00100 Loss 0.5665, Pretrain Micro AUROC 0.7564 Pretrain Micro AUPRC 0.7306 Pretrain Macro AUROC 0.7999 Pretrain Macro AUPRC 0.8232
+Epoch: 0 Step: 1860 LR: 0.00100 Loss 0.5649, Pretrain Micro AUROC 0.7591 Pretrain Micro AUPRC 0.7235 Pretrain Macro AUROC 0.7431 Pretrain Macro AUPRC 0.7897
+Epoch: 0 Step: 1880 LR: 0.00100 Loss 0.5703, Pretrain Micro AUROC 0.7526 Pretrain Micro AUPRC 0.7243 Pretrain Macro AUROC 0.8046 Pretrain Macro AUPRC 0.8317
+Epoch: 0 Step: 1900 LR: 0.00100 Loss 0.5656, Pretrain Micro AUROC 0.7627 Pretrain Micro AUPRC 0.7250 Pretrain Macro AUROC 0.7837 Pretrain Macro AUPRC 0.8217
+Epoch: 0 Step: 1920 LR: 0.00100 Loss 0.5638, Pretrain Micro AUROC 0.7639 Pretrain Micro AUPRC 0.7278 Pretrain Macro AUROC 0.8024 Pretrain Macro AUPRC 0.8343
+Epoch: 0 Step: 1940 LR: 0.00100 Loss 0.5698, Pretrain Micro AUROC 0.7535 Pretrain Micro AUPRC 0.7175 Pretrain Macro AUROC 0.8289 Pretrain Macro AUPRC 0.8502
+Epoch: 0 Step: 1960 LR: 0.00100 Loss 0.5636, Pretrain Micro AUROC 0.7595 Pretrain Micro AUPRC 0.7303 Pretrain Macro AUROC 0.7957 Pretrain Macro AUPRC 0.8263
+Epoch: 0 Step: 1980 LR: 0.00100 Loss 0.5542, Pretrain Micro AUROC 0.7734 Pretrain Micro AUPRC 0.7444 Pretrain Macro AUROC 0.8222 Pretrain Macro AUPRC 0.8463
+Epoch: 0 Step: 2000 LR: 0.00100 Loss 0.5681, Pretrain Micro AUROC 0.7523 Pretrain Micro AUPRC 0.7164 Pretrain Macro AUROC 0.7483 Pretrain Macro AUPRC 0.7837
+Epoch: 0 Step: 2020 LR: 0.00100 Loss 0.5682, Pretrain Micro AUROC 0.7520 Pretrain Micro AUPRC 0.7288 Pretrain Macro AUROC 0.7972 Pretrain Macro AUPRC 0.8154
+Epoch: 0 Step: 2040 LR: 0.00100 Loss 0.5589, Pretrain Micro AUROC 0.7670 Pretrain Micro AUPRC 0.7394 Pretrain Macro AUROC 0.8247 Pretrain Macro AUPRC 0.8464
+Epoch: 0 Step: 2060 LR: 0.00100 Loss 0.5580, Pretrain Micro AUROC 0.7667 Pretrain Micro AUPRC 0.7381 Pretrain Macro AUROC 0.7765 Pretrain Macro AUPRC 0.8025
+Epoch: 0 Step: 2080 LR: 0.00100 Loss 0.5694, Pretrain Micro AUROC 0.7509 Pretrain Micro AUPRC 0.7132 Pretrain Macro AUROC 0.8105 Pretrain Macro AUPRC 0.8336
+Epoch: 0 Step: 2100 LR: 0.00100 Loss 0.5653, Pretrain Micro AUROC 0.7603 Pretrain Micro AUPRC 0.7266 Pretrain Macro AUROC 0.7951 Pretrain Macro AUPRC 0.8336
+Epoch: 0 Step: 2120 LR: 0.00100 Loss 0.5574, Pretrain Micro AUROC 0.7731 Pretrain Micro AUPRC 0.7432 Pretrain Macro AUROC 0.8037 Pretrain Macro AUPRC 0.8182
+Epoch: 0 Step: 2140 LR: 0.00100 Loss 0.5515, Pretrain Micro AUROC 0.7727 Pretrain Micro AUPRC 0.7425 Pretrain Macro AUROC 0.8195 Pretrain Macro AUPRC 0.8291
+Epoch: 0 Step: 2160 LR: 0.00100 Loss 0.6047, Pretrain Micro AUROC 0.7689 Pretrain Micro AUPRC 0.7335 Pretrain Macro AUROC 0.8348 Pretrain Macro AUPRC 0.8460
+Epoch: 0 Step: 2180 LR: 0.00100 Loss 0.5557, Pretrain Micro AUROC 0.7653 Pretrain Micro AUPRC 0.7380 Pretrain Macro AUROC 0.7642 Pretrain Macro AUPRC 0.7925
+Epoch: 0 Step: 2200 LR: 0.00100 Loss 0.5718, Pretrain Micro AUROC 0.7523 Pretrain Micro AUPRC 0.7190 Pretrain Macro AUROC 0.7627 Pretrain Macro AUPRC 0.8117
+Epoch: 0 Step: 2220 LR: 0.00100 Loss 0.5684, Pretrain Micro AUROC 0.7576 Pretrain Micro AUPRC 0.7289 Pretrain Macro AUROC 0.7445 Pretrain Macro AUPRC 0.7915
+Epoch: 0 Step: 2240 LR: 0.00100 Loss 0.5564, Pretrain Micro AUROC 0.7635 Pretrain Micro AUPRC 0.7330 Pretrain Macro AUROC 0.7996 Pretrain Macro AUPRC 0.8298
+Epoch: 0 Step: 2260 LR: 0.00100 Loss 0.5673, Pretrain Micro AUROC 0.7612 Pretrain Micro AUPRC 0.7347 Pretrain Macro AUROC 0.7536 Pretrain Macro AUPRC 0.8001
+Epoch: 0 Step: 2280 LR: 0.00100 Loss 0.5597, Pretrain Micro AUROC 0.7633 Pretrain Micro AUPRC 0.7378 Pretrain Macro AUROC 0.7707 Pretrain Macro AUPRC 0.8202
+Epoch: 0 Step: 2300 LR: 0.00100 Loss 0.5553, Pretrain Micro AUROC 0.7687 Pretrain Micro AUPRC 0.7336 Pretrain Macro AUROC 0.7636 Pretrain Macro AUPRC 0.8061
+Epoch: 0 Step: 2320 LR: 0.00100 Loss 0.5535, Pretrain Micro AUROC 0.7696 Pretrain Micro AUPRC 0.7424 Pretrain Macro AUROC 0.7165 Pretrain Macro AUPRC 0.7797
+Epoch: 0 Step: 2340 LR: 0.00100 Loss 0.5550, Pretrain Micro AUROC 0.7663 Pretrain Micro AUPRC 0.7462 Pretrain Macro AUROC 0.8226 Pretrain Macro AUPRC 0.8410
+Epoch: 0 Step: 2360 LR: 0.00100 Loss 0.5701, Pretrain Micro AUROC 0.7528 Pretrain Micro AUPRC 0.7199 Pretrain Macro AUROC 0.8012 Pretrain Macro AUPRC 0.8231
+Epoch: 0 Step: 2380 LR: 0.00100 Loss 0.5677, Pretrain Micro AUROC 0.7581 Pretrain Micro AUPRC 0.7161 Pretrain Macro AUROC 0.7180 Pretrain Macro AUPRC 0.7614
+Epoch: 0 Step: 2400 LR: 0.00100 Loss 0.5745, Pretrain Micro AUROC 0.7470 Pretrain Micro AUPRC 0.7082 Pretrain Macro AUROC 0.7469 Pretrain Macro AUPRC 0.7953
+Epoch: 0 Step: 2420 LR: 0.00100 Loss 0.5585, Pretrain Micro AUROC 0.7637 Pretrain Micro AUPRC 0.7239 Pretrain Macro AUROC 0.7679 Pretrain Macro AUPRC 0.7829
+Epoch: 0 Step: 2440 LR: 0.00100 Loss 0.5653, Pretrain Micro AUROC 0.7561 Pretrain Micro AUPRC 0.7181 Pretrain Macro AUROC 0.7464 Pretrain Macro AUPRC 0.7939
+Epoch: 0 Step: 2460 LR: 0.00100 Loss 0.5358, Pretrain Micro AUROC 0.7875 Pretrain Micro AUPRC 0.7594 Pretrain Macro AUROC 0.8279 Pretrain Macro AUPRC 0.8515
+Epoch: 0 Step: 2480 LR: 0.00100 Loss 0.5695, Pretrain Micro AUROC 0.7537 Pretrain Micro AUPRC 0.7210 Pretrain Macro AUROC 0.7319 Pretrain Macro AUPRC 0.7917
+Epoch: 0 Step: 2500 LR: 0.00100 Loss 0.5378, Pretrain Micro AUROC 0.7802 Pretrain Micro AUPRC 0.7517 Pretrain Macro AUROC 0.7406 Pretrain Macro AUPRC 0.7890
+Epoch: 0 Step: 2520 LR: 0.00100 Loss 0.5425, Pretrain Micro AUROC 0.7782 Pretrain Micro AUPRC 0.7566 Pretrain Macro AUROC 0.8334 Pretrain Macro AUPRC 0.8587
+Epoch: 0 Step: 2540 LR: 0.00100 Loss 0.5605, Pretrain Micro AUROC 0.7649 Pretrain Micro AUPRC 0.7315 Pretrain Macro AUROC 0.7949 Pretrain Macro AUPRC 0.8116
+Epoch: 0 Step: 2560 LR: 0.00100 Loss 0.5595, Pretrain Micro AUROC 0.7606 Pretrain Micro AUPRC 0.7332 Pretrain Macro AUROC 0.7676 Pretrain Macro AUPRC 0.8095
+Epoch: 0 Step: 2580 LR: 0.00100 Loss 0.5611, Pretrain Micro AUROC 0.7686 Pretrain Micro AUPRC 0.7414 Pretrain Macro AUROC 0.7707 Pretrain Macro AUPRC 0.7900
+Epoch: 0 Step: 2600 LR: 0.00100 Loss 0.5578, Pretrain Micro AUROC 0.7674 Pretrain Micro AUPRC 0.7253 Pretrain Macro AUROC 0.7429 Pretrain Macro AUPRC 0.7877
+Epoch: 0 Step: 2620 LR: 0.00100 Loss 0.5424, Pretrain Micro AUROC 0.7875 Pretrain Micro AUPRC 0.7567 Pretrain Macro AUROC 0.8177 Pretrain Macro AUPRC 0.8349
+Epoch: 0 Step: 2640 LR: 0.00100 Loss 0.5628, Pretrain Micro AUROC 0.7609 Pretrain Micro AUPRC 0.7325 Pretrain Macro AUROC 0.7297 Pretrain Macro AUPRC 0.8042
+Epoch: 0 Step: 2660 LR: 0.00100 Loss 0.5682, Pretrain Micro AUROC 0.7591 Pretrain Micro AUPRC 0.7288 Pretrain Macro AUROC 0.7880 Pretrain Macro AUPRC 0.8319
+Epoch: 0 Step: 2680 LR: 0.00100 Loss 0.5613, Pretrain Micro AUROC 0.7594 Pretrain Micro AUPRC 0.7351 Pretrain Macro AUROC 0.7926 Pretrain Macro AUPRC 0.8258
+Epoch: 0 Step: 2700 LR: 0.00100 Loss 0.5415, Pretrain Micro AUROC 0.7812 Pretrain Micro AUPRC 0.7472 Pretrain Macro AUROC 0.7940 Pretrain Macro AUPRC 0.8360
+Epoch: 0 Step: 2720 LR: 0.00100 Loss 0.5645, Pretrain Micro AUROC 0.7574 Pretrain Micro AUPRC 0.7296 Pretrain Macro AUROC 0.7883 Pretrain Macro AUPRC 0.8213
+Epoch: 0 Step: 2740 LR: 0.00100 Loss 0.5645, Pretrain Micro AUROC 0.7600 Pretrain Micro AUPRC 0.7318 Pretrain Macro AUROC 0.8047 Pretrain Macro AUPRC 0.8150
+Epoch: 0 Step: 2760 LR: 0.00100 Loss 0.5499, Pretrain Micro AUROC 0.7761 Pretrain Micro AUPRC 0.7488 Pretrain Macro AUROC 0.7585 Pretrain Macro AUPRC 0.8077
+Epoch: 0 Step: 2780 LR: 0.00100 Loss 0.5645, Pretrain Micro AUROC 0.7666 Pretrain Micro AUPRC 0.7385 Pretrain Macro AUROC 0.8438 Pretrain Macro AUPRC 0.8606
+Epoch: 0 Step: 2800 LR: 0.00100 Loss 0.5587, Pretrain Micro AUROC 0.7646 Pretrain Micro AUPRC 0.7236 Pretrain Macro AUROC 0.7637 Pretrain Macro AUPRC 0.8000
+Epoch: 0 Step: 2820 LR: 0.00100 Loss 0.5581, Pretrain Micro AUROC 0.7655 Pretrain Micro AUPRC 0.7316 Pretrain Macro AUROC 0.7535 Pretrain Macro AUPRC 0.7992
+Epoch: 0 Step: 2840 LR: 0.00100 Loss 0.5490, Pretrain Micro AUROC 0.7737 Pretrain Micro AUPRC 0.7388 Pretrain Macro AUROC 0.7423 Pretrain Macro AUPRC 0.7885
+Epoch: 0 Step: 2860 LR: 0.00100 Loss 0.5528, Pretrain Micro AUROC 0.7708 Pretrain Micro AUPRC 0.7442 Pretrain Macro AUROC 0.7849 Pretrain Macro AUPRC 0.8185
+Epoch: 0 Step: 2880 LR: 0.00100 Loss 0.5559, Pretrain Micro AUROC 0.7676 Pretrain Micro AUPRC 0.7392 Pretrain Macro AUROC 0.8056 Pretrain Macro AUPRC 0.8327
+Epoch: 0 Step: 2900 LR: 0.00100 Loss 0.5688, Pretrain Micro AUROC 0.7536 Pretrain Micro AUPRC 0.7354 Pretrain Macro AUROC 0.7353 Pretrain Macro AUPRC 0.7882
+Epoch: 0 Step: 2920 LR: 0.00100 Loss 0.5507, Pretrain Micro AUROC 0.7691 Pretrain Micro AUPRC 0.7366 Pretrain Macro AUROC 0.7876 Pretrain Macro AUPRC 0.8080
+Epoch: 0 Step: 2940 LR: 0.00100 Loss 0.5641, Pretrain Micro AUROC 0.7615 Pretrain Micro AUPRC 0.7353 Pretrain Macro AUROC 0.7088 Pretrain Macro AUPRC 0.7643
+Epoch: 0 Step: 2960 LR: 0.00100 Loss 0.5593, Pretrain Micro AUROC 0.7661 Pretrain Micro AUPRC 0.7282 Pretrain Macro AUROC 0.8179 Pretrain Macro AUPRC 0.8278
+Epoch: 0 Step: 2980 LR: 0.00100 Loss 0.5385, Pretrain Micro AUROC 0.7869 Pretrain Micro AUPRC 0.7585 Pretrain Macro AUROC 0.7869 Pretrain Macro AUPRC 0.8349
+Epoch: 0 Step: 3000 LR: 0.00100 Loss 0.5551, Pretrain Micro AUROC 0.7655 Pretrain Micro AUPRC 0.7367 Pretrain Macro AUROC 0.7655 Pretrain Macro AUPRC 0.8068
+Epoch: 0 Step: 3020 LR: 0.00100 Loss 0.5607, Pretrain Micro AUROC 0.7623 Pretrain Micro AUPRC 0.7283 Pretrain Macro AUROC 0.7175 Pretrain Macro AUPRC 0.7841
+Epoch: 0 Step: 3040 LR: 0.00100 Loss 0.5272, Pretrain Micro AUROC 0.7940 Pretrain Micro AUPRC 0.7709 Pretrain Macro AUROC 0.8048 Pretrain Macro AUPRC 0.8449
+Epoch: 0 Step: 3060 LR: 0.00100 Loss 0.5426, Pretrain Micro AUROC 0.7840 Pretrain Micro AUPRC 0.7548 Pretrain Macro AUROC 0.8427 Pretrain Macro AUPRC 0.8632
+Epoch: 0 Step: 3080 LR: 0.00100 Loss 0.5600, Pretrain Micro AUROC 0.7621 Pretrain Micro AUPRC 0.7324 Pretrain Macro AUROC 0.7535 Pretrain Macro AUPRC 0.8026
+Epoch: 0 Step: 3100 LR: 0.00100 Loss 0.5480, Pretrain Micro AUROC 0.7680 Pretrain Micro AUPRC 0.7430 Pretrain Macro AUROC 0.7795 Pretrain Macro AUPRC 0.8300
+Epoch: 0 Step: 3120 LR: 0.00100 Loss 0.5469, Pretrain Micro AUROC 0.7738 Pretrain Micro AUPRC 0.7445 Pretrain Macro AUROC 0.7013 Pretrain Macro AUPRC 0.7707
+Epoch: 0 Step: 3140 LR: 0.00100 Loss 0.5485, Pretrain Micro AUROC 0.7747 Pretrain Micro AUPRC 0.7326 Pretrain Macro AUROC 0.7605 Pretrain Macro AUPRC 0.8026
+Epoch: 0 Step: 3160 LR: 0.00100 Loss 0.5649, Pretrain Micro AUROC 0.7592 Pretrain Micro AUPRC 0.7227 Pretrain Macro AUROC 0.7887 Pretrain Macro AUPRC 0.8170
+Epoch: 0 Step: 3180 LR: 0.00100 Loss 0.5632, Pretrain Micro AUROC 0.7551 Pretrain Micro AUPRC 0.7138 Pretrain Macro AUROC 0.8206 Pretrain Macro AUPRC 0.8407
+Epoch: 0 Step: 3200 LR: 0.00100 Loss 0.5573, Pretrain Micro AUROC 0.7627 Pretrain Micro AUPRC 0.7408 Pretrain Macro AUROC 0.7937 Pretrain Macro AUPRC 0.8226
+Epoch: 0 Step: 3220 LR: 0.00100 Loss 0.5464, Pretrain Micro AUROC 0.7788 Pretrain Micro AUPRC 0.7511 Pretrain Macro AUROC 0.8442 Pretrain Macro AUPRC 0.8581
+Epoch: 0 Step: 3240 LR: 0.00100 Loss 0.5536, Pretrain Micro AUROC 0.7690 Pretrain Micro AUPRC 0.7483 Pretrain Macro AUROC 0.7735 Pretrain Macro AUPRC 0.8116
+Epoch: 0 Step: 3260 LR: 0.00100 Loss 0.5393, Pretrain Micro AUROC 0.7879 Pretrain Micro AUPRC 0.7632 Pretrain Macro AUROC 0.8100 Pretrain Macro AUPRC 0.8493
+Epoch: 0 Step: 3280 LR: 0.00100 Loss 0.5528, Pretrain Micro AUROC 0.7716 Pretrain Micro AUPRC 0.7404 Pretrain Macro AUROC 0.8187 Pretrain Macro AUPRC 0.8400
+Epoch: 0 Step: 3300 LR: 0.00100 Loss 0.5411, Pretrain Micro AUROC 0.7873 Pretrain Micro AUPRC 0.7592 Pretrain Macro AUROC 0.7495 Pretrain Macro AUPRC 0.8220
+Epoch: 0 Step: 3320 LR: 0.00100 Loss 0.5558, Pretrain Micro AUROC 0.7638 Pretrain Micro AUPRC 0.7349 Pretrain Macro AUROC 0.7544 Pretrain Macro AUPRC 0.8005
+Epoch: 0 Step: 3340 LR: 0.00100 Loss 0.5726, Pretrain Micro AUROC 0.7533 Pretrain Micro AUPRC 0.7121 Pretrain Macro AUROC 0.7414 Pretrain Macro AUPRC 0.7817
+Epoch: 0 Step: 3360 LR: 0.00100 Loss 0.5569, Pretrain Micro AUROC 0.7717 Pretrain Micro AUPRC 0.7356 Pretrain Macro AUROC 0.7848 Pretrain Macro AUPRC 0.8022
+Epoch: 0 Step: 3380 LR: 0.00100 Loss 0.5530, Pretrain Micro AUROC 0.7692 Pretrain Micro AUPRC 0.7298 Pretrain Macro AUROC 0.7712 Pretrain Macro AUPRC 0.8045
+Epoch: 0 Step: 3400 LR: 0.00100 Loss 0.5506, Pretrain Micro AUROC 0.7739 Pretrain Micro AUPRC 0.7404 Pretrain Macro AUROC 0.8251 Pretrain Macro AUPRC 0.8526
+Epoch: 0 Step: 3420 LR: 0.00100 Loss 0.5372, Pretrain Micro AUROC 0.7849 Pretrain Micro AUPRC 0.7593 Pretrain Macro AUROC 0.8078 Pretrain Macro AUPRC 0.8437
+Epoch: 0 Step: 3440 LR: 0.00100 Loss 0.5551, Pretrain Micro AUROC 0.7633 Pretrain Micro AUPRC 0.7356 Pretrain Macro AUROC 0.8298 Pretrain Macro AUPRC 0.8450
+Epoch: 0 Step: 3460 LR: 0.00100 Loss 0.5431, Pretrain Micro AUROC 0.7773 Pretrain Micro AUPRC 0.7481 Pretrain Macro AUROC 0.7694 Pretrain Macro AUPRC 0.8164
+Epoch: 0 Step: 3480 LR: 0.00100 Loss 0.5426, Pretrain Micro AUROC 0.7811 Pretrain Micro AUPRC 0.7425 Pretrain Macro AUROC 0.8527 Pretrain Macro AUPRC 0.8555
+Epoch: 0 Step: 3500 LR: 0.00100 Loss 0.5590, Pretrain Micro AUROC 0.7618 Pretrain Micro AUPRC 0.7252 Pretrain Macro AUROC 0.7628 Pretrain Macro AUPRC 0.7944
+Epoch: 0 Step: 3520 LR: 0.00100 Loss 0.5412, Pretrain Micro AUROC 0.7856 Pretrain Micro AUPRC 0.7721 Pretrain Macro AUROC 0.8279 Pretrain Macro AUPRC 0.8616
+Epoch: 0 Step: 3540 LR: 0.00100 Loss 0.5463, Pretrain Micro AUROC 0.7804 Pretrain Micro AUPRC 0.7503 Pretrain Macro AUROC 0.8350 Pretrain Macro AUPRC 0.8480
+Epoch: 0 Step: 3560 LR: 0.00100 Loss 0.5366, Pretrain Micro AUROC 0.7824 Pretrain Micro AUPRC 0.7537 Pretrain Macro AUROC 0.8256 Pretrain Macro AUPRC 0.8601
+Epoch: 0 Step: 3580 LR: 0.00100 Loss 0.5422, Pretrain Micro AUROC 0.7776 Pretrain Micro AUPRC 0.7529 Pretrain Macro AUROC 0.7763 Pretrain Macro AUPRC 0.7998
+Epoch: 0 Step: 3600 LR: 0.00100 Loss 0.5419, Pretrain Micro AUROC 0.7778 Pretrain Micro AUPRC 0.7551 Pretrain Macro AUROC 0.8152 Pretrain Macro AUPRC 0.8457
+Epoch: 0 Step: 3620 LR: 0.00100 Loss 0.5202, Pretrain Micro AUROC 0.8057 Pretrain Micro AUPRC 0.7835 Pretrain Macro AUROC 0.8363 Pretrain Macro AUPRC 0.8564
+Epoch: 0 Step: 3640 LR: 0.00100 Loss 0.5473, Pretrain Micro AUROC 0.7824 Pretrain Micro AUPRC 0.7432 Pretrain Macro AUROC 0.7757 Pretrain Macro AUPRC 0.8128
+Epoch: 0 Step: 3660 LR: 0.00100 Loss 0.5507, Pretrain Micro AUROC 0.7719 Pretrain Micro AUPRC 0.7380 Pretrain Macro AUROC 0.7332 Pretrain Macro AUPRC 0.7804
+Epoch: 0 Step: 3680 LR: 0.00100 Loss 0.5499, Pretrain Micro AUROC 0.7805 Pretrain Micro AUPRC 0.7518 Pretrain Macro AUROC 0.7551 Pretrain Macro AUPRC 0.8046
+Epoch: 0 Step: 3700 LR: 0.00100 Loss 0.5501, Pretrain Micro AUROC 0.7748 Pretrain Micro AUPRC 0.7461 Pretrain Macro AUROC 0.8376 Pretrain Macro AUPRC 0.8428
+Epoch: 0 Step: 3720 LR: 0.00100 Loss 0.5637, Pretrain Micro AUROC 0.7614 Pretrain Micro AUPRC 0.7266 Pretrain Macro AUROC 0.8090 Pretrain Macro AUPRC 0.8283
+Epoch: 0 Step: 3740 LR: 0.00100 Loss 0.5698, Pretrain Micro AUROC 0.7537 Pretrain Micro AUPRC 0.7103 Pretrain Macro AUROC 0.7386 Pretrain Macro AUPRC 0.7694
+Epoch: 0 Step: 3760 LR: 0.00100 Loss 0.5417, Pretrain Micro AUROC 0.7838 Pretrain Micro AUPRC 0.7524 Pretrain Macro AUROC 0.8144 Pretrain Macro AUPRC 0.8357
+Epoch: 0 Step: 3780 LR: 0.00100 Loss 0.5449, Pretrain Micro AUROC 0.7751 Pretrain Micro AUPRC 0.7378 Pretrain Macro AUROC 0.8172 Pretrain Macro AUPRC 0.8344
+Epoch: 0 Step: 3800 LR: 0.00100 Loss 0.5418, Pretrain Micro AUROC 0.7809 Pretrain Micro AUPRC 0.7498 Pretrain Macro AUROC 0.8016 Pretrain Macro AUPRC 0.8206
+Epoch: 0 Step: 3820 LR: 0.00100 Loss 0.5438, Pretrain Micro AUROC 0.7796 Pretrain Micro AUPRC 0.7603 Pretrain Macro AUROC 0.8651 Pretrain Macro AUPRC 0.8778
+Epoch: 0 Step: 3840 LR: 0.00100 Loss 0.5413, Pretrain Micro AUROC 0.7793 Pretrain Micro AUPRC 0.7450 Pretrain Macro AUROC 0.8102 Pretrain Macro AUPRC 0.8374
+Epoch: 0 Step: 3860 LR: 0.00100 Loss 0.5444, Pretrain Micro AUROC 0.7864 Pretrain Micro AUPRC 0.7528 Pretrain Macro AUROC 0.8057 Pretrain Macro AUPRC 0.8272
+Epoch: 0 Step: 3880 LR: 0.00100 Loss 0.5489, Pretrain Micro AUROC 0.7725 Pretrain Micro AUPRC 0.7337 Pretrain Macro AUROC 0.7052 Pretrain Macro AUPRC 0.7691
+Epoch: 0 Step: 3900 LR: 0.00100 Loss 0.5378, Pretrain Micro AUROC 0.7862 Pretrain Micro AUPRC 0.7612 Pretrain Macro AUROC 0.7890 Pretrain Macro AUPRC 0.8208
+Epoch: 0 Step: 3920 LR: 0.00100 Loss 0.5540, Pretrain Micro AUROC 0.7813 Pretrain Micro AUPRC 0.7450 Pretrain Macro AUROC 0.7417 Pretrain Macro AUPRC 0.7949
+Epoch: 0 Step: 3940 LR: 0.00100 Loss 0.5499, Pretrain Micro AUROC 0.7765 Pretrain Micro AUPRC 0.7508 Pretrain Macro AUROC 0.8367 Pretrain Macro AUPRC 0.8468
+Epoch: 0 Step: 3960 LR: 0.00100 Loss 0.5351, Pretrain Micro AUROC 0.7889 Pretrain Micro AUPRC 0.7598 Pretrain Macro AUROC 0.8221 Pretrain Macro AUPRC 0.8311
+Epoch: 0 Step: 3980 LR: 0.00100 Loss 0.5623, Pretrain Micro AUROC 0.7578 Pretrain Micro AUPRC 0.7304 Pretrain Macro AUROC 0.8270 Pretrain Macro AUPRC 0.8505
+Epoch: 0 Step: 4000 LR: 0.00100 Loss 0.5378, Pretrain Micro AUROC 0.7871 Pretrain Micro AUPRC 0.7425 Pretrain Macro AUROC 0.7844 Pretrain Macro AUPRC 0.8249
+Epoch: 0 Step: 4020 LR: 0.00100 Loss 0.5485, Pretrain Micro AUROC 0.7734 Pretrain Micro AUPRC 0.7384 Pretrain Macro AUROC 0.7610 Pretrain Macro AUPRC 0.7911
+Epoch: 0 Step: 4040 LR: 0.00100 Loss 0.5450, Pretrain Micro AUROC 0.7794 Pretrain Micro AUPRC 0.7456 Pretrain Macro AUROC 0.8063 Pretrain Macro AUPRC 0.8121
+Epoch: 0 Step: 4060 LR: 0.00100 Loss 0.5443, Pretrain Micro AUROC 0.7844 Pretrain Micro AUPRC 0.7595 Pretrain Macro AUROC 0.8279 Pretrain Macro AUPRC 0.8450
+Epoch: 0 Step: 4080 LR: 0.00100 Loss 0.5405, Pretrain Micro AUROC 0.7844 Pretrain Micro AUPRC 0.7554 Pretrain Macro AUROC 0.8645 Pretrain Macro AUPRC 0.8771
+Epoch: 0 Step: 4100 LR: 0.00100 Loss 0.5436, Pretrain Micro AUROC 0.7776 Pretrain Micro AUPRC 0.7568 Pretrain Macro AUROC 0.8205 Pretrain Macro AUPRC 0.8437
+Epoch: 0 Step: 4120 LR: 0.00100 Loss 0.5669, Pretrain Micro AUROC 0.7577 Pretrain Micro AUPRC 0.7245 Pretrain Macro AUROC 0.7517 Pretrain Macro AUPRC 0.8031
+Epoch: 0 Step: 4140 LR: 0.00100 Loss 0.5326, Pretrain Micro AUROC 0.7942 Pretrain Micro AUPRC 0.7655 Pretrain Macro AUROC 0.8587 Pretrain Macro AUPRC 0.8690
+Epoch: 0 Step: 4160 LR: 0.00100 Loss 0.5407, Pretrain Micro AUROC 0.7786 Pretrain Micro AUPRC 0.7522 Pretrain Macro AUROC 0.7875 Pretrain Macro AUPRC 0.8290
+Epoch: 0 Step: 4180 LR: 0.00100 Loss 0.5366, Pretrain Micro AUROC 0.7873 Pretrain Micro AUPRC 0.7551 Pretrain Macro AUROC 0.7908 Pretrain Macro AUPRC 0.8299
+Epoch: 0 Step: 4200 LR: 0.00100 Loss 0.5295, Pretrain Micro AUROC 0.7940 Pretrain Micro AUPRC 0.7623 Pretrain Macro AUROC 0.7839 Pretrain Macro AUPRC 0.8298
+Epoch: 0 Step: 4220 LR: 0.00100 Loss 0.5389, Pretrain Micro AUROC 0.7787 Pretrain Micro AUPRC 0.7542 Pretrain Macro AUROC 0.7956 Pretrain Macro AUPRC 0.8321
+Epoch: 0 Step: 4240 LR: 0.00100 Loss 0.5489, Pretrain Micro AUROC 0.7721 Pretrain Micro AUPRC 0.7453 Pretrain Macro AUROC 0.7875 Pretrain Macro AUPRC 0.8319
+Epoch: 0 Step: 4260 LR: 0.00100 Loss 0.5459, Pretrain Micro AUROC 0.7776 Pretrain Micro AUPRC 0.7490 Pretrain Macro AUROC 0.8022 Pretrain Macro AUPRC 0.8323
+Epoch: 0 Step: 4280 LR: 0.00100 Loss 0.5408, Pretrain Micro AUROC 0.7873 Pretrain Micro AUPRC 0.7491 Pretrain Macro AUROC 0.8077 Pretrain Macro AUPRC 0.8275
+Epoch: 0 Step: 4300 LR: 0.00100 Loss 0.5470, Pretrain Micro AUROC 0.7774 Pretrain Micro AUPRC 0.7408 Pretrain Macro AUROC 0.7479 Pretrain Macro AUPRC 0.7921
+Epoch: 0 Step: 4320 LR: 0.00100 Loss 0.5389, Pretrain Micro AUROC 0.7770 Pretrain Micro AUPRC 0.7394 Pretrain Macro AUROC 0.8121 Pretrain Macro AUPRC 0.8299
+Epoch: 0 Step: 4340 LR: 0.00100 Loss 0.5349, Pretrain Micro AUROC 0.7863 Pretrain Micro AUPRC 0.7617 Pretrain Macro AUROC 0.8180 Pretrain Macro AUPRC 0.8442
+Epoch: 0 Step: 4360 LR: 0.00100 Loss 0.5392, Pretrain Micro AUROC 0.7898 Pretrain Micro AUPRC 0.7620 Pretrain Macro AUROC 0.8515 Pretrain Macro AUPRC 0.8672
+Epoch: 0 Step: 4380 LR: 0.00100 Loss 0.5292, Pretrain Micro AUROC 0.7969 Pretrain Micro AUPRC 0.7732 Pretrain Macro AUROC 0.7919 Pretrain Macro AUPRC 0.8290
+Epoch: 0 Step: 4400 LR: 0.00100 Loss 0.5380, Pretrain Micro AUROC 0.7898 Pretrain Micro AUPRC 0.7617 Pretrain Macro AUROC 0.7874 Pretrain Macro AUPRC 0.8266
+Epoch: 0 Step: 4420 LR: 0.00100 Loss 0.5428, Pretrain Micro AUROC 0.7812 Pretrain Micro AUPRC 0.7564 Pretrain Macro AUROC 0.7603 Pretrain Macro AUPRC 0.8119
+Epoch: 0 Step: 4440 LR: 0.00100 Loss 0.5374, Pretrain Micro AUROC 0.7830 Pretrain Micro AUPRC 0.7533 Pretrain Macro AUROC 0.8282 Pretrain Macro AUPRC 0.8526
+Epoch: 0 Step: 4460 LR: 0.00100 Loss 0.5320, Pretrain Micro AUROC 0.7898 Pretrain Micro AUPRC 0.7538 Pretrain Macro AUROC 0.8685 Pretrain Macro AUPRC 0.8672
+Epoch: 0 Step: 4480 LR: 0.00100 Loss 0.5339, Pretrain Micro AUROC 0.7889 Pretrain Micro AUPRC 0.7562 Pretrain Macro AUROC 0.8534 Pretrain Macro AUPRC 0.8683
+Epoch: 0 Step: 4500 LR: 0.00100 Loss 0.5569, Pretrain Micro AUROC 0.7694 Pretrain Micro AUPRC 0.7323 Pretrain Macro AUROC 0.8042 Pretrain Macro AUPRC 0.8225
+Epoch: 0 Step: 4520 LR: 0.00100 Loss 0.5411, Pretrain Micro AUROC 0.7899 Pretrain Micro AUPRC 0.7650 Pretrain Macro AUROC 0.8256 Pretrain Macro AUPRC 0.8488
+Epoch: 0 Step: 4540 LR: 0.00100 Loss 0.5283, Pretrain Micro AUROC 0.7995 Pretrain Micro AUPRC 0.7662 Pretrain Macro AUROC 0.8475 Pretrain Macro AUPRC 0.8647
+Epoch: 0 Step: 4560 LR: 0.00100 Loss 0.5293, Pretrain Micro AUROC 0.7925 Pretrain Micro AUPRC 0.7616 Pretrain Macro AUROC 0.8170 Pretrain Macro AUPRC 0.8434
+Epoch: 0 Step: 4580 LR: 0.00100 Loss 0.5297, Pretrain Micro AUROC 0.7979 Pretrain Micro AUPRC 0.7738 Pretrain Macro AUROC 0.7467 Pretrain Macro AUPRC 0.7930
+Epoch: 0 Step: 4600 LR: 0.00100 Loss 0.5495, Pretrain Micro AUROC 0.7752 Pretrain Micro AUPRC 0.7436 Pretrain Macro AUROC 0.7541 Pretrain Macro AUPRC 0.7972
+Epoch: 0 Step: 4620 LR: 0.00100 Loss 0.5304, Pretrain Micro AUROC 0.7879 Pretrain Micro AUPRC 0.7572 Pretrain Macro AUROC 0.8243 Pretrain Macro AUPRC 0.8409
+Epoch: 0 Step: 4640 LR: 0.00100 Loss 0.5361, Pretrain Micro AUROC 0.7889 Pretrain Micro AUPRC 0.7624 Pretrain Macro AUROC 0.7920 Pretrain Macro AUPRC 0.8238
+Epoch: 0 Step: 4660 LR: 0.00100 Loss 0.5287, Pretrain Micro AUROC 0.7950 Pretrain Micro AUPRC 0.7671 Pretrain Macro AUROC 0.8328 Pretrain Macro AUPRC 0.8448
+Epoch: 0 Step: 4680 LR: 0.00100 Loss 0.5210, Pretrain Micro AUROC 0.8055 Pretrain Micro AUPRC 0.7751 Pretrain Macro AUROC 0.8213 Pretrain Macro AUPRC 0.8350
+Epoch: 0 Step: 4700 LR: 0.00100 Loss 0.5417, Pretrain Micro AUROC 0.7778 Pretrain Micro AUPRC 0.7448 Pretrain Macro AUROC 0.7850 Pretrain Macro AUPRC 0.7982
+Epoch: 0 Step: 4720 LR: 0.00100 Loss 0.5443, Pretrain Micro AUROC 0.7787 Pretrain Micro AUPRC 0.7469 Pretrain Macro AUROC 0.7621 Pretrain Macro AUPRC 0.8187
+Epoch: 0 Step: 4740 LR: 0.00100 Loss 0.5204, Pretrain Micro AUROC 0.7992 Pretrain Micro AUPRC 0.7738 Pretrain Macro AUROC 0.8470 Pretrain Macro AUPRC 0.8651
+Epoch: 0 Step: 4760 LR: 0.00100 Loss 0.5420, Pretrain Micro AUROC 0.7854 Pretrain Micro AUPRC 0.7477 Pretrain Macro AUROC 0.8329 Pretrain Macro AUPRC 0.8447
+Epoch: 0 Step: 4780 LR: 0.00100 Loss 0.5345, Pretrain Micro AUROC 0.7851 Pretrain Micro AUPRC 0.7580 Pretrain Macro AUROC 0.7674 Pretrain Macro AUPRC 0.8172
+Epoch: 0 Step: 4800 LR: 0.00100 Loss 0.5492, Pretrain Micro AUROC 0.7719 Pretrain Micro AUPRC 0.7418 Pretrain Macro AUROC 0.8317 Pretrain Macro AUPRC 0.8536
+Epoch: 0 Step: 4820 LR: 0.00100 Loss 0.5244, Pretrain Micro AUROC 0.7996 Pretrain Micro AUPRC 0.7720 Pretrain Macro AUROC 0.8792 Pretrain Macro AUPRC 0.8822
+Epoch: 0 Step: 4840 LR: 0.00100 Loss 0.5405, Pretrain Micro AUROC 0.7883 Pretrain Micro AUPRC 0.7556 Pretrain Macro AUROC 0.8512 Pretrain Macro AUPRC 0.8536
+Epoch: 0 Step: 4860 LR: 0.00100 Loss 0.5265, Pretrain Micro AUROC 0.7926 Pretrain Micro AUPRC 0.7650 Pretrain Macro AUROC 0.7944 Pretrain Macro AUPRC 0.8400
+Epoch: 0 Step: 4880 LR: 0.00100 Loss 0.5321, Pretrain Micro AUROC 0.7898 Pretrain Micro AUPRC 0.7698 Pretrain Macro AUROC 0.7558 Pretrain Macro AUPRC 0.8184
+Epoch: 0 Step: 4900 LR: 0.00100 Loss 0.5242, Pretrain Micro AUROC 0.8017 Pretrain Micro AUPRC 0.7676 Pretrain Macro AUROC 0.7843 Pretrain Macro AUPRC 0.8320
+Epoch: 0 Step: 4920 LR: 0.00100 Loss 0.5490, Pretrain Micro AUROC 0.7745 Pretrain Micro AUPRC 0.7375 Pretrain Macro AUROC 0.8612 Pretrain Macro AUPRC 0.8547
+Epoch: 0 Step: 4940 LR: 0.00100 Loss 0.5275, Pretrain Micro AUROC 0.7958 Pretrain Micro AUPRC 0.7657 Pretrain Macro AUROC 0.8005 Pretrain Macro AUPRC 0.8236
+Epoch: 0 Step: 4960 LR: 0.00100 Loss 0.5469, Pretrain Micro AUROC 0.7775 Pretrain Micro AUPRC 0.7454 Pretrain Macro AUROC 0.7453 Pretrain Macro AUPRC 0.8198
+Epoch: 0 Step: 4980 LR: 0.00100 Loss 0.5403, Pretrain Micro AUROC 0.7897 Pretrain Micro AUPRC 0.7578 Pretrain Macro AUROC 0.8260 Pretrain Macro AUPRC 0.8514
+Epoch: 0 Step: 5000 LR: 0.00100 Loss 0.5274, Pretrain Micro AUROC 0.7972 Pretrain Micro AUPRC 0.7725 Pretrain Macro AUROC 0.9020 Pretrain Macro AUPRC 0.9020
+Epoch: 0 Step: 5020 LR: 0.00100 Loss 0.5252, Pretrain Micro AUROC 0.7993 Pretrain Micro AUPRC 0.7647 Pretrain Macro AUROC 0.8602 Pretrain Macro AUPRC 0.8621
+Epoch: 0 Step: 5040 LR: 0.00100 Loss 0.5439, Pretrain Micro AUROC 0.7855 Pretrain Micro AUPRC 0.7495 Pretrain Macro AUROC 0.7989 Pretrain Macro AUPRC 0.8280
+Epoch: 0 Step: 5060 LR: 0.00100 Loss 0.5455, Pretrain Micro AUROC 0.7719 Pretrain Micro AUPRC 0.7467 Pretrain Macro AUROC 0.7793 Pretrain Macro AUPRC 0.8144
+Epoch: 0 Step: 5080 LR: 0.00100 Loss 0.5485, Pretrain Micro AUROC 0.7743 Pretrain Micro AUPRC 0.7524 Pretrain Macro AUROC 0.8476 Pretrain Macro AUPRC 0.8594
+Epoch: 0 Step: 5100 LR: 0.00100 Loss 0.5264, Pretrain Micro AUROC 0.7993 Pretrain Micro AUPRC 0.7631 Pretrain Macro AUROC 0.8335 Pretrain Macro AUPRC 0.8487
+Epoch: 0 Step: 5120 LR: 0.00100 Loss 0.5385, Pretrain Micro AUROC 0.7867 Pretrain Micro AUPRC 0.7524 Pretrain Macro AUROC 0.8362 Pretrain Macro AUPRC 0.8465
+Epoch: 0 Step: 5140 LR: 0.00100 Loss 0.5343, Pretrain Micro AUROC 0.7869 Pretrain Micro AUPRC 0.7614 Pretrain Macro AUROC 0.7910 Pretrain Macro AUPRC 0.8418
+Epoch: 0 Step: 5160 LR: 0.00100 Loss 0.5465, Pretrain Micro AUROC 0.7773 Pretrain Micro AUPRC 0.7503 Pretrain Macro AUROC 0.8324 Pretrain Macro AUPRC 0.8612
+Epoch: 0 Step: 5180 LR: 0.00100 Loss 0.5315, Pretrain Micro AUROC 0.7895 Pretrain Micro AUPRC 0.7661 Pretrain Macro AUROC 0.8041 Pretrain Macro AUPRC 0.8488
+Epoch: 0 Step: 5200 LR: 0.00100 Loss 0.5483, Pretrain Micro AUROC 0.7746 Pretrain Micro AUPRC 0.7542 Pretrain Macro AUROC 0.8341 Pretrain Macro AUPRC 0.8406
+Epoch: 0 Step: 5220 LR: 0.00100 Loss 0.5309, Pretrain Micro AUROC 0.7895 Pretrain Micro AUPRC 0.7647 Pretrain Macro AUROC 0.8177 Pretrain Macro AUPRC 0.8454
+Epoch: 0 Step: 5240 LR: 0.00100 Loss 0.5282, Pretrain Micro AUROC 0.7923 Pretrain Micro AUPRC 0.7624 Pretrain Macro AUROC 0.7911 Pretrain Macro AUPRC 0.8234
+Epoch: 0 Step: 5260 LR: 0.00100 Loss 0.5394, Pretrain Micro AUROC 0.7812 Pretrain Micro AUPRC 0.7616 Pretrain Macro AUROC 0.7979 Pretrain Macro AUPRC 0.8466
+Epoch: 0 Step: 5280 LR: 0.00100 Loss 0.5215, Pretrain Micro AUROC 0.8014 Pretrain Micro AUPRC 0.7712 Pretrain Macro AUROC 0.7910 Pretrain Macro AUPRC 0.8370
+Epoch: 0 Step: 5300 LR: 0.00100 Loss 0.5292, Pretrain Micro AUROC 0.7933 Pretrain Micro AUPRC 0.7595 Pretrain Macro AUROC 0.8002 Pretrain Macro AUPRC 0.8317
+Epoch: 0 Step: 5320 LR: 0.00100 Loss 0.5490, Pretrain Micro AUROC 0.7813 Pretrain Micro AUPRC 0.7443 Pretrain Macro AUROC 0.8360 Pretrain Macro AUPRC 0.8545
+Epoch: 0 Step: 5340 LR: 0.00100 Loss 0.5175, Pretrain Micro AUROC 0.8012 Pretrain Micro AUPRC 0.7719 Pretrain Macro AUROC 0.8479 Pretrain Macro AUPRC 0.8687
+Epoch: 0 Step: 5360 LR: 0.00100 Loss 0.5327, Pretrain Micro AUROC 0.7915 Pretrain Micro AUPRC 0.7682 Pretrain Macro AUROC 0.8015 Pretrain Macro AUPRC 0.8444
+Epoch: 0 Step: 5380 LR: 0.00100 Loss 0.5418, Pretrain Micro AUROC 0.7792 Pretrain Micro AUPRC 0.7554 Pretrain Macro AUROC 0.8453 Pretrain Macro AUPRC 0.8545
+Epoch: 0 Step: 5400 LR: 0.00100 Loss 0.5259, Pretrain Micro AUROC 0.7960 Pretrain Micro AUPRC 0.7668 Pretrain Macro AUROC 0.8289 Pretrain Macro AUPRC 0.8417
+Epoch: 0 Step: 5420 LR: 0.00100 Loss 0.5409, Pretrain Micro AUROC 0.7804 Pretrain Micro AUPRC 0.7461 Pretrain Macro AUROC 0.7989 Pretrain Macro AUPRC 0.8160
+Epoch: 0 Step: 5440 LR: 0.00100 Loss 0.5419, Pretrain Micro AUROC 0.7862 Pretrain Micro AUPRC 0.7544 Pretrain Macro AUROC 0.7735 Pretrain Macro AUPRC 0.8292
+Epoch: 0 Step: 5460 LR: 0.00100 Loss 0.5315, Pretrain Micro AUROC 0.7875 Pretrain Micro AUPRC 0.7499 Pretrain Macro AUROC 0.8334 Pretrain Macro AUPRC 0.8362
+Epoch: 0 Step: 5480 LR: 0.00100 Loss 0.5449, Pretrain Micro AUROC 0.7697 Pretrain Micro AUPRC 0.7484 Pretrain Macro AUROC 0.8099 Pretrain Macro AUPRC 0.8444
+Epoch: 0 Step: 5500 LR: 0.00100 Loss 0.5300, Pretrain Micro AUROC 0.7914 Pretrain Micro AUPRC 0.7602 Pretrain Macro AUROC 0.7840 Pretrain Macro AUPRC 0.8059
+Epoch: 0 Step: 5520 LR: 0.00100 Loss 0.5276, Pretrain Micro AUROC 0.7997 Pretrain Micro AUPRC 0.7629 Pretrain Macro AUROC 0.8459 Pretrain Macro AUPRC 0.8655
+Epoch: 0 Step: 5540 LR: 0.00100 Loss 0.5323, Pretrain Micro AUROC 0.7911 Pretrain Micro AUPRC 0.7577 Pretrain Macro AUROC 0.8920 Pretrain Macro AUPRC 0.8904
+Epoch: 0 Step: 5560 LR: 0.00100 Loss 0.5440, Pretrain Micro AUROC 0.7785 Pretrain Micro AUPRC 0.7546 Pretrain Macro AUROC 0.8534 Pretrain Macro AUPRC 0.8601
+Epoch: 0 Step: 5580 LR: 0.00100 Loss 0.5412, Pretrain Micro AUROC 0.7801 Pretrain Micro AUPRC 0.7560 Pretrain Macro AUROC 0.8316 Pretrain Macro AUPRC 0.8440
+Epoch: 0 Step: 5600 LR: 0.00100 Loss 0.5204, Pretrain Micro AUROC 0.8030 Pretrain Micro AUPRC 0.7683 Pretrain Macro AUROC 0.8354 Pretrain Macro AUPRC 0.8487
+Epoch: 0 Step: 5620 LR: 0.00100 Loss 0.5266, Pretrain Micro AUROC 0.7956 Pretrain Micro AUPRC 0.7598 Pretrain Macro AUROC 0.8365 Pretrain Macro AUPRC 0.8471
+Epoch: 0 Step: 5640 LR: 0.00100 Loss 0.5300, Pretrain Micro AUROC 0.7927 Pretrain Micro AUPRC 0.7692 Pretrain Macro AUROC 0.7969 Pretrain Macro AUPRC 0.8448
+Epoch: 0 Step: 5660 LR: 0.00100 Loss 0.5428, Pretrain Micro AUROC 0.7821 Pretrain Micro AUPRC 0.7538 Pretrain Macro AUROC 0.8182 Pretrain Macro AUPRC 0.8386
+Epoch: 0 Step: 5680 LR: 0.00100 Loss 0.5482, Pretrain Micro AUROC 0.7758 Pretrain Micro AUPRC 0.7399 Pretrain Macro AUROC 0.7394 Pretrain Macro AUPRC 0.8093
+Epoch: 0 Step: 5700 LR: 0.00100 Loss 0.5251, Pretrain Micro AUROC 0.7956 Pretrain Micro AUPRC 0.7661 Pretrain Macro AUROC 0.8012 Pretrain Macro AUPRC 0.8364
+Epoch: 0 Step: 5720 LR: 0.00100 Loss 0.5333, Pretrain Micro AUROC 0.7897 Pretrain Micro AUPRC 0.7578 Pretrain Macro AUROC 0.8456 Pretrain Macro AUPRC 0.8555
+Epoch: 0 Step: 5740 LR: 0.00100 Loss 0.5357, Pretrain Micro AUROC 0.7839 Pretrain Micro AUPRC 0.7506 Pretrain Macro AUROC 0.8376 Pretrain Macro AUPRC 0.8521
+Epoch: 0 Step: 5760 LR: 0.00100 Loss 0.5216, Pretrain Micro AUROC 0.8056 Pretrain Micro AUPRC 0.7737 Pretrain Macro AUROC 0.8545 Pretrain Macro AUPRC 0.8596
+Epoch: 0 Step: 5780 LR: 0.00100 Loss 0.5364, Pretrain Micro AUROC 0.7877 Pretrain Micro AUPRC 0.7622 Pretrain Macro AUROC 0.8589 Pretrain Macro AUPRC 0.8664
+Epoch: 0 Step: 5800 LR: 0.00100 Loss 0.5405, Pretrain Micro AUROC 0.7866 Pretrain Micro AUPRC 0.7543 Pretrain Macro AUROC 0.8364 Pretrain Macro AUPRC 0.8641
+Epoch: 0 Step: 5820 LR: 0.00100 Loss 0.5330, Pretrain Micro AUROC 0.7922 Pretrain Micro AUPRC 0.7490 Pretrain Macro AUROC 0.8406 Pretrain Macro AUPRC 0.8462
+Epoch: 0 Step: 5840 LR: 0.00100 Loss 0.5299, Pretrain Micro AUROC 0.7937 Pretrain Micro AUPRC 0.7611 Pretrain Macro AUROC 0.8368 Pretrain Macro AUPRC 0.8712
+Epoch: 0 Step: 5860 LR: 0.00100 Loss 0.5232, Pretrain Micro AUROC 0.7968 Pretrain Micro AUPRC 0.7763 Pretrain Macro AUROC 0.7989 Pretrain Macro AUPRC 0.8386
+Epoch: 0 Step: 5880 LR: 0.00100 Loss 0.5440, Pretrain Micro AUROC 0.7751 Pretrain Micro AUPRC 0.7577 Pretrain Macro AUROC 0.7902 Pretrain Macro AUPRC 0.8304
+Epoch: 0 Step: 5900 LR: 0.00100 Loss 0.5429, Pretrain Micro AUROC 0.7750 Pretrain Micro AUPRC 0.7466 Pretrain Macro AUROC 0.8025 Pretrain Macro AUPRC 0.8278
+Epoch: 0 Step: 5920 LR: 0.00100 Loss 0.5310, Pretrain Micro AUROC 0.7922 Pretrain Micro AUPRC 0.7650 Pretrain Macro AUROC 0.8017 Pretrain Macro AUPRC 0.8261
+Epoch: 0 Step: 5940 LR: 0.00100 Loss 0.5239, Pretrain Micro AUROC 0.7964 Pretrain Micro AUPRC 0.7682 Pretrain Macro AUROC 0.8929 Pretrain Macro AUPRC 0.8867
+Epoch: 0 Step: 5960 LR: 0.00100 Loss 0.5293, Pretrain Micro AUROC 0.7952 Pretrain Micro AUPRC 0.7587 Pretrain Macro AUROC 0.8615 Pretrain Macro AUPRC 0.8667
+Epoch: 0 Step: 5980 LR: 0.00100 Loss 0.5398, Pretrain Micro AUROC 0.7865 Pretrain Micro AUPRC 0.7476 Pretrain Macro AUROC 0.8393 Pretrain Macro AUPRC 0.8552
+Epoch: 0 Step: 6000 LR: 0.00100 Loss 0.5398, Pretrain Micro AUROC 0.7789 Pretrain Micro AUPRC 0.7507 Pretrain Macro AUROC 0.8179 Pretrain Macro AUPRC 0.8356
+Epoch: 0 Step: 6020 LR: 0.00100 Loss 0.5306, Pretrain Micro AUROC 0.7927 Pretrain Micro AUPRC 0.7664 Pretrain Macro AUROC 0.7771 Pretrain Macro AUPRC 0.8207
+Epoch: 0 Step: 6040 LR: 0.00100 Loss 0.5241, Pretrain Micro AUROC 0.7975 Pretrain Micro AUPRC 0.7710 Pretrain Macro AUROC 0.8561 Pretrain Macro AUPRC 0.8629
+Epoch: 0 Step: 6060 LR: 0.00100 Loss 0.5404, Pretrain Micro AUROC 0.7863 Pretrain Micro AUPRC 0.7454 Pretrain Macro AUROC 0.8363 Pretrain Macro AUPRC 0.8493
+Epoch: 0 Step: 6080 LR: 0.00100 Loss 0.5423, Pretrain Micro AUROC 0.7865 Pretrain Micro AUPRC 0.7501 Pretrain Macro AUROC 0.7370 Pretrain Macro AUPRC 0.8025
+Epoch: 0 Step: 6100 LR: 0.00100 Loss 0.5461, Pretrain Micro AUROC 0.7749 Pretrain Micro AUPRC 0.7505 Pretrain Macro AUROC 0.8096 Pretrain Macro AUPRC 0.8435
+Epoch: 0 Step: 6120 LR: 0.00100 Loss 0.5372, Pretrain Micro AUROC 0.7772 Pretrain Micro AUPRC 0.7468 Pretrain Macro AUROC 0.7896 Pretrain Macro AUPRC 0.8177
+Epoch: 0 Step: 6140 LR: 0.00100 Loss 0.5476, Pretrain Micro AUROC 0.7784 Pretrain Micro AUPRC 0.7464 Pretrain Macro AUROC 0.8162 Pretrain Macro AUPRC 0.8338
+Epoch: 0 Step: 6160 LR: 0.00100 Loss 0.5240, Pretrain Micro AUROC 0.7955 Pretrain Micro AUPRC 0.7756 Pretrain Macro AUROC 0.8061 Pretrain Macro AUPRC 0.8446
+Epoch: 0 Step: 6180 LR: 0.00100 Loss 0.5397, Pretrain Micro AUROC 0.7788 Pretrain Micro AUPRC 0.7508 Pretrain Macro AUROC 0.8202 Pretrain Macro AUPRC 0.8403
+Epoch: 0 Step: 6200 LR: 0.00100 Loss 0.5200, Pretrain Micro AUROC 0.8034 Pretrain Micro AUPRC 0.7770 Pretrain Macro AUROC 0.8205 Pretrain Macro AUPRC 0.8290
+Epoch: 0 Step: 6220 LR: 0.00100 Loss 0.5190, Pretrain Micro AUROC 0.8105 Pretrain Micro AUPRC 0.7747 Pretrain Macro AUROC 0.8672 Pretrain Macro AUPRC 0.8818
+Epoch: 0 Step: 6240 LR: 0.00100 Loss 0.5372, Pretrain Micro AUROC 0.7853 Pretrain Micro AUPRC 0.7514 Pretrain Macro AUROC 0.8406 Pretrain Macro AUPRC 0.8515
+Epoch: 0 Step: 6260 LR: 0.00100 Loss 0.5388, Pretrain Micro AUROC 0.7866 Pretrain Micro AUPRC 0.7474 Pretrain Macro AUROC 0.8556 Pretrain Macro AUPRC 0.8664
+Epoch: 0 Step: 6280 LR: 0.00100 Loss 0.5249, Pretrain Micro AUROC 0.8005 Pretrain Micro AUPRC 0.7663 Pretrain Macro AUROC 0.8833 Pretrain Macro AUPRC 0.8854
+Epoch: 0 Step: 6300 LR: 0.00100 Loss 0.5208, Pretrain Micro AUROC 0.8041 Pretrain Micro AUPRC 0.7769 Pretrain Macro AUROC 0.7983 Pretrain Macro AUPRC 0.8407
+Epoch: 0 Step: 6320 LR: 0.00100 Loss 0.5470, Pretrain Micro AUROC 0.7717 Pretrain Micro AUPRC 0.7419 Pretrain Macro AUROC 0.8172 Pretrain Macro AUPRC 0.8494
+Epoch: 0 Step: 6340 LR: 0.00100 Loss 0.5213, Pretrain Micro AUROC 0.7985 Pretrain Micro AUPRC 0.7604 Pretrain Macro AUROC 0.8736 Pretrain Macro AUPRC 0.8745
+Epoch: 0 Step: 6360 LR: 0.00100 Loss 0.5154, Pretrain Micro AUROC 0.8130 Pretrain Micro AUPRC 0.7892 Pretrain Macro AUROC 0.7939 Pretrain Macro AUPRC 0.8285
+Epoch: 0 Step: 6380 LR: 0.00100 Loss 0.5109, Pretrain Micro AUROC 0.8139 Pretrain Micro AUPRC 0.7831 Pretrain Macro AUROC 0.8252 Pretrain Macro AUPRC 0.8434
+Epoch: 0 Step: 6400 LR: 0.00100 Loss 0.5399, Pretrain Micro AUROC 0.7889 Pretrain Micro AUPRC 0.7576 Pretrain Macro AUROC 0.8342 Pretrain Macro AUPRC 0.8413
+Epoch: 0 Step: 6420 LR: 0.00100 Loss 0.5280, Pretrain Micro AUROC 0.7898 Pretrain Micro AUPRC 0.7594 Pretrain Macro AUROC 0.8164 Pretrain Macro AUPRC 0.8589
+Epoch: 0 Step: 6440 LR: 0.00100 Loss 0.5443, Pretrain Micro AUROC 0.7844 Pretrain Micro AUPRC 0.7556 Pretrain Macro AUROC 0.8205 Pretrain Macro AUPRC 0.8406
+Epoch: 0 Step: 6460 LR: 0.00100 Loss 0.5205, Pretrain Micro AUROC 0.8039 Pretrain Micro AUPRC 0.7818 Pretrain Macro AUROC 0.8481 Pretrain Macro AUPRC 0.8758
+Epoch: 0 Step: 6480 LR: 0.00100 Loss 0.5145, Pretrain Micro AUROC 0.8081 Pretrain Micro AUPRC 0.7783 Pretrain Macro AUROC 0.8637 Pretrain Macro AUPRC 0.8706
+Epoch: 0 Step: 6500 LR: 0.00100 Loss 0.5324, Pretrain Micro AUROC 0.7915 Pretrain Micro AUPRC 0.7655 Pretrain Macro AUROC 0.8605 Pretrain Macro AUPRC 0.8660
+Epoch: 0 Step: 6520 LR: 0.00100 Loss 0.5390, Pretrain Micro AUROC 0.7897 Pretrain Micro AUPRC 0.7608 Pretrain Macro AUROC 0.8196 Pretrain Macro AUPRC 0.8422
+Epoch: 0 Step: 6540 LR: 0.00100 Loss 0.5400, Pretrain Micro AUROC 0.7826 Pretrain Micro AUPRC 0.7565 Pretrain Macro AUROC 0.8306 Pretrain Macro AUPRC 0.8579
+Epoch: 0 Step: 6560 LR: 0.00100 Loss 0.5286, Pretrain Micro AUROC 0.7965 Pretrain Micro AUPRC 0.7636 Pretrain Macro AUROC 0.8153 Pretrain Macro AUPRC 0.8364
+Epoch: 1 Step: 0 LR: 0.00100 Loss 0.5270, Pretrain Micro AUROC 0.7978 Pretrain Micro AUPRC 0.7686 Pretrain Macro AUROC 0.7830 Pretrain Macro AUPRC 0.8160
+Epoch: 1 Step: 20 LR: 0.00100 Loss 0.5443, Pretrain Micro AUROC 0.7743 Pretrain Micro AUPRC 0.7437 Pretrain Macro AUROC 0.8016 Pretrain Macro AUPRC 0.8367
+Epoch: 1 Step: 40 LR: 0.00100 Loss 0.5222, Pretrain Micro AUROC 0.8039 Pretrain Micro AUPRC 0.7706 Pretrain Macro AUROC 0.8214 Pretrain Macro AUPRC 0.8613
+Epoch: 1 Step: 60 LR: 0.00100 Loss 0.5087, Pretrain Micro AUROC 0.8141 Pretrain Micro AUPRC 0.7871 Pretrain Macro AUROC 0.8123 Pretrain Macro AUPRC 0.8467
+Epoch: 1 Step: 80 LR: 0.00100 Loss 0.5266, Pretrain Micro AUROC 0.7962 Pretrain Micro AUPRC 0.7719 Pretrain Macro AUROC 0.8313 Pretrain Macro AUPRC 0.8505
+Epoch: 1 Step: 100 LR: 0.00100 Loss 0.5287, Pretrain Micro AUROC 0.7962 Pretrain Micro AUPRC 0.7682 Pretrain Macro AUROC 0.8459 Pretrain Macro AUPRC 0.8752
+Epoch: 1 Step: 120 LR: 0.00100 Loss 0.5357, Pretrain Micro AUROC 0.7915 Pretrain Micro AUPRC 0.7522 Pretrain Macro AUROC 0.8520 Pretrain Macro AUPRC 0.8506
+Epoch: 1 Step: 140 LR: 0.00100 Loss 0.5309, Pretrain Micro AUROC 0.7900 Pretrain Micro AUPRC 0.7515 Pretrain Macro AUROC 0.8097 Pretrain Macro AUPRC 0.8373
+Epoch: 1 Step: 160 LR: 0.00100 Loss 0.5504, Pretrain Micro AUROC 0.7690 Pretrain Micro AUPRC 0.7407 Pretrain Macro AUROC 0.7859 Pretrain Macro AUPRC 0.8260
+Epoch: 1 Step: 180 LR: 0.00100 Loss 0.5298, Pretrain Micro AUROC 0.7954 Pretrain Micro AUPRC 0.7533 Pretrain Macro AUROC 0.8412 Pretrain Macro AUPRC 0.8526
+Epoch: 1 Step: 200 LR: 0.00100 Loss 0.5428, Pretrain Micro AUROC 0.7813 Pretrain Micro AUPRC 0.7471 Pretrain Macro AUROC 0.8476 Pretrain Macro AUPRC 0.8708
+Epoch: 1 Step: 220 LR: 0.00100 Loss 0.5369, Pretrain Micro AUROC 0.7842 Pretrain Micro AUPRC 0.7515 Pretrain Macro AUROC 0.8467 Pretrain Macro AUPRC 0.8672
+Epoch: 1 Step: 240 LR: 0.00100 Loss 0.5166, Pretrain Micro AUROC 0.8005 Pretrain Micro AUPRC 0.7757 Pretrain Macro AUROC 0.8326 Pretrain Macro AUPRC 0.8492
+Epoch: 1 Step: 260 LR: 0.00100 Loss 0.5325, Pretrain Micro AUROC 0.7947 Pretrain Micro AUPRC 0.7614 Pretrain Macro AUROC 0.8512 Pretrain Macro AUPRC 0.8517
+Epoch: 1 Step: 280 LR: 0.00100 Loss 0.5325, Pretrain Micro AUROC 0.7904 Pretrain Micro AUPRC 0.7628 Pretrain Macro AUROC 0.8086 Pretrain Macro AUPRC 0.8339
+Epoch: 1 Step: 300 LR: 0.00100 Loss 0.5334, Pretrain Micro AUROC 0.7920 Pretrain Micro AUPRC 0.7713 Pretrain Macro AUROC 0.8401 Pretrain Macro AUPRC 0.8593
+Epoch: 1 Step: 320 LR: 0.00100 Loss 0.5320, Pretrain Micro AUROC 0.7881 Pretrain Micro AUPRC 0.7521 Pretrain Macro AUROC 0.8056 Pretrain Macro AUPRC 0.8284
+Epoch: 1 Step: 340 LR: 0.00100 Loss 0.5257, Pretrain Micro AUROC 0.8045 Pretrain Micro AUPRC 0.7761 Pretrain Macro AUROC 0.8115 Pretrain Macro AUPRC 0.8351
+Epoch: 1 Step: 360 LR: 0.00100 Loss 0.5312, Pretrain Micro AUROC 0.7905 Pretrain Micro AUPRC 0.7422 Pretrain Macro AUROC 0.7697 Pretrain Macro AUPRC 0.8044
+Epoch: 1 Step: 380 LR: 0.00100 Loss 0.5211, Pretrain Micro AUROC 0.8040 Pretrain Micro AUPRC 0.7761 Pretrain Macro AUROC 0.8481 Pretrain Macro AUPRC 0.8590
+Epoch: 1 Step: 400 LR: 0.00100 Loss 0.5199, Pretrain Micro AUROC 0.7945 Pretrain Micro AUPRC 0.7603 Pretrain Macro AUROC 0.8229 Pretrain Macro AUPRC 0.8418
+Epoch: 1 Step: 420 LR: 0.00100 Loss 0.5190, Pretrain Micro AUROC 0.8010 Pretrain Micro AUPRC 0.7691 Pretrain Macro AUROC 0.8590 Pretrain Macro AUPRC 0.8739
+Epoch: 1 Step: 440 LR: 0.00100 Loss 0.5134, Pretrain Micro AUROC 0.8081 Pretrain Micro AUPRC 0.7816 Pretrain Macro AUROC 0.8268 Pretrain Macro AUPRC 0.8495
+Epoch: 1 Step: 460 LR: 0.00100 Loss 0.5316, Pretrain Micro AUROC 0.7916 Pretrain Micro AUPRC 0.7551 Pretrain Macro AUROC 0.8260 Pretrain Macro AUPRC 0.8430
+Epoch: 1 Step: 480 LR: 0.00100 Loss 0.5327, Pretrain Micro AUROC 0.7905 Pretrain Micro AUPRC 0.7568 Pretrain Macro AUROC 0.8275 Pretrain Macro AUPRC 0.8367
+Epoch: 1 Step: 500 LR: 0.00100 Loss 0.5319, Pretrain Micro AUROC 0.7916 Pretrain Micro AUPRC 0.7597 Pretrain Macro AUROC 0.8438 Pretrain Macro AUPRC 0.8513
+Epoch: 1 Step: 520 LR: 0.00100 Loss 0.5445, Pretrain Micro AUROC 0.7829 Pretrain Micro AUPRC 0.7510 Pretrain Macro AUROC 0.7833 Pretrain Macro AUPRC 0.8077
+Epoch: 1 Step: 540 LR: 0.00100 Loss 0.5257, Pretrain Micro AUROC 0.8041 Pretrain Micro AUPRC 0.7825 Pretrain Macro AUROC 0.8850 Pretrain Macro AUPRC 0.8928
+Epoch: 1 Step: 560 LR: 0.00100 Loss 0.5286, Pretrain Micro AUROC 0.7901 Pretrain Micro AUPRC 0.7650 Pretrain Macro AUROC 0.8148 Pretrain Macro AUPRC 0.8398
+Epoch: 1 Step: 580 LR: 0.00100 Loss 0.5281, Pretrain Micro AUROC 0.7904 Pretrain Micro AUPRC 0.7499 Pretrain Macro AUROC 0.8674 Pretrain Macro AUPRC 0.8722
+Epoch: 1 Step: 600 LR: 0.00100 Loss 0.5370, Pretrain Micro AUROC 0.7880 Pretrain Micro AUPRC 0.7579 Pretrain Macro AUROC 0.8007 Pretrain Macro AUPRC 0.8408
+Epoch: 1 Step: 620 LR: 0.00100 Loss 0.5235, Pretrain Micro AUROC 0.7957 Pretrain Micro AUPRC 0.7641 Pretrain Macro AUROC 0.8434 Pretrain Macro AUPRC 0.8645
+Epoch: 1 Step: 640 LR: 0.00100 Loss 0.5058, Pretrain Micro AUROC 0.8139 Pretrain Micro AUPRC 0.7934 Pretrain Macro AUROC 0.8917 Pretrain Macro AUPRC 0.8992
+Epoch: 1 Step: 660 LR: 0.00100 Loss 0.5404, Pretrain Micro AUROC 0.7850 Pretrain Micro AUPRC 0.7506 Pretrain Macro AUROC 0.8725 Pretrain Macro AUPRC 0.8710
+Epoch: 1 Step: 680 LR: 0.00100 Loss 0.5158, Pretrain Micro AUROC 0.8073 Pretrain Micro AUPRC 0.7827 Pretrain Macro AUROC 0.8747 Pretrain Macro AUPRC 0.8813
+Epoch: 1 Step: 700 LR: 0.00100 Loss 0.5232, Pretrain Micro AUROC 0.8023 Pretrain Micro AUPRC 0.7790 Pretrain Macro AUROC 0.8433 Pretrain Macro AUPRC 0.8602
+Epoch: 1 Step: 720 LR: 0.00100 Loss 0.5079, Pretrain Micro AUROC 0.8161 Pretrain Micro AUPRC 0.7877 Pretrain Macro AUROC 0.8202 Pretrain Macro AUPRC 0.8512
+Epoch: 1 Step: 740 LR: 0.00100 Loss 0.5383, Pretrain Micro AUROC 0.7899 Pretrain Micro AUPRC 0.7545 Pretrain Macro AUROC 0.7847 Pretrain Macro AUPRC 0.8218
+Epoch: 1 Step: 760 LR: 0.00100 Loss 0.5396, Pretrain Micro AUROC 0.7884 Pretrain Micro AUPRC 0.7607 Pretrain Macro AUROC 0.8441 Pretrain Macro AUPRC 0.8587
+Epoch: 1 Step: 780 LR: 0.00100 Loss 0.5182, Pretrain Micro AUROC 0.8030 Pretrain Micro AUPRC 0.7753 Pretrain Macro AUROC 0.8663 Pretrain Macro AUPRC 0.8692
+Epoch: 1 Step: 800 LR: 0.00100 Loss 0.5364, Pretrain Micro AUROC 0.7912 Pretrain Micro AUPRC 0.7712 Pretrain Macro AUROC 0.7491 Pretrain Macro AUPRC 0.7969
+Epoch: 1 Step: 820 LR: 0.00100 Loss 0.5332, Pretrain Micro AUROC 0.7867 Pretrain Micro AUPRC 0.7563 Pretrain Macro AUROC 0.8810 Pretrain Macro AUPRC 0.8800
+Epoch: 1 Step: 840 LR: 0.00100 Loss 0.5292, Pretrain Micro AUROC 0.7944 Pretrain Micro AUPRC 0.7692 Pretrain Macro AUROC 0.7948 Pretrain Macro AUPRC 0.8463
+Epoch: 1 Step: 860 LR: 0.00100 Loss 0.5375, Pretrain Micro AUROC 0.7831 Pretrain Micro AUPRC 0.7491 Pretrain Macro AUROC 0.8139 Pretrain Macro AUPRC 0.8567
+Epoch: 1 Step: 880 LR: 0.00100 Loss 0.5266, Pretrain Micro AUROC 0.7964 Pretrain Micro AUPRC 0.7662 Pretrain Macro AUROC 0.8386 Pretrain Macro AUPRC 0.8429
+Epoch: 1 Step: 900 LR: 0.00100 Loss 0.5133, Pretrain Micro AUROC 0.8043 Pretrain Micro AUPRC 0.7834 Pretrain Macro AUROC 0.8462 Pretrain Macro AUPRC 0.8693
+Epoch: 1 Step: 920 LR: 0.00100 Loss 0.5190, Pretrain Micro AUROC 0.8022 Pretrain Micro AUPRC 0.7750 Pretrain Macro AUROC 0.7925 Pretrain Macro AUPRC 0.8437
+Epoch: 1 Step: 940 LR: 0.00100 Loss 0.5424, Pretrain Micro AUROC 0.7858 Pretrain Micro AUPRC 0.7574 Pretrain Macro AUROC 0.8553 Pretrain Macro AUPRC 0.8713
+Epoch: 1 Step: 960 LR: 0.00100 Loss 0.5089, Pretrain Micro AUROC 0.8111 Pretrain Micro AUPRC 0.7859 Pretrain Macro AUROC 0.8417 Pretrain Macro AUPRC 0.8686
+Epoch: 1 Step: 980 LR: 0.00100 Loss 0.5301, Pretrain Micro AUROC 0.7967 Pretrain Micro AUPRC 0.7670 Pretrain Macro AUROC 0.8685 Pretrain Macro AUPRC 0.8782
+Epoch: 1 Step: 1000 LR: 0.00100 Loss 0.5407, Pretrain Micro AUROC 0.7868 Pretrain Micro AUPRC 0.7522 Pretrain Macro AUROC 0.8692 Pretrain Macro AUPRC 0.8742
+Epoch: 1 Step: 1020 LR: 0.00100 Loss 0.5432, Pretrain Micro AUROC 0.7856 Pretrain Micro AUPRC 0.7433 Pretrain Macro AUROC 0.7860 Pretrain Macro AUPRC 0.8223
+Epoch: 1 Step: 1040 LR: 0.00100 Loss 0.5287, Pretrain Micro AUROC 0.7965 Pretrain Micro AUPRC 0.7688 Pretrain Macro AUROC 0.8513 Pretrain Macro AUPRC 0.8704
+Epoch: 1 Step: 1060 LR: 0.00100 Loss 0.5289, Pretrain Micro AUROC 0.7936 Pretrain Micro AUPRC 0.7620 Pretrain Macro AUROC 0.8677 Pretrain Macro AUPRC 0.8693
+Epoch: 1 Step: 1080 LR: 0.00100 Loss 0.5260, Pretrain Micro AUROC 0.7955 Pretrain Micro AUPRC 0.7655 Pretrain Macro AUROC 0.8387 Pretrain Macro AUPRC 0.8415
+Epoch: 1 Step: 1100 LR: 0.00100 Loss 0.5302, Pretrain Micro AUROC 0.7931 Pretrain Micro AUPRC 0.7657 Pretrain Macro AUROC 0.8344 Pretrain Macro AUPRC 0.8608
+Epoch: 1 Step: 1120 LR: 0.00100 Loss 0.5261, Pretrain Micro AUROC 0.7989 Pretrain Micro AUPRC 0.7750 Pretrain Macro AUROC 0.8371 Pretrain Macro AUPRC 0.8562
+Epoch: 1 Step: 1140 LR: 0.00100 Loss 0.5132, Pretrain Micro AUROC 0.8078 Pretrain Micro AUPRC 0.7722 Pretrain Macro AUROC 0.7761 Pretrain Macro AUPRC 0.8202
+Epoch: 1 Step: 1160 LR: 0.00100 Loss 0.5151, Pretrain Micro AUROC 0.8043 Pretrain Micro AUPRC 0.7730 Pretrain Macro AUROC 0.8724 Pretrain Macro AUPRC 0.8772
+Epoch: 1 Step: 1180 LR: 0.00100 Loss 0.5220, Pretrain Micro AUROC 0.7983 Pretrain Micro AUPRC 0.7673 Pretrain Macro AUROC 0.7391 Pretrain Macro AUPRC 0.8005
+Epoch: 1 Step: 1200 LR: 0.00100 Loss 0.5331, Pretrain Micro AUROC 0.7947 Pretrain Micro AUPRC 0.7669 Pretrain Macro AUROC 0.8411 Pretrain Macro AUPRC 0.8564
+Epoch: 1 Step: 1220 LR: 0.00100 Loss 0.5377, Pretrain Micro AUROC 0.7874 Pretrain Micro AUPRC 0.7584 Pretrain Macro AUROC 0.7844 Pretrain Macro AUPRC 0.8292
+Epoch: 1 Step: 1240 LR: 0.00100 Loss 0.5197, Pretrain Micro AUROC 0.8036 Pretrain Micro AUPRC 0.7757 Pretrain Macro AUROC 0.8382 Pretrain Macro AUPRC 0.8547
+Epoch: 1 Step: 1260 LR: 0.00100 Loss 0.5422, Pretrain Micro AUROC 0.7797 Pretrain Micro AUPRC 0.7596 Pretrain Macro AUROC 0.7998 Pretrain Macro AUPRC 0.8356
+Epoch: 1 Step: 1280 LR: 0.00100 Loss 0.5127, Pretrain Micro AUROC 0.8063 Pretrain Micro AUPRC 0.7818 Pretrain Macro AUROC 0.8286 Pretrain Macro AUPRC 0.8562
+Epoch: 1 Step: 1300 LR: 0.00100 Loss 0.5334, Pretrain Micro AUROC 0.7922 Pretrain Micro AUPRC 0.7606 Pretrain Macro AUROC 0.8547 Pretrain Macro AUPRC 0.8692
+Epoch: 1 Step: 1320 LR: 0.00100 Loss 0.5271, Pretrain Micro AUROC 0.7921 Pretrain Micro AUPRC 0.7566 Pretrain Macro AUROC 0.8631 Pretrain Macro AUPRC 0.8596
+Epoch: 1 Step: 1340 LR: 0.00100 Loss 0.5278, Pretrain Micro AUROC 0.7920 Pretrain Micro AUPRC 0.7605 Pretrain Macro AUROC 0.7994 Pretrain Macro AUPRC 0.8370
+Epoch: 1 Step: 1360 LR: 0.00100 Loss 0.5314, Pretrain Micro AUROC 0.7902 Pretrain Micro AUPRC 0.7630 Pretrain Macro AUROC 0.8784 Pretrain Macro AUPRC 0.8888
+Epoch: 1 Step: 1380 LR: 0.00100 Loss 0.5204, Pretrain Micro AUROC 0.7998 Pretrain Micro AUPRC 0.7791 Pretrain Macro AUROC 0.8718 Pretrain Macro AUPRC 0.8831
+Epoch: 1 Step: 1400 LR: 0.00100 Loss 0.5267, Pretrain Micro AUROC 0.7978 Pretrain Micro AUPRC 0.7657 Pretrain Macro AUROC 0.8651 Pretrain Macro AUPRC 0.8649
+Epoch: 1 Step: 1420 LR: 0.00100 Loss 0.5246, Pretrain Micro AUROC 0.7943 Pretrain Micro AUPRC 0.7578 Pretrain Macro AUROC 0.7901 Pretrain Macro AUPRC 0.8209
+Epoch: 1 Step: 1440 LR: 0.00100 Loss 0.5169, Pretrain Micro AUROC 0.8046 Pretrain Micro AUPRC 0.7740 Pretrain Macro AUROC 0.8520 Pretrain Macro AUPRC 0.8738
+Epoch: 1 Step: 1460 LR: 0.00100 Loss 0.5184, Pretrain Micro AUROC 0.8058 Pretrain Micro AUPRC 0.7771 Pretrain Macro AUROC 0.8380 Pretrain Macro AUPRC 0.8491
+Epoch: 1 Step: 1480 LR: 0.00100 Loss 0.5232, Pretrain Micro AUROC 0.8036 Pretrain Micro AUPRC 0.7699 Pretrain Macro AUROC 0.7993 Pretrain Macro AUPRC 0.8079
+Epoch: 1 Step: 1500 LR: 0.00100 Loss 0.5133, Pretrain Micro AUROC 0.8076 Pretrain Micro AUPRC 0.7803 Pretrain Macro AUROC 0.8638 Pretrain Macro AUPRC 0.8761
+Epoch: 1 Step: 1520 LR: 0.00100 Loss 0.5260, Pretrain Micro AUROC 0.7901 Pretrain Micro AUPRC 0.7622 Pretrain Macro AUROC 0.8359 Pretrain Macro AUPRC 0.8542
+Epoch: 1 Step: 1540 LR: 0.00100 Loss 0.5149, Pretrain Micro AUROC 0.8059 Pretrain Micro AUPRC 0.7821 Pretrain Macro AUROC 0.7904 Pretrain Macro AUPRC 0.8289
+Epoch: 1 Step: 1560 LR: 0.00100 Loss 0.5267, Pretrain Micro AUROC 0.7992 Pretrain Micro AUPRC 0.7748 Pretrain Macro AUROC 0.8215 Pretrain Macro AUPRC 0.8589
+Epoch: 1 Step: 1580 LR: 0.00100 Loss 0.5134, Pretrain Micro AUROC 0.8077 Pretrain Micro AUPRC 0.7800 Pretrain Macro AUROC 0.8000 Pretrain Macro AUPRC 0.8458
+Epoch: 1 Step: 1600 LR: 0.00100 Loss 0.5020, Pretrain Micro AUROC 0.8127 Pretrain Micro AUPRC 0.7849 Pretrain Macro AUROC 0.8465 Pretrain Macro AUPRC 0.8589
+Epoch: 1 Step: 1620 LR: 0.00100 Loss 0.5139, Pretrain Micro AUROC 0.8036 Pretrain Micro AUPRC 0.7807 Pretrain Macro AUROC 0.8181 Pretrain Macro AUPRC 0.8404
+Epoch: 1 Step: 1640 LR: 0.00100 Loss 0.5225, Pretrain Micro AUROC 0.7969 Pretrain Micro AUPRC 0.7647 Pretrain Macro AUROC 0.7920 Pretrain Macro AUPRC 0.8294
+Epoch: 1 Step: 1660 LR: 0.00100 Loss 0.5282, Pretrain Micro AUROC 0.7924 Pretrain Micro AUPRC 0.7678 Pretrain Macro AUROC 0.8145 Pretrain Macro AUPRC 0.8425
+Epoch: 1 Step: 1680 LR: 0.00100 Loss 0.5289, Pretrain Micro AUROC 0.7992 Pretrain Micro AUPRC 0.7656 Pretrain Macro AUROC 0.8247 Pretrain Macro AUPRC 0.8305
+Epoch: 1 Step: 1700 LR: 0.00100 Loss 0.5160, Pretrain Micro AUROC 0.8024 Pretrain Micro AUPRC 0.7721 Pretrain Macro AUROC 0.8465 Pretrain Macro AUPRC 0.8577
+Epoch: 1 Step: 1720 LR: 0.00100 Loss 0.5289, Pretrain Micro AUROC 0.7944 Pretrain Micro AUPRC 0.7680 Pretrain Macro AUROC 0.8490 Pretrain Macro AUPRC 0.8590
+Epoch: 1 Step: 1740 LR: 0.00100 Loss 0.5072, Pretrain Micro AUROC 0.8142 Pretrain Micro AUPRC 0.7813 Pretrain Macro AUROC 0.8898 Pretrain Macro AUPRC 0.8878
+Epoch: 1 Step: 1760 LR: 0.00100 Loss 0.5316, Pretrain Micro AUROC 0.7934 Pretrain Micro AUPRC 0.7716 Pretrain Macro AUROC 0.8223 Pretrain Macro AUPRC 0.8483
+Epoch: 1 Step: 1780 LR: 0.00100 Loss 0.5274, Pretrain Micro AUROC 0.7982 Pretrain Micro AUPRC 0.7657 Pretrain Macro AUROC 0.8459 Pretrain Macro AUPRC 0.8536
+Epoch: 1 Step: 1800 LR: 0.00100 Loss 0.5148, Pretrain Micro AUROC 0.8068 Pretrain Micro AUPRC 0.7793 Pretrain Macro AUROC 0.8432 Pretrain Macro AUPRC 0.8487
+Epoch: 1 Step: 1820 LR: 0.00100 Loss 0.5283, Pretrain Micro AUROC 0.7946 Pretrain Micro AUPRC 0.7640 Pretrain Macro AUROC 0.8417 Pretrain Macro AUPRC 0.8676
+Epoch: 1 Step: 1840 LR: 0.00100 Loss 0.5101, Pretrain Micro AUROC 0.8108 Pretrain Micro AUPRC 0.7899 Pretrain Macro AUROC 0.8384 Pretrain Macro AUPRC 0.8570
+Epoch: 1 Step: 1860 LR: 0.00100 Loss 0.5171, Pretrain Micro AUROC 0.8008 Pretrain Micro AUPRC 0.7701 Pretrain Macro AUROC 0.8476 Pretrain Macro AUPRC 0.8623
+Epoch: 1 Step: 1880 LR: 0.00100 Loss 0.5212, Pretrain Micro AUROC 0.8026 Pretrain Micro AUPRC 0.7753 Pretrain Macro AUROC 0.8400 Pretrain Macro AUPRC 0.8604
+Epoch: 1 Step: 1900 LR: 0.00100 Loss 0.5266, Pretrain Micro AUROC 0.7965 Pretrain Micro AUPRC 0.7660 Pretrain Macro AUROC 0.7934 Pretrain Macro AUPRC 0.8279
+Epoch: 1 Step: 1920 LR: 0.00100 Loss 0.5274, Pretrain Micro AUROC 0.7941 Pretrain Micro AUPRC 0.7742 Pretrain Macro AUROC 0.8385 Pretrain Macro AUPRC 0.8697
+Epoch: 1 Step: 1940 LR: 0.00100 Loss 0.5185, Pretrain Micro AUROC 0.8034 Pretrain Micro AUPRC 0.7780 Pretrain Macro AUROC 0.8119 Pretrain Macro AUPRC 0.8470
+Epoch: 1 Step: 1960 LR: 0.00100 Loss 0.5234, Pretrain Micro AUROC 0.7964 Pretrain Micro AUPRC 0.7661 Pretrain Macro AUROC 0.8689 Pretrain Macro AUPRC 0.8686
+Epoch: 1 Step: 1980 LR: 0.00100 Loss 0.5101, Pretrain Micro AUROC 0.8069 Pretrain Micro AUPRC 0.7808 Pretrain Macro AUROC 0.8260 Pretrain Macro AUPRC 0.8481
+Epoch: 1 Step: 2000 LR: 0.00100 Loss 0.5366, Pretrain Micro AUROC 0.7905 Pretrain Micro AUPRC 0.7613 Pretrain Macro AUROC 0.7910 Pretrain Macro AUPRC 0.8350
+Epoch: 1 Step: 2020 LR: 0.00100 Loss 0.5239, Pretrain Micro AUROC 0.7990 Pretrain Micro AUPRC 0.7603 Pretrain Macro AUROC 0.8296 Pretrain Macro AUPRC 0.8478
+Epoch: 1 Step: 2040 LR: 0.00100 Loss 0.5444, Pretrain Micro AUROC 0.7778 Pretrain Micro AUPRC 0.7448 Pretrain Macro AUROC 0.7676 Pretrain Macro AUPRC 0.8212
+Epoch: 1 Step: 2060 LR: 0.00100 Loss 0.5283, Pretrain Micro AUROC 0.7898 Pretrain Micro AUPRC 0.7663 Pretrain Macro AUROC 0.8599 Pretrain Macro AUPRC 0.8661
+Epoch: 1 Step: 2080 LR: 0.00100 Loss 0.5274, Pretrain Micro AUROC 0.7940 Pretrain Micro AUPRC 0.7613 Pretrain Macro AUROC 0.7960 Pretrain Macro AUPRC 0.8305
+Epoch: 1 Step: 2100 LR: 0.00100 Loss 0.5467, Pretrain Micro AUROC 0.7741 Pretrain Micro AUPRC 0.7381 Pretrain Macro AUROC 0.7889 Pretrain Macro AUPRC 0.8256
+Epoch: 1 Step: 2120 LR: 0.00100 Loss 0.5379, Pretrain Micro AUROC 0.7886 Pretrain Micro AUPRC 0.7582 Pretrain Macro AUROC 0.8510 Pretrain Macro AUPRC 0.8424
+Epoch: 1 Step: 2140 LR: 0.00100 Loss 0.5328, Pretrain Micro AUROC 0.7830 Pretrain Micro AUPRC 0.7548 Pretrain Macro AUROC 0.7707 Pretrain Macro AUPRC 0.8107
+Epoch: 1 Step: 2160 LR: 0.00100 Loss 0.5315, Pretrain Micro AUROC 0.7911 Pretrain Micro AUPRC 0.7598 Pretrain Macro AUROC 0.8658 Pretrain Macro AUPRC 0.8689
+Epoch: 1 Step: 2180 LR: 0.00100 Loss 0.5307, Pretrain Micro AUROC 0.7932 Pretrain Micro AUPRC 0.7572 Pretrain Macro AUROC 0.8323 Pretrain Macro AUPRC 0.8739
+Epoch: 1 Step: 2200 LR: 0.00100 Loss 0.5388, Pretrain Micro AUROC 0.7780 Pretrain Micro AUPRC 0.7508 Pretrain Macro AUROC 0.8386 Pretrain Macro AUPRC 0.8669
+Epoch: 1 Step: 2220 LR: 0.00100 Loss 0.5300, Pretrain Micro AUROC 0.7851 Pretrain Micro AUPRC 0.7567 Pretrain Macro AUROC 0.8151 Pretrain Macro AUPRC 0.8318
+Epoch: 1 Step: 2240 LR: 0.00100 Loss 0.5155, Pretrain Micro AUROC 0.8045 Pretrain Micro AUPRC 0.7735 Pretrain Macro AUROC 0.8325 Pretrain Macro AUPRC 0.8461
+Epoch: 1 Step: 2260 LR: 0.00100 Loss 0.5180, Pretrain Micro AUROC 0.8048 Pretrain Micro AUPRC 0.7827 Pretrain Macro AUROC 0.8654 Pretrain Macro AUPRC 0.8787
+Epoch: 1 Step: 2280 LR: 0.00100 Loss 0.4986, Pretrain Micro AUROC 0.8207 Pretrain Micro AUPRC 0.7953 Pretrain Macro AUROC 0.8795 Pretrain Macro AUPRC 0.8817
+Epoch: 1 Step: 2300 LR: 0.00100 Loss 0.5293, Pretrain Micro AUROC 0.7904 Pretrain Micro AUPRC 0.7694 Pretrain Macro AUROC 0.8106 Pretrain Macro AUPRC 0.8493
+Epoch: 1 Step: 2320 LR: 0.00100 Loss 0.5234, Pretrain Micro AUROC 0.7997 Pretrain Micro AUPRC 0.7737 Pretrain Macro AUROC 0.8313 Pretrain Macro AUPRC 0.8488
+Epoch: 1 Step: 2340 LR: 0.00100 Loss 0.5252, Pretrain Micro AUROC 0.7992 Pretrain Micro AUPRC 0.7654 Pretrain Macro AUROC 0.7497 Pretrain Macro AUPRC 0.8039
+Epoch: 1 Step: 2360 LR: 0.00100 Loss 0.5076, Pretrain Micro AUROC 0.8174 Pretrain Micro AUPRC 0.7917 Pretrain Macro AUROC 0.8004 Pretrain Macro AUPRC 0.8413
+Epoch: 1 Step: 2380 LR: 0.00100 Loss 0.5304, Pretrain Micro AUROC 0.7929 Pretrain Micro AUPRC 0.7637 Pretrain Macro AUROC 0.8719 Pretrain Macro AUPRC 0.8735
+Epoch: 1 Step: 2400 LR: 0.00100 Loss 0.5171, Pretrain Micro AUROC 0.8018 Pretrain Micro AUPRC 0.7763 Pretrain Macro AUROC 0.8049 Pretrain Macro AUPRC 0.8354
+Epoch: 1 Step: 2420 LR: 0.00100 Loss 0.5269, Pretrain Micro AUROC 0.7969 Pretrain Micro AUPRC 0.7632 Pretrain Macro AUROC 0.8799 Pretrain Macro AUPRC 0.8881
+Epoch: 1 Step: 2440 LR: 0.00100 Loss 0.5121, Pretrain Micro AUROC 0.8063 Pretrain Micro AUPRC 0.7764 Pretrain Macro AUROC 0.8705 Pretrain Macro AUPRC 0.8867
+Epoch: 1 Step: 2460 LR: 0.00100 Loss 0.5376, Pretrain Micro AUROC 0.7873 Pretrain Micro AUPRC 0.7534 Pretrain Macro AUROC 0.8478 Pretrain Macro AUPRC 0.8632
+Epoch: 1 Step: 2480 LR: 0.00100 Loss 0.5132, Pretrain Micro AUROC 0.8065 Pretrain Micro AUPRC 0.7814 Pretrain Macro AUROC 0.7732 Pretrain Macro AUPRC 0.8384
+Epoch: 1 Step: 2500 LR: 0.00100 Loss 0.5140, Pretrain Micro AUROC 0.8011 Pretrain Micro AUPRC 0.7815 Pretrain Macro AUROC 0.8438 Pretrain Macro AUPRC 0.8596
+Epoch: 1 Step: 2520 LR: 0.00100 Loss 0.5172, Pretrain Micro AUROC 0.8117 Pretrain Micro AUPRC 0.7838 Pretrain Macro AUROC 0.8384 Pretrain Macro AUPRC 0.8633
+Epoch: 1 Step: 2540 LR: 0.00100 Loss 0.5098, Pretrain Micro AUROC 0.8071 Pretrain Micro AUPRC 0.7915 Pretrain Macro AUROC 0.8043 Pretrain Macro AUPRC 0.8526
+Epoch: 1 Step: 2560 LR: 0.00100 Loss 0.5278, Pretrain Micro AUROC 0.7975 Pretrain Micro AUPRC 0.7719 Pretrain Macro AUROC 0.8085 Pretrain Macro AUPRC 0.8412
+Epoch: 1 Step: 2580 LR: 0.00100 Loss 0.5447, Pretrain Micro AUROC 0.7740 Pretrain Micro AUPRC 0.7421 Pretrain Macro AUROC 0.8619 Pretrain Macro AUPRC 0.8611
+Epoch: 1 Step: 2600 LR: 0.00100 Loss 0.5431, Pretrain Micro AUROC 0.7788 Pretrain Micro AUPRC 0.7523 Pretrain Macro AUROC 0.8351 Pretrain Macro AUPRC 0.8554
+Epoch: 1 Step: 2620 LR: 0.00100 Loss 0.5186, Pretrain Micro AUROC 0.7952 Pretrain Micro AUPRC 0.7608 Pretrain Macro AUROC 0.7451 Pretrain Macro AUPRC 0.8170
+Epoch: 1 Step: 2640 LR: 0.00100 Loss 0.5174, Pretrain Micro AUROC 0.8021 Pretrain Micro AUPRC 0.7700 Pretrain Macro AUROC 0.8414 Pretrain Macro AUPRC 0.8558
+Epoch: 1 Step: 2660 LR: 0.00100 Loss 0.5347, Pretrain Micro AUROC 0.7888 Pretrain Micro AUPRC 0.7624 Pretrain Macro AUROC 0.8169 Pretrain Macro AUPRC 0.8455
+Epoch: 1 Step: 2680 LR: 0.00100 Loss 0.5097, Pretrain Micro AUROC 0.8072 Pretrain Micro AUPRC 0.7916 Pretrain Macro AUROC 0.8442 Pretrain Macro AUPRC 0.8672
+Epoch: 1 Step: 2700 LR: 0.00100 Loss 0.5213, Pretrain Micro AUROC 0.8047 Pretrain Micro AUPRC 0.7728 Pretrain Macro AUROC 0.7943 Pretrain Macro AUPRC 0.8263
+Epoch: 1 Step: 2720 LR: 0.00100 Loss 0.5311, Pretrain Micro AUROC 0.7929 Pretrain Micro AUPRC 0.7631 Pretrain Macro AUROC 0.8293 Pretrain Macro AUPRC 0.8414
+Epoch: 1 Step: 2740 LR: 0.00100 Loss 0.5055, Pretrain Micro AUROC 0.8139 Pretrain Micro AUPRC 0.7857 Pretrain Macro AUROC 0.8549 Pretrain Macro AUPRC 0.8768
+Epoch: 1 Step: 2760 LR: 0.00100 Loss 0.5282, Pretrain Micro AUROC 0.7887 Pretrain Micro AUPRC 0.7501 Pretrain Macro AUROC 0.8663 Pretrain Macro AUPRC 0.8712
+Epoch: 1 Step: 2780 LR: 0.00100 Loss 0.5258, Pretrain Micro AUROC 0.7966 Pretrain Micro AUPRC 0.7644 Pretrain Macro AUROC 0.7941 Pretrain Macro AUPRC 0.8197
+Epoch: 1 Step: 2800 LR: 0.00100 Loss 0.5156, Pretrain Micro AUROC 0.8017 Pretrain Micro AUPRC 0.7763 Pretrain Macro AUROC 0.8494 Pretrain Macro AUPRC 0.8763
+Epoch: 1 Step: 2820 LR: 0.00100 Loss 0.5127, Pretrain Micro AUROC 0.8119 Pretrain Micro AUPRC 0.7910 Pretrain Macro AUROC 0.8405 Pretrain Macro AUPRC 0.8486
+Epoch: 1 Step: 2840 LR: 0.00100 Loss 0.5246, Pretrain Micro AUROC 0.7927 Pretrain Micro AUPRC 0.7610 Pretrain Macro AUROC 0.8356 Pretrain Macro AUPRC 0.8554
+Epoch: 1 Step: 2860 LR: 0.00100 Loss 0.5110, Pretrain Micro AUROC 0.8069 Pretrain Micro AUPRC 0.7786 Pretrain Macro AUROC 0.8510 Pretrain Macro AUPRC 0.8625
+Epoch: 1 Step: 2880 LR: 0.00100 Loss 0.5040, Pretrain Micro AUROC 0.8204 Pretrain Micro AUPRC 0.7879 Pretrain Macro AUROC 0.8678 Pretrain Macro AUPRC 0.8648
+Epoch: 1 Step: 2900 LR: 0.00100 Loss 0.5353, Pretrain Micro AUROC 0.7829 Pretrain Micro AUPRC 0.7560 Pretrain Macro AUROC 0.8062 Pretrain Macro AUPRC 0.8221
+Epoch: 1 Step: 2920 LR: 0.00100 Loss 0.5327, Pretrain Micro AUROC 0.7912 Pretrain Micro AUPRC 0.7608 Pretrain Macro AUROC 0.8471 Pretrain Macro AUPRC 0.8822
+Epoch: 1 Step: 2940 LR: 0.00100 Loss 0.5280, Pretrain Micro AUROC 0.7939 Pretrain Micro AUPRC 0.7737 Pretrain Macro AUROC 0.8060 Pretrain Macro AUPRC 0.8358
+Epoch: 1 Step: 2960 LR: 0.00100 Loss 0.5381, Pretrain Micro AUROC 0.7931 Pretrain Micro AUPRC 0.7540 Pretrain Macro AUROC 0.8603 Pretrain Macro AUPRC 0.8622
+Epoch: 1 Step: 2980 LR: 0.00100 Loss 0.5303, Pretrain Micro AUROC 0.7888 Pretrain Micro AUPRC 0.7600 Pretrain Macro AUROC 0.8221 Pretrain Macro AUPRC 0.8258
+Epoch: 1 Step: 3000 LR: 0.00100 Loss 0.5210, Pretrain Micro AUROC 0.7986 Pretrain Micro AUPRC 0.7707 Pretrain Macro AUROC 0.8218 Pretrain Macro AUPRC 0.8514
+Epoch: 1 Step: 3020 LR: 0.00100 Loss 0.5039, Pretrain Micro AUROC 0.8181 Pretrain Micro AUPRC 0.7956 Pretrain Macro AUROC 0.7907 Pretrain Macro AUPRC 0.8378
+Epoch: 1 Step: 3040 LR: 0.00100 Loss 0.5292, Pretrain Micro AUROC 0.7883 Pretrain Micro AUPRC 0.7663 Pretrain Macro AUROC 0.8152 Pretrain Macro AUPRC 0.8524
+Epoch: 1 Step: 3060 LR: 0.00100 Loss 0.5240, Pretrain Micro AUROC 0.7953 Pretrain Micro AUPRC 0.7672 Pretrain Macro AUROC 0.8050 Pretrain Macro AUPRC 0.8303
+Epoch: 1 Step: 3080 LR: 0.00100 Loss 0.5320, Pretrain Micro AUROC 0.7910 Pretrain Micro AUPRC 0.7564 Pretrain Macro AUROC 0.8302 Pretrain Macro AUPRC 0.8482
+Epoch: 1 Step: 3100 LR: 0.00100 Loss 0.5375, Pretrain Micro AUROC 0.7901 Pretrain Micro AUPRC 0.7583 Pretrain Macro AUROC 0.8483 Pretrain Macro AUPRC 0.8631
+Epoch: 1 Step: 3120 LR: 0.00100 Loss 0.5276, Pretrain Micro AUROC 0.7886 Pretrain Micro AUPRC 0.7578 Pretrain Macro AUROC 0.8600 Pretrain Macro AUPRC 0.8651
+Epoch: 1 Step: 3140 LR: 0.00100 Loss 0.5146, Pretrain Micro AUROC 0.8047 Pretrain Micro AUPRC 0.7717 Pretrain Macro AUROC 0.8183 Pretrain Macro AUPRC 0.8448
+Epoch: 1 Step: 3160 LR: 0.00100 Loss 0.5185, Pretrain Micro AUROC 0.8078 Pretrain Micro AUPRC 0.7789 Pretrain Macro AUROC 0.8515 Pretrain Macro AUPRC 0.8752
+Epoch: 1 Step: 3180 LR: 0.00100 Loss 0.5196, Pretrain Micro AUROC 0.8087 Pretrain Micro AUPRC 0.7757 Pretrain Macro AUROC 0.8244 Pretrain Macro AUPRC 0.8523
+Epoch: 1 Step: 3200 LR: 0.00100 Loss 0.5171, Pretrain Micro AUROC 0.8062 Pretrain Micro AUPRC 0.7796 Pretrain Macro AUROC 0.8333 Pretrain Macro AUPRC 0.8596
+Epoch: 1 Step: 3220 LR: 0.00100 Loss 0.5256, Pretrain Micro AUROC 0.8004 Pretrain Micro AUPRC 0.7625 Pretrain Macro AUROC 0.8322 Pretrain Macro AUPRC 0.8341
+Epoch: 1 Step: 3240 LR: 0.00100 Loss 0.5217, Pretrain Micro AUROC 0.7991 Pretrain Micro AUPRC 0.7723 Pretrain Macro AUROC 0.8680 Pretrain Macro AUPRC 0.8770
+Epoch: 1 Step: 3260 LR: 0.00100 Loss 0.5232, Pretrain Micro AUROC 0.7957 Pretrain Micro AUPRC 0.7693 Pretrain Macro AUROC 0.7948 Pretrain Macro AUPRC 0.8281
+Epoch: 1 Step: 3280 LR: 0.00100 Loss 0.5175, Pretrain Micro AUROC 0.7998 Pretrain Micro AUPRC 0.7714 Pretrain Macro AUROC 0.8494 Pretrain Macro AUPRC 0.8681
+Epoch: 1 Step: 3300 LR: 0.00100 Loss 0.5126, Pretrain Micro AUROC 0.8043 Pretrain Micro AUPRC 0.7759 Pretrain Macro AUROC 0.8717 Pretrain Macro AUPRC 0.8683
+Epoch: 1 Step: 3320 LR: 0.00100 Loss 0.5279, Pretrain Micro AUROC 0.7926 Pretrain Micro AUPRC 0.7662 Pretrain Macro AUROC 0.8437 Pretrain Macro AUPRC 0.8551
+Epoch: 1 Step: 3340 LR: 0.00100 Loss 0.5236, Pretrain Micro AUROC 0.7934 Pretrain Micro AUPRC 0.7676 Pretrain Macro AUROC 0.8792 Pretrain Macro AUPRC 0.8952
+Epoch: 1 Step: 3360 LR: 0.00100 Loss 0.5177, Pretrain Micro AUROC 0.8058 Pretrain Micro AUPRC 0.7757 Pretrain Macro AUROC 0.8694 Pretrain Macro AUPRC 0.8734
+Epoch: 1 Step: 3380 LR: 0.00100 Loss 0.5211, Pretrain Micro AUROC 0.8001 Pretrain Micro AUPRC 0.7731 Pretrain Macro AUROC 0.8579 Pretrain Macro AUPRC 0.8748
+Epoch: 1 Step: 3400 LR: 0.00100 Loss 0.5188, Pretrain Micro AUROC 0.8068 Pretrain Micro AUPRC 0.7886 Pretrain Macro AUROC 0.8357 Pretrain Macro AUPRC 0.8620
+Epoch: 1 Step: 3420 LR: 0.00100 Loss 0.5013, Pretrain Micro AUROC 0.8154 Pretrain Micro AUPRC 0.7871 Pretrain Macro AUROC 0.8605 Pretrain Macro AUPRC 0.8790
+Epoch: 1 Step: 3440 LR: 0.00100 Loss 0.5111, Pretrain Micro AUROC 0.8099 Pretrain Micro AUPRC 0.7799 Pretrain Macro AUROC 0.8370 Pretrain Macro AUPRC 0.8484
+Epoch: 1 Step: 3460 LR: 0.00100 Loss 0.5346, Pretrain Micro AUROC 0.7869 Pretrain Micro AUPRC 0.7519 Pretrain Macro AUROC 0.8629 Pretrain Macro AUPRC 0.8742
+Epoch: 1 Step: 3480 LR: 0.00100 Loss 0.5221, Pretrain Micro AUROC 0.7953 Pretrain Micro AUPRC 0.7590 Pretrain Macro AUROC 0.8083 Pretrain Macro AUPRC 0.8369
+Epoch: 1 Step: 3500 LR: 0.00100 Loss 0.5217, Pretrain Micro AUROC 0.7985 Pretrain Micro AUPRC 0.7649 Pretrain Macro AUROC 0.8351 Pretrain Macro AUPRC 0.8506
+Epoch: 1 Step: 3520 LR: 0.00100 Loss 0.5131, Pretrain Micro AUROC 0.8044 Pretrain Micro AUPRC 0.7744 Pretrain Macro AUROC 0.8434 Pretrain Macro AUPRC 0.8673
+Epoch: 1 Step: 3540 LR: 0.00100 Loss 0.5141, Pretrain Micro AUROC 0.8066 Pretrain Micro AUPRC 0.7826 Pretrain Macro AUROC 0.8099 Pretrain Macro AUPRC 0.8500
+Epoch: 1 Step: 3560 LR: 0.00100 Loss 0.5210, Pretrain Micro AUROC 0.8045 Pretrain Micro AUPRC 0.7710 Pretrain Macro AUROC 0.8723 Pretrain Macro AUPRC 0.8799
+Epoch: 1 Step: 3580 LR: 0.00100 Loss 0.5185, Pretrain Micro AUROC 0.7987 Pretrain Micro AUPRC 0.7686 Pretrain Macro AUROC 0.7802 Pretrain Macro AUPRC 0.8445
+Epoch: 1 Step: 3600 LR: 0.00100 Loss 0.5129, Pretrain Micro AUROC 0.8076 Pretrain Micro AUPRC 0.7738 Pretrain Macro AUROC 0.8878 Pretrain Macro AUPRC 0.8843
+Epoch: 1 Step: 3620 LR: 0.00100 Loss 0.5054, Pretrain Micro AUROC 0.8106 Pretrain Micro AUPRC 0.7823 Pretrain Macro AUROC 0.8500 Pretrain Macro AUPRC 0.8696
+Epoch: 1 Step: 3640 LR: 0.00100 Loss 0.5095, Pretrain Micro AUROC 0.8112 Pretrain Micro AUPRC 0.7893 Pretrain Macro AUROC 0.8446 Pretrain Macro AUPRC 0.8752
+Epoch: 1 Step: 3660 LR: 0.00100 Loss 0.5052, Pretrain Micro AUROC 0.8102 Pretrain Micro AUPRC 0.7836 Pretrain Macro AUROC 0.8445 Pretrain Macro AUPRC 0.8728
+Epoch: 1 Step: 3680 LR: 0.00100 Loss 0.5132, Pretrain Micro AUROC 0.8080 Pretrain Micro AUPRC 0.7845 Pretrain Macro AUROC 0.8690 Pretrain Macro AUPRC 0.8811
+Epoch: 1 Step: 3700 LR: 0.00100 Loss 0.5123, Pretrain Micro AUROC 0.8040 Pretrain Micro AUPRC 0.7811 Pretrain Macro AUROC 0.8422 Pretrain Macro AUPRC 0.8624
+Epoch: 1 Step: 3720 LR: 0.00100 Loss 0.5150, Pretrain Micro AUROC 0.8030 Pretrain Micro AUPRC 0.7732 Pretrain Macro AUROC 0.8821 Pretrain Macro AUPRC 0.8922
+Epoch: 1 Step: 3740 LR: 0.00100 Loss 0.5165, Pretrain Micro AUROC 0.8021 Pretrain Micro AUPRC 0.7783 Pretrain Macro AUROC 0.8153 Pretrain Macro AUPRC 0.8509
+Epoch: 1 Step: 3760 LR: 0.00100 Loss 0.5199, Pretrain Micro AUROC 0.7992 Pretrain Micro AUPRC 0.7756 Pretrain Macro AUROC 0.8506 Pretrain Macro AUPRC 0.8652
+Epoch: 1 Step: 3780 LR: 0.00100 Loss 0.5058, Pretrain Micro AUROC 0.8131 Pretrain Micro AUPRC 0.7882 Pretrain Macro AUROC 0.8949 Pretrain Macro AUPRC 0.8952
+Epoch: 1 Step: 3800 LR: 0.00100 Loss 0.5107, Pretrain Micro AUROC 0.8069 Pretrain Micro AUPRC 0.7789 Pretrain Macro AUROC 0.8264 Pretrain Macro AUPRC 0.8494
+Epoch: 1 Step: 3820 LR: 0.00100 Loss 0.5307, Pretrain Micro AUROC 0.7918 Pretrain Micro AUPRC 0.7594 Pretrain Macro AUROC 0.8355 Pretrain Macro AUPRC 0.8435
+Epoch: 1 Step: 3840 LR: 0.00100 Loss 0.5306, Pretrain Micro AUROC 0.7896 Pretrain Micro AUPRC 0.7559 Pretrain Macro AUROC 0.8831 Pretrain Macro AUPRC 0.8762
+Epoch: 1 Step: 3860 LR: 0.00100 Loss 0.5073, Pretrain Micro AUROC 0.8147 Pretrain Micro AUPRC 0.7920 Pretrain Macro AUROC 0.8475 Pretrain Macro AUPRC 0.8599
+Epoch: 1 Step: 3880 LR: 0.00100 Loss 0.5141, Pretrain Micro AUROC 0.8108 Pretrain Micro AUPRC 0.7738 Pretrain Macro AUROC 0.8740 Pretrain Macro AUPRC 0.8727
+Epoch: 1 Step: 3900 LR: 0.00100 Loss 0.5319, Pretrain Micro AUROC 0.7875 Pretrain Micro AUPRC 0.7589 Pretrain Macro AUROC 0.8521 Pretrain Macro AUPRC 0.8557
+Epoch: 1 Step: 3920 LR: 0.00100 Loss 0.5094, Pretrain Micro AUROC 0.8089 Pretrain Micro AUPRC 0.7810 Pretrain Macro AUROC 0.8513 Pretrain Macro AUPRC 0.8675
+Epoch: 1 Step: 3940 LR: 0.00100 Loss 0.5236, Pretrain Micro AUROC 0.7996 Pretrain Micro AUPRC 0.7686 Pretrain Macro AUROC 0.8309 Pretrain Macro AUPRC 0.8485
+Epoch: 1 Step: 3960 LR: 0.00100 Loss 0.5371, Pretrain Micro AUROC 0.7866 Pretrain Micro AUPRC 0.7584 Pretrain Macro AUROC 0.8275 Pretrain Macro AUPRC 0.8443
+Epoch: 1 Step: 3980 LR: 0.00100 Loss 0.5338, Pretrain Micro AUROC 0.7878 Pretrain Micro AUPRC 0.7593 Pretrain Macro AUROC 0.8326 Pretrain Macro AUPRC 0.8642
+Epoch: 1 Step: 4000 LR: 0.00100 Loss 0.5232, Pretrain Micro AUROC 0.7925 Pretrain Micro AUPRC 0.7606 Pretrain Macro AUROC 0.9053 Pretrain Macro AUPRC 0.9070
+Epoch: 1 Step: 4020 LR: 0.00100 Loss 0.5140, Pretrain Micro AUROC 0.8088 Pretrain Micro AUPRC 0.7822 Pretrain Macro AUROC 0.8920 Pretrain Macro AUPRC 0.8925
+Epoch: 1 Step: 4040 LR: 0.00100 Loss 0.5027, Pretrain Micro AUROC 0.8163 Pretrain Micro AUPRC 0.7882 Pretrain Macro AUROC 0.8679 Pretrain Macro AUPRC 0.8826
+Epoch: 1 Step: 4060 LR: 0.00100 Loss 0.5049, Pretrain Micro AUROC 0.8143 Pretrain Micro AUPRC 0.7917 Pretrain Macro AUROC 0.8214 Pretrain Macro AUPRC 0.8542
+Epoch: 1 Step: 4080 LR: 0.00100 Loss 0.5205, Pretrain Micro AUROC 0.8044 Pretrain Micro AUPRC 0.7775 Pretrain Macro AUROC 0.8579 Pretrain Macro AUPRC 0.8729
+Epoch: 1 Step: 4100 LR: 0.00100 Loss 0.5181, Pretrain Micro AUROC 0.8048 Pretrain Micro AUPRC 0.7777 Pretrain Macro AUROC 0.8706 Pretrain Macro AUPRC 0.8820
+Epoch: 1 Step: 4120 LR: 0.00100 Loss 0.5215, Pretrain Micro AUROC 0.7930 Pretrain Micro AUPRC 0.7637 Pretrain Macro AUROC 0.7602 Pretrain Macro AUPRC 0.8259
+Epoch: 1 Step: 4140 LR: 0.00100 Loss 0.5176, Pretrain Micro AUROC 0.8050 Pretrain Micro AUPRC 0.7827 Pretrain Macro AUROC 0.8806 Pretrain Macro AUPRC 0.8950
+Epoch: 1 Step: 4160 LR: 0.00100 Loss 0.5104, Pretrain Micro AUROC 0.8138 Pretrain Micro AUPRC 0.7768 Pretrain Macro AUROC 0.8504 Pretrain Macro AUPRC 0.8660
+Epoch: 1 Step: 4180 LR: 0.00100 Loss 0.5251, Pretrain Micro AUROC 0.7958 Pretrain Micro AUPRC 0.7690 Pretrain Macro AUROC 0.8738 Pretrain Macro AUPRC 0.8907
+Epoch: 1 Step: 4200 LR: 0.00100 Loss 0.5229, Pretrain Micro AUROC 0.7964 Pretrain Micro AUPRC 0.7800 Pretrain Macro AUROC 0.8614 Pretrain Macro AUPRC 0.8753
+Epoch: 1 Step: 4220 LR: 0.00100 Loss 0.5220, Pretrain Micro AUROC 0.8046 Pretrain Micro AUPRC 0.7714 Pretrain Macro AUROC 0.8155 Pretrain Macro AUPRC 0.8323
+Epoch: 1 Step: 4240 LR: 0.00100 Loss 0.5135, Pretrain Micro AUROC 0.8036 Pretrain Micro AUPRC 0.7828 Pretrain Macro AUROC 0.7785 Pretrain Macro AUPRC 0.8398
+Epoch: 1 Step: 4260 LR: 0.00100 Loss 0.5251, Pretrain Micro AUROC 0.7984 Pretrain Micro AUPRC 0.7702 Pretrain Macro AUROC 0.8008 Pretrain Macro AUPRC 0.8364
+Epoch: 1 Step: 4280 LR: 0.00100 Loss 0.5266, Pretrain Micro AUROC 0.7933 Pretrain Micro AUPRC 0.7585 Pretrain Macro AUROC 0.8326 Pretrain Macro AUPRC 0.8570
+Epoch: 1 Step: 4300 LR: 0.00100 Loss 0.5197, Pretrain Micro AUROC 0.8034 Pretrain Micro AUPRC 0.7660 Pretrain Macro AUROC 0.8147 Pretrain Macro AUPRC 0.8403
+Epoch: 1 Step: 4320 LR: 0.00100 Loss 0.5137, Pretrain Micro AUROC 0.8094 Pretrain Micro AUPRC 0.7851 Pretrain Macro AUROC 0.8511 Pretrain Macro AUPRC 0.8667
+Epoch: 1 Step: 4340 LR: 0.00100 Loss 0.5091, Pretrain Micro AUROC 0.8033 Pretrain Micro AUPRC 0.7744 Pretrain Macro AUROC 0.9021 Pretrain Macro AUPRC 0.8982
+Epoch: 1 Step: 4360 LR: 0.00100 Loss 0.5153, Pretrain Micro AUROC 0.8037 Pretrain Micro AUPRC 0.7714 Pretrain Macro AUROC 0.8477 Pretrain Macro AUPRC 0.8533
+Epoch: 1 Step: 4380 LR: 0.00100 Loss 0.5274, Pretrain Micro AUROC 0.8011 Pretrain Micro AUPRC 0.7749 Pretrain Macro AUROC 0.8676 Pretrain Macro AUPRC 0.8715
+Epoch: 1 Step: 4400 LR: 0.00100 Loss 0.5096, Pretrain Micro AUROC 0.8100 Pretrain Micro AUPRC 0.7822 Pretrain Macro AUROC 0.8498 Pretrain Macro AUPRC 0.8589
+Epoch: 1 Step: 4420 LR: 0.00100 Loss 0.4899, Pretrain Micro AUROC 0.8365 Pretrain Micro AUPRC 0.8079 Pretrain Macro AUROC 0.8704 Pretrain Macro AUPRC 0.8821
+Epoch: 1 Step: 4440 LR: 0.00100 Loss 0.5074, Pretrain Micro AUROC 0.8089 Pretrain Micro AUPRC 0.7863 Pretrain Macro AUROC 0.8419 Pretrain Macro AUPRC 0.8752
+Epoch: 1 Step: 4460 LR: 0.00100 Loss 0.5286, Pretrain Micro AUROC 0.7951 Pretrain Micro AUPRC 0.7532 Pretrain Macro AUROC 0.8569 Pretrain Macro AUPRC 0.8587
+Epoch: 1 Step: 4480 LR: 0.00100 Loss 0.5106, Pretrain Micro AUROC 0.8113 Pretrain Micro AUPRC 0.7782 Pretrain Macro AUROC 0.8603 Pretrain Macro AUPRC 0.8756
+Epoch: 1 Step: 4500 LR: 0.00100 Loss 0.5127, Pretrain Micro AUROC 0.8061 Pretrain Micro AUPRC 0.7754 Pretrain Macro AUROC 0.8305 Pretrain Macro AUPRC 0.8569
+Epoch: 1 Step: 4520 LR: 0.00100 Loss 0.5329, Pretrain Micro AUROC 0.7920 Pretrain Micro AUPRC 0.7562 Pretrain Macro AUROC 0.8711 Pretrain Macro AUPRC 0.8683
+Epoch: 1 Step: 4540 LR: 0.00100 Loss 0.5243, Pretrain Micro AUROC 0.7997 Pretrain Micro AUPRC 0.7718 Pretrain Macro AUROC 0.7838 Pretrain Macro AUPRC 0.8307
+Epoch: 1 Step: 4560 LR: 0.00100 Loss 0.4926, Pretrain Micro AUROC 0.8286 Pretrain Micro AUPRC 0.7943 Pretrain Macro AUROC 0.8865 Pretrain Macro AUPRC 0.8848
+Epoch: 1 Step: 4580 LR: 0.00100 Loss 0.5130, Pretrain Micro AUROC 0.8061 Pretrain Micro AUPRC 0.7900 Pretrain Macro AUROC 0.7884 Pretrain Macro AUPRC 0.8404
+Epoch: 1 Step: 4600 LR: 0.00100 Loss 0.5014, Pretrain Micro AUROC 0.8188 Pretrain Micro AUPRC 0.7904 Pretrain Macro AUROC 0.8364 Pretrain Macro AUPRC 0.8594
+Epoch: 1 Step: 4620 LR: 0.00100 Loss 0.5194, Pretrain Micro AUROC 0.7992 Pretrain Micro AUPRC 0.7646 Pretrain Macro AUROC 0.8312 Pretrain Macro AUPRC 0.8472
+Epoch: 1 Step: 4640 LR: 0.00100 Loss 0.5234, Pretrain Micro AUROC 0.7914 Pretrain Micro AUPRC 0.7734 Pretrain Macro AUROC 0.8672 Pretrain Macro AUPRC 0.8758
+Epoch: 1 Step: 4660 LR: 0.00100 Loss 0.5165, Pretrain Micro AUROC 0.8040 Pretrain Micro AUPRC 0.7785 Pretrain Macro AUROC 0.8700 Pretrain Macro AUPRC 0.8754
+Epoch: 1 Step: 4680 LR: 0.00100 Loss 0.5228, Pretrain Micro AUROC 0.8033 Pretrain Micro AUPRC 0.7736 Pretrain Macro AUROC 0.8545 Pretrain Macro AUPRC 0.8778
+Epoch: 1 Step: 4700 LR: 0.00100 Loss 0.5224, Pretrain Micro AUROC 0.8001 Pretrain Micro AUPRC 0.7655 Pretrain Macro AUROC 0.8155 Pretrain Macro AUPRC 0.8366
+Epoch: 1 Step: 4720 LR: 0.00100 Loss 0.5129, Pretrain Micro AUROC 0.8066 Pretrain Micro AUPRC 0.7718 Pretrain Macro AUROC 0.8509 Pretrain Macro AUPRC 0.8663
+Epoch: 1 Step: 4740 LR: 0.00100 Loss 0.5065, Pretrain Micro AUROC 0.8103 Pretrain Micro AUPRC 0.7894 Pretrain Macro AUROC 0.8366 Pretrain Macro AUPRC 0.8739
+Epoch: 1 Step: 4760 LR: 0.00100 Loss 0.5033, Pretrain Micro AUROC 0.8170 Pretrain Micro AUPRC 0.7884 Pretrain Macro AUROC 0.8901 Pretrain Macro AUPRC 0.8908
+Epoch: 1 Step: 4780 LR: 0.00100 Loss 0.5172, Pretrain Micro AUROC 0.7994 Pretrain Micro AUPRC 0.7713 Pretrain Macro AUROC 0.8937 Pretrain Macro AUPRC 0.8967
+Epoch: 1 Step: 4800 LR: 0.00100 Loss 0.5215, Pretrain Micro AUROC 0.7990 Pretrain Micro AUPRC 0.7677 Pretrain Macro AUROC 0.8274 Pretrain Macro AUPRC 0.8373
+Epoch: 1 Step: 4820 LR: 0.00100 Loss 0.5309, Pretrain Micro AUROC 0.7919 Pretrain Micro AUPRC 0.7555 Pretrain Macro AUROC 0.8583 Pretrain Macro AUPRC 0.8625
+Epoch: 1 Step: 4840 LR: 0.00100 Loss 0.5189, Pretrain Micro AUROC 0.8054 Pretrain Micro AUPRC 0.7739 Pretrain Macro AUROC 0.8224 Pretrain Macro AUPRC 0.8469
+Epoch: 1 Step: 4860 LR: 0.00100 Loss 0.5046, Pretrain Micro AUROC 0.8156 Pretrain Micro AUPRC 0.7882 Pretrain Macro AUROC 0.8725 Pretrain Macro AUPRC 0.8855
+Epoch: 1 Step: 4880 LR: 0.00100 Loss 0.5103, Pretrain Micro AUROC 0.8125 Pretrain Micro AUPRC 0.7801 Pretrain Macro AUROC 0.8812 Pretrain Macro AUPRC 0.8936
+Epoch: 1 Step: 4900 LR: 0.00100 Loss 0.5105, Pretrain Micro AUROC 0.8046 Pretrain Micro AUPRC 0.7802 Pretrain Macro AUROC 0.8504 Pretrain Macro AUPRC 0.8720
+Epoch: 1 Step: 4920 LR: 0.00100 Loss 0.5097, Pretrain Micro AUROC 0.8111 Pretrain Micro AUPRC 0.7904 Pretrain Macro AUROC 0.8644 Pretrain Macro AUPRC 0.8836
+Epoch: 1 Step: 4940 LR: 0.00100 Loss 0.5163, Pretrain Micro AUROC 0.8019 Pretrain Micro AUPRC 0.7779 Pretrain Macro AUROC 0.8835 Pretrain Macro AUPRC 0.8878
+Epoch: 1 Step: 4960 LR: 0.00100 Loss 0.5108, Pretrain Micro AUROC 0.8079 Pretrain Micro AUPRC 0.7860 Pretrain Macro AUROC 0.8712 Pretrain Macro AUPRC 0.8888
+Epoch: 1 Step: 4980 LR: 0.00100 Loss 0.5090, Pretrain Micro AUROC 0.8081 Pretrain Micro AUPRC 0.7762 Pretrain Macro AUROC 0.8555 Pretrain Macro AUPRC 0.8711
+Epoch: 1 Step: 5000 LR: 0.00100 Loss 0.5243, Pretrain Micro AUROC 0.8004 Pretrain Micro AUPRC 0.7736 Pretrain Macro AUROC 0.8631 Pretrain Macro AUPRC 0.8672
+Epoch: 1 Step: 5020 LR: 0.00100 Loss 0.5083, Pretrain Micro AUROC 0.8069 Pretrain Micro AUPRC 0.7829 Pretrain Macro AUROC 0.8691 Pretrain Macro AUPRC 0.8756
+Epoch: 1 Step: 5040 LR: 0.00100 Loss 0.5194, Pretrain Micro AUROC 0.8011 Pretrain Micro AUPRC 0.7685 Pretrain Macro AUROC 0.8366 Pretrain Macro AUPRC 0.8539
+Epoch: 1 Step: 5060 LR: 0.00100 Loss 0.5067, Pretrain Micro AUROC 0.8143 Pretrain Micro AUPRC 0.7847 Pretrain Macro AUROC 0.8531 Pretrain Macro AUPRC 0.8824
+Epoch: 1 Step: 5080 LR: 0.00100 Loss 0.5027, Pretrain Micro AUROC 0.8148 Pretrain Micro AUPRC 0.7932 Pretrain Macro AUROC 0.8506 Pretrain Macro AUPRC 0.8688
+Epoch: 1 Step: 5100 LR: 0.00100 Loss 0.5288, Pretrain Micro AUROC 0.7958 Pretrain Micro AUPRC 0.7747 Pretrain Macro AUROC 0.8767 Pretrain Macro AUPRC 0.8830
+Epoch: 1 Step: 5120 LR: 0.00100 Loss 0.5140, Pretrain Micro AUROC 0.8102 Pretrain Micro AUPRC 0.7768 Pretrain Macro AUROC 0.8470 Pretrain Macro AUPRC 0.8563
+Epoch: 1 Step: 5140 LR: 0.00100 Loss 0.5152, Pretrain Micro AUROC 0.8001 Pretrain Micro AUPRC 0.7723 Pretrain Macro AUROC 0.7639 Pretrain Macro AUPRC 0.8252
+Epoch: 1 Step: 5160 LR: 0.00100 Loss 0.5147, Pretrain Micro AUROC 0.8056 Pretrain Micro AUPRC 0.7707 Pretrain Macro AUROC 0.7985 Pretrain Macro AUPRC 0.8207
+Epoch: 1 Step: 5180 LR: 0.00100 Loss 0.5057, Pretrain Micro AUROC 0.8150 Pretrain Micro AUPRC 0.7893 Pretrain Macro AUROC 0.8671 Pretrain Macro AUPRC 0.8862
+Epoch: 1 Step: 5200 LR: 0.00100 Loss 0.5233, Pretrain Micro AUROC 0.7960 Pretrain Micro AUPRC 0.7622 Pretrain Macro AUROC 0.8387 Pretrain Macro AUPRC 0.8724
+Epoch: 1 Step: 5220 LR: 0.00100 Loss 0.5187, Pretrain Micro AUROC 0.8072 Pretrain Micro AUPRC 0.7779 Pretrain Macro AUROC 0.8661 Pretrain Macro AUPRC 0.8843
+Epoch: 1 Step: 5240 LR: 0.00100 Loss 0.4919, Pretrain Micro AUROC 0.8269 Pretrain Micro AUPRC 0.7949 Pretrain Macro AUROC 0.8628 Pretrain Macro AUPRC 0.8792
+Epoch: 1 Step: 5260 LR: 0.00100 Loss 0.5085, Pretrain Micro AUROC 0.8110 Pretrain Micro AUPRC 0.7893 Pretrain Macro AUROC 0.8776 Pretrain Macro AUPRC 0.8856
+Epoch: 1 Step: 5280 LR: 0.00100 Loss 0.5104, Pretrain Micro AUROC 0.8071 Pretrain Micro AUPRC 0.7781 Pretrain Macro AUROC 0.8931 Pretrain Macro AUPRC 0.9006
+Epoch: 1 Step: 5300 LR: 0.00100 Loss 0.4926, Pretrain Micro AUROC 0.8241 Pretrain Micro AUPRC 0.8020 Pretrain Macro AUROC 0.8859 Pretrain Macro AUPRC 0.8982
+Epoch: 1 Step: 5320 LR: 0.00100 Loss 0.5334, Pretrain Micro AUROC 0.7856 Pretrain Micro AUPRC 0.7467 Pretrain Macro AUROC 0.8388 Pretrain Macro AUPRC 0.8569
+Epoch: 1 Step: 5340 LR: 0.00100 Loss 0.5020, Pretrain Micro AUROC 0.8166 Pretrain Micro AUPRC 0.7883 Pretrain Macro AUROC 0.9166 Pretrain Macro AUPRC 0.9118
+Epoch: 1 Step: 5360 LR: 0.00100 Loss 0.5267, Pretrain Micro AUROC 0.7930 Pretrain Micro AUPRC 0.7691 Pretrain Macro AUROC 0.8776 Pretrain Macro AUPRC 0.8876
+Epoch: 1 Step: 5380 LR: 0.00100 Loss 0.5363, Pretrain Micro AUROC 0.7904 Pretrain Micro AUPRC 0.7534 Pretrain Macro AUROC 0.8661 Pretrain Macro AUPRC 0.8726
+Epoch: 1 Step: 5400 LR: 0.00100 Loss 0.5237, Pretrain Micro AUROC 0.8025 Pretrain Micro AUPRC 0.7680 Pretrain Macro AUROC 0.8449 Pretrain Macro AUPRC 0.8407
+Epoch: 1 Step: 5420 LR: 0.00100 Loss 0.5315, Pretrain Micro AUROC 0.7931 Pretrain Micro AUPRC 0.7643 Pretrain Macro AUROC 0.8592 Pretrain Macro AUPRC 0.8572
+Epoch: 1 Step: 5440 LR: 0.00100 Loss 0.5043, Pretrain Micro AUROC 0.8072 Pretrain Micro AUPRC 0.7782 Pretrain Macro AUROC 0.8566 Pretrain Macro AUPRC 0.8682
+Epoch: 1 Step: 5460 LR: 0.00100 Loss 0.5106, Pretrain Micro AUROC 0.8108 Pretrain Micro AUPRC 0.7744 Pretrain Macro AUROC 0.8144 Pretrain Macro AUPRC 0.8356
+Epoch: 1 Step: 5480 LR: 0.00100 Loss 0.5008, Pretrain Micro AUROC 0.8161 Pretrain Micro AUPRC 0.7883 Pretrain Macro AUROC 0.8266 Pretrain Macro AUPRC 0.8658
+Epoch: 1 Step: 5500 LR: 0.00100 Loss 0.5200, Pretrain Micro AUROC 0.8011 Pretrain Micro AUPRC 0.7692 Pretrain Macro AUROC 0.8501 Pretrain Macro AUPRC 0.8671
+Epoch: 1 Step: 5520 LR: 0.00100 Loss 0.5145, Pretrain Micro AUROC 0.8026 Pretrain Micro AUPRC 0.7726 Pretrain Macro AUROC 0.8028 Pretrain Macro AUPRC 0.8422
+Epoch: 1 Step: 5540 LR: 0.00100 Loss 0.4984, Pretrain Micro AUROC 0.8220 Pretrain Micro AUPRC 0.7899 Pretrain Macro AUROC 0.8294 Pretrain Macro AUPRC 0.8595
+Epoch: 1 Step: 5560 LR: 0.00100 Loss 0.5171, Pretrain Micro AUROC 0.7979 Pretrain Micro AUPRC 0.7664 Pretrain Macro AUROC 0.8300 Pretrain Macro AUPRC 0.8591
+Epoch: 1 Step: 5580 LR: 0.00100 Loss 0.5128, Pretrain Micro AUROC 0.8112 Pretrain Micro AUPRC 0.7840 Pretrain Macro AUROC 0.8840 Pretrain Macro AUPRC 0.8955
+Epoch: 1 Step: 5600 LR: 0.00100 Loss 0.5029, Pretrain Micro AUROC 0.8134 Pretrain Micro AUPRC 0.7981 Pretrain Macro AUROC 0.8756 Pretrain Macro AUPRC 0.8904
+Epoch: 1 Step: 5620 LR: 0.00100 Loss 0.5110, Pretrain Micro AUROC 0.8106 Pretrain Micro AUPRC 0.7757 Pretrain Macro AUROC 0.8737 Pretrain Macro AUPRC 0.8836
+Epoch: 1 Step: 5640 LR: 0.00100 Loss 0.5083, Pretrain Micro AUROC 0.8075 Pretrain Micro AUPRC 0.7767 Pretrain Macro AUROC 0.8515 Pretrain Macro AUPRC 0.8690
+Epoch: 1 Step: 5660 LR: 0.00100 Loss 0.5181, Pretrain Micro AUROC 0.7981 Pretrain Micro AUPRC 0.7691 Pretrain Macro AUROC 0.8356 Pretrain Macro AUPRC 0.8621
+Epoch: 1 Step: 5680 LR: 0.00100 Loss 0.5009, Pretrain Micro AUROC 0.8176 Pretrain Micro AUPRC 0.7921 Pretrain Macro AUROC 0.8299 Pretrain Macro AUPRC 0.8633
+Epoch: 1 Step: 5700 LR: 0.00100 Loss 0.5138, Pretrain Micro AUROC 0.8086 Pretrain Micro AUPRC 0.7827 Pretrain Macro AUROC 0.8240 Pretrain Macro AUPRC 0.8621
+Epoch: 1 Step: 5720 LR: 0.00100 Loss 0.5200, Pretrain Micro AUROC 0.7998 Pretrain Micro AUPRC 0.7738 Pretrain Macro AUROC 0.8127 Pretrain Macro AUPRC 0.8444
+Epoch: 1 Step: 5740 LR: 0.00100 Loss 0.4976, Pretrain Micro AUROC 0.8182 Pretrain Micro AUPRC 0.7882 Pretrain Macro AUROC 0.8973 Pretrain Macro AUPRC 0.8944
+Epoch: 1 Step: 5760 LR: 0.00100 Loss 0.5392, Pretrain Micro AUROC 0.7876 Pretrain Micro AUPRC 0.7511 Pretrain Macro AUROC 0.8556 Pretrain Macro AUPRC 0.8602
+Epoch: 1 Step: 5780 LR: 0.00100 Loss 0.4933, Pretrain Micro AUROC 0.8284 Pretrain Micro AUPRC 0.8046 Pretrain Macro AUROC 0.8374 Pretrain Macro AUPRC 0.8600
+Epoch: 1 Step: 5800 LR: 0.00100 Loss 0.5168, Pretrain Micro AUROC 0.8039 Pretrain Micro AUPRC 0.7767 Pretrain Macro AUROC 0.8349 Pretrain Macro AUPRC 0.8540
+Epoch: 1 Step: 5820 LR: 0.00100 Loss 0.5006, Pretrain Micro AUROC 0.8177 Pretrain Micro AUPRC 0.7962 Pretrain Macro AUROC 0.8112 Pretrain Macro AUPRC 0.8405
+Epoch: 1 Step: 5840 LR: 0.00100 Loss 0.5168, Pretrain Micro AUROC 0.8070 Pretrain Micro AUPRC 0.7774 Pretrain Macro AUROC 0.8813 Pretrain Macro AUPRC 0.8814
+Epoch: 1 Step: 5860 LR: 0.00100 Loss 0.5201, Pretrain Micro AUROC 0.8024 Pretrain Micro AUPRC 0.7753 Pretrain Macro AUROC 0.8305 Pretrain Macro AUPRC 0.8477
+Epoch: 1 Step: 5880 LR: 0.00100 Loss 0.5194, Pretrain Micro AUROC 0.7998 Pretrain Micro AUPRC 0.7742 Pretrain Macro AUROC 0.8730 Pretrain Macro AUPRC 0.8730
+Epoch: 1 Step: 5900 LR: 0.00100 Loss 0.5187, Pretrain Micro AUROC 0.8064 Pretrain Micro AUPRC 0.7704 Pretrain Macro AUROC 0.8670 Pretrain Macro AUPRC 0.8804
+Epoch: 1 Step: 5920 LR: 0.00100 Loss 0.5028, Pretrain Micro AUROC 0.8135 Pretrain Micro AUPRC 0.7868 Pretrain Macro AUROC 0.8907 Pretrain Macro AUPRC 0.9019
+Epoch: 1 Step: 5940 LR: 0.00100 Loss 0.5235, Pretrain Micro AUROC 0.7965 Pretrain Micro AUPRC 0.7752 Pretrain Macro AUROC 0.8678 Pretrain Macro AUPRC 0.8686
+Epoch: 1 Step: 5960 LR: 0.00100 Loss 0.5279, Pretrain Micro AUROC 0.7866 Pretrain Micro AUPRC 0.7589 Pretrain Macro AUROC 0.8444 Pretrain Macro AUPRC 0.8555
+Epoch: 1 Step: 5980 LR: 0.00100 Loss 0.5209, Pretrain Micro AUROC 0.7988 Pretrain Micro AUPRC 0.7727 Pretrain Macro AUROC 0.8340 Pretrain Macro AUPRC 0.8548
+Epoch: 1 Step: 6000 LR: 0.00100 Loss 0.5271, Pretrain Micro AUROC 0.7988 Pretrain Micro AUPRC 0.7726 Pretrain Macro AUROC 0.8809 Pretrain Macro AUPRC 0.8768
+Epoch: 1 Step: 6020 LR: 0.00100 Loss 0.5207, Pretrain Micro AUROC 0.7985 Pretrain Micro AUPRC 0.7627 Pretrain Macro AUROC 0.8270 Pretrain Macro AUPRC 0.8449
+Epoch: 1 Step: 6040 LR: 0.00100 Loss 0.5021, Pretrain Micro AUROC 0.8168 Pretrain Micro AUPRC 0.7852 Pretrain Macro AUROC 0.8232 Pretrain Macro AUPRC 0.8493
+Epoch: 1 Step: 6060 LR: 0.00100 Loss 0.5227, Pretrain Micro AUROC 0.7968 Pretrain Micro AUPRC 0.7698 Pretrain Macro AUROC 0.8585 Pretrain Macro AUPRC 0.8712
+Epoch: 1 Step: 6080 LR: 0.00100 Loss 0.5104, Pretrain Micro AUROC 0.8130 Pretrain Micro AUPRC 0.7888 Pretrain Macro AUROC 0.8850 Pretrain Macro AUPRC 0.8859
+Epoch: 1 Step: 6100 LR: 0.00100 Loss 0.5217, Pretrain Micro AUROC 0.7978 Pretrain Micro AUPRC 0.7694 Pretrain Macro AUROC 0.8519 Pretrain Macro AUPRC 0.8618
+Epoch: 1 Step: 6120 LR: 0.00100 Loss 0.5078, Pretrain Micro AUROC 0.8107 Pretrain Micro AUPRC 0.7799 Pretrain Macro AUROC 0.8958 Pretrain Macro AUPRC 0.8911
+Epoch: 1 Step: 6140 LR: 0.00100 Loss 0.4849, Pretrain Micro AUROC 0.8322 Pretrain Micro AUPRC 0.8128 Pretrain Macro AUROC 0.9069 Pretrain Macro AUPRC 0.9169
+Epoch: 1 Step: 6160 LR: 0.00100 Loss 0.5002, Pretrain Micro AUROC 0.8188 Pretrain Micro AUPRC 0.7951 Pretrain Macro AUROC 0.8618 Pretrain Macro AUPRC 0.8822
+Epoch: 1 Step: 6180 LR: 0.00100 Loss 0.5248, Pretrain Micro AUROC 0.7978 Pretrain Micro AUPRC 0.7678 Pretrain Macro AUROC 0.8760 Pretrain Macro AUPRC 0.8833
+Epoch: 1 Step: 6200 LR: 0.00100 Loss 0.5217, Pretrain Micro AUROC 0.8001 Pretrain Micro AUPRC 0.7665 Pretrain Macro AUROC 0.8480 Pretrain Macro AUPRC 0.8713
+Epoch: 1 Step: 6220 LR: 0.00100 Loss 0.5183, Pretrain Micro AUROC 0.8079 Pretrain Micro AUPRC 0.7745 Pretrain Macro AUROC 0.8220 Pretrain Macro AUPRC 0.8364
+Epoch: 1 Step: 6240 LR: 0.00100 Loss 0.5191, Pretrain Micro AUROC 0.8034 Pretrain Micro AUPRC 0.7733 Pretrain Macro AUROC 0.8068 Pretrain Macro AUPRC 0.8402
+Epoch: 1 Step: 6260 LR: 0.00100 Loss 0.5116, Pretrain Micro AUROC 0.8097 Pretrain Micro AUPRC 0.7821 Pretrain Macro AUROC 0.7985 Pretrain Macro AUPRC 0.8344
+Epoch: 1 Step: 6280 LR: 0.00100 Loss 0.5246, Pretrain Micro AUROC 0.7898 Pretrain Micro AUPRC 0.7632 Pretrain Macro AUROC 0.8532 Pretrain Macro AUPRC 0.8753
+Epoch: 1 Step: 6300 LR: 0.00100 Loss 0.5310, Pretrain Micro AUROC 0.7956 Pretrain Micro AUPRC 0.7657 Pretrain Macro AUROC 0.8600 Pretrain Macro AUPRC 0.8568
+Epoch: 1 Step: 6320 LR: 0.00100 Loss 0.5187, Pretrain Micro AUROC 0.8057 Pretrain Micro AUPRC 0.7743 Pretrain Macro AUROC 0.8832 Pretrain Macro AUPRC 0.8873
+Epoch: 1 Step: 6340 LR: 0.00100 Loss 0.5134, Pretrain Micro AUROC 0.8082 Pretrain Micro AUPRC 0.7727 Pretrain Macro AUROC 0.8797 Pretrain Macro AUPRC 0.8862
+Epoch: 1 Step: 6360 LR: 0.00100 Loss 0.5161, Pretrain Micro AUROC 0.8065 Pretrain Micro AUPRC 0.7806 Pretrain Macro AUROC 0.8822 Pretrain Macro AUPRC 0.8849
+Epoch: 1 Step: 6380 LR: 0.00100 Loss 0.5121, Pretrain Micro AUROC 0.8104 Pretrain Micro AUPRC 0.7693 Pretrain Macro AUROC 0.8682 Pretrain Macro AUPRC 0.8643
+Epoch: 1 Step: 6400 LR: 0.00100 Loss 0.5015, Pretrain Micro AUROC 0.8150 Pretrain Micro AUPRC 0.7927 Pretrain Macro AUROC 0.8656 Pretrain Macro AUPRC 0.8769
+Epoch: 1 Step: 6420 LR: 0.00100 Loss 0.5229, Pretrain Micro AUROC 0.7981 Pretrain Micro AUPRC 0.7723 Pretrain Macro AUROC 0.8371 Pretrain Macro AUPRC 0.8537
+Epoch: 1 Step: 6440 LR: 0.00100 Loss 0.5113, Pretrain Micro AUROC 0.8069 Pretrain Micro AUPRC 0.7798 Pretrain Macro AUROC 0.8732 Pretrain Macro AUPRC 0.8818
+Epoch: 1 Step: 6460 LR: 0.00100 Loss 0.5063, Pretrain Micro AUROC 0.8131 Pretrain Micro AUPRC 0.7857 Pretrain Macro AUROC 0.8742 Pretrain Macro AUPRC 0.8864
+Epoch: 1 Step: 6480 LR: 0.00100 Loss 0.5199, Pretrain Micro AUROC 0.8031 Pretrain Micro AUPRC 0.7716 Pretrain Macro AUROC 0.8184 Pretrain Macro AUPRC 0.8429
+Epoch: 1 Step: 6500 LR: 0.00100 Loss 0.5043, Pretrain Micro AUROC 0.8147 Pretrain Micro AUPRC 0.7855 Pretrain Macro AUROC 0.8393 Pretrain Macro AUPRC 0.8685
+Epoch: 1 Step: 6520 LR: 0.00100 Loss 0.5053, Pretrain Micro AUROC 0.8177 Pretrain Micro AUPRC 0.7899 Pretrain Macro AUROC 0.8555 Pretrain Macro AUPRC 0.8629
+Epoch: 1 Step: 6540 LR: 0.00100 Loss 0.5095, Pretrain Micro AUROC 0.8066 Pretrain Micro AUPRC 0.7820 Pretrain Macro AUROC 0.8601 Pretrain Macro AUPRC 0.8796
+Epoch: 1 Step: 6560 LR: 0.00100 Loss 0.5064, Pretrain Micro AUROC 0.8117 Pretrain Micro AUPRC 0.7913 Pretrain Macro AUROC 0.8278 Pretrain Macro AUPRC 0.8534
+Finetuning on drug_protein relation
+Epoch: 0 LR: 0.00050 Loss 0.6942, Train Micro AUROC 0.5567 Train Micro AUPRC 0.5481 Train Macro AUROC 0.5490 Train Macro AUPRC 0.5466
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.47309551817144535
+('gene/protein', 'rev_drug_protein', 'drug'): 0.624914301983764
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.47309551817144535
+('gene/protein', 'rev_drug_protein', 'drug'): 0.624914301983764
+----------------------------------------------
+Validation.....
+Epoch: 0 LR: 0.00050 Validation Loss 0.7079,  Validation Micro AUROC 0.5177 Validation Micro AUPRC 0.5248 Validation Macro AUROC 0.5146 Validation Macro AUPRC 0.5147 (Best Macro AUROC 0.5146)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.4688610273896124
+('gene/protein', 'rev_drug_protein', 'drug'): 0.5604080074015027
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.4688610273896124
+('gene/protein', 'rev_drug_protein', 'drug'): 0.5604080074015027
+----------------------------------------------
+Epoch: 5 LR: 0.00050 Loss 0.6488, Train Micro AUROC 0.6833 Train Micro AUPRC 0.6603 Train Macro AUROC 0.6861 Train Macro AUPRC 0.6656
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.6711897342027908
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7009202141176636
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.6711897342027908
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7009202141176636
+----------------------------------------------
+Epoch: 10 LR: 0.00050 Loss 0.6153, Train Micro AUROC 0.7398 Train Micro AUPRC 0.7196 Train Macro AUROC 0.7508 Train Macro AUPRC 0.7369
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.7804638546316742
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7211955108138369
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.7804638546316742
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7211955108138369
+----------------------------------------------
+Epoch: 15 LR: 0.00050 Loss 0.5913, Train Micro AUROC 0.7609 Train Micro AUPRC 0.7409 Train Macro AUROC 0.7700 Train Macro AUPRC 0.7572
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8084927622562502
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7315030833868265
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8084927622562502
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7315030833868265
+----------------------------------------------
+Epoch: 20 LR: 0.00050 Loss 0.5713, Train Micro AUROC 0.7781 Train Micro AUPRC 0.7643 Train Macro AUROC 0.7822 Train Macro AUPRC 0.7686
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8215937343296752
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7428949872325615
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8215937343296752
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7428949872325615
+----------------------------------------------
+Validation.....
+Epoch: 20 LR: 0.00050 Validation Loss 0.6553,  Validation Micro AUROC 0.6642 Validation Micro AUPRC 0.6491 Validation Macro AUROC 0.6630 Validation Macro AUPRC 0.6541 (Best Macro AUROC 0.6630)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.7445626892356163
+('gene/protein', 'rev_drug_protein', 'drug'): 0.5815341713770339
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.7445626892356163
+('gene/protein', 'rev_drug_protein', 'drug'): 0.5815341713770339
+----------------------------------------------
+Epoch: 25 LR: 0.00050 Loss 0.5531, Train Micro AUROC 0.7942 Train Micro AUPRC 0.7829 Train Macro AUROC 0.7939 Train Macro AUPRC 0.7798
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8321968867675331
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7556312523177259
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8321968867675331
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7556312523177259
+----------------------------------------------
+Epoch: 30 LR: 0.00050 Loss 0.5390, Train Micro AUROC 0.8062 Train Micro AUPRC 0.7966 Train Macro AUROC 0.8047 Train Macro AUPRC 0.7906
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8371423867173741
+('gene/protein', 'rev_drug_protein', 'drug'): 0.772325088651088
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8371423867173741
+('gene/protein', 'rev_drug_protein', 'drug'): 0.772325088651088
+----------------------------------------------
+Epoch: 35 LR: 0.00050 Loss 0.5254, Train Micro AUROC 0.8177 Train Micro AUPRC 0.8073 Train Macro AUROC 0.8165 Train Macro AUPRC 0.8022
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.843784011565133
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7892916079878926
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.843784011565133
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7892916079878926
+----------------------------------------------
+Epoch: 40 LR: 0.00050 Loss 0.5095, Train Micro AUROC 0.8307 Train Micro AUPRC 0.8214 Train Macro AUROC 0.8298 Train Macro AUPRC 0.8172
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8543299773789609
+('gene/protein', 'rev_drug_protein', 'drug'): 0.805280186242145
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8543299773789609
+('gene/protein', 'rev_drug_protein', 'drug'): 0.805280186242145
+----------------------------------------------
+Validation.....
+Epoch: 40 LR: 0.00050 Validation Loss 0.6259,  Validation Micro AUROC 0.7134 Validation Micro AUPRC 0.7048 Validation Macro AUROC 0.7089 Validation Macro AUPRC 0.6964 (Best Macro AUROC 0.7089)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.770555466217495
+('gene/protein', 'rev_drug_protein', 'drug'): 0.6472256328763297
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.770555466217495
+('gene/protein', 'rev_drug_protein', 'drug'): 0.6472256328763297
+----------------------------------------------
+Epoch: 45 LR: 0.00050 Loss 0.4958, Train Micro AUROC 0.8409 Train Micro AUPRC 0.8305 Train Macro AUROC 0.8399 Train Macro AUPRC 0.8263
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8632080635851482
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8166435589029682
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8632080635851482
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8166435589029682
+----------------------------------------------
+Epoch: 50 LR: 0.00050 Loss 0.4827, Train Micro AUROC 0.8514 Train Micro AUPRC 0.8398 Train Macro AUROC 0.8505 Train Macro AUPRC 0.8358
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8725863554419437
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8283493662604431
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8725863554419437
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8283493662604431
+----------------------------------------------
+Epoch: 55 LR: 0.00050 Loss 0.4714, Train Micro AUROC 0.8602 Train Micro AUPRC 0.8469 Train Macro AUROC 0.8595 Train Macro AUPRC 0.8439
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.879113663120975
+('gene/protein', 'rev_drug_protein', 'drug'): 0.839824599595328
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.879113663120975
+('gene/protein', 'rev_drug_protein', 'drug'): 0.839824599595328
+----------------------------------------------
+Epoch: 60 LR: 0.00050 Loss 0.4576, Train Micro AUROC 0.8689 Train Micro AUPRC 0.8568 Train Macro AUROC 0.8679 Train Macro AUPRC 0.8534
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8866761204984834
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8491930005973702
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8866761204984834
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8491930005973702
+----------------------------------------------
+Validation.....
+Epoch: 60 LR: 0.00050 Validation Loss 0.6013,  Validation Micro AUROC 0.7469 Validation Micro AUPRC 0.7336 Validation Macro AUROC 0.7447 Validation Macro AUPRC 0.7263 (Best Macro AUROC 0.7447)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.7926576904190463
+('gene/protein', 'rev_drug_protein', 'drug'): 0.6967249062201852
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.7926576904190463
+('gene/protein', 'rev_drug_protein', 'drug'): 0.6967249062201852
+----------------------------------------------
+Epoch: 65 LR: 0.00050 Loss 0.4455, Train Micro AUROC 0.8774 Train Micro AUPRC 0.8620 Train Macro AUROC 0.8764 Train Macro AUPRC 0.8588
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8939136047439296
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8587957318376593
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8939136047439296
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8587957318376593
+----------------------------------------------
+Epoch: 70 LR: 0.00050 Loss 0.4364, Train Micro AUROC 0.8816 Train Micro AUPRC 0.8675 Train Macro AUROC 0.8805 Train Macro AUPRC 0.8632
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8984399765622699
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8625513965979278
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8984399765622699
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8625513965979278
+----------------------------------------------
+Epoch: 75 LR: 0.00050 Loss 0.4239, Train Micro AUROC 0.8890 Train Micro AUPRC 0.8744 Train Macro AUROC 0.8879 Train Macro AUPRC 0.8700
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9046414380310097
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8711346264725905
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9046414380310097
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8711346264725905
+----------------------------------------------
+Epoch: 80 LR: 0.00050 Loss 0.4146, Train Micro AUROC 0.8935 Train Micro AUPRC 0.8790 Train Macro AUROC 0.8923 Train Macro AUPRC 0.8746
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9085091262053626
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8760996255360876
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9085091262053626
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8760996255360876
+----------------------------------------------
+Validation.....
+Epoch: 80 LR: 0.00050 Validation Loss 0.5898,  Validation Micro AUROC 0.7655 Validation Micro AUPRC 0.7498 Validation Macro AUROC 0.7634 Validation Macro AUPRC 0.7427 (Best Macro AUROC 0.7634)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8081690291434165
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7185473322385709
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8081690291434165
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7185473322385709
+----------------------------------------------
+Epoch: 85 LR: 0.00050 Loss 0.4036, Train Micro AUROC 0.8994 Train Micro AUPRC 0.8862 Train Macro AUROC 0.8986 Train Macro AUPRC 0.8826
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9118451020408092
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8853388076613851
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9118451020408092
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8853388076613851
+----------------------------------------------
+Epoch: 90 LR: 0.00050 Loss 0.3939, Train Micro AUROC 0.9043 Train Micro AUPRC 0.8898 Train Macro AUROC 0.9032 Train Macro AUPRC 0.8862
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9175960309520614
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8888965970480684
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9175960309520614
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8888965970480684
+----------------------------------------------
+Epoch: 95 LR: 0.00050 Loss 0.3881, Train Micro AUROC 0.9072 Train Micro AUPRC 0.8932 Train Macro AUROC 0.9060 Train Macro AUPRC 0.8893
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9212010083477362
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8908512520654348
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9212010083477362
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8908512520654348
+----------------------------------------------
+Epoch: 100 LR: 0.00050 Loss 0.3825, Train Micro AUROC 0.9095 Train Micro AUPRC 0.8955 Train Macro AUROC 0.9084 Train Macro AUPRC 0.8918
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9228667657375144
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8939763894048187
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9228667657375144
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8939763894048187
+----------------------------------------------
+Validation.....
+Epoch: 100 LR: 0.00050 Validation Loss 0.5817,  Validation Micro AUROC 0.7773 Validation Micro AUPRC 0.7602 Validation Macro AUROC 0.7756 Validation Macro AUPRC 0.7541 (Best Macro AUROC 0.7756)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8164791214078374
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7347442627360986
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8164791214078374
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7347442627360986
+----------------------------------------------
+Epoch: 105 LR: 0.00050 Loss 0.3749, Train Micro AUROC 0.9130 Train Micro AUPRC 0.8990 Train Macro AUROC 0.9122 Train Macro AUPRC 0.8958
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.924676676699897
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8997689533715879
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.924676676699897
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8997689533715879
+----------------------------------------------
+Epoch: 110 LR: 0.00050 Loss 0.3664, Train Micro AUROC 0.9169 Train Micro AUPRC 0.9038 Train Macro AUROC 0.9159 Train Macro AUPRC 0.9003
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9292396276371053
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9024656830993977
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9292396276371053
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9024656830993977
+----------------------------------------------
+Epoch: 115 LR: 0.00050 Loss 0.3615, Train Micro AUROC 0.9195 Train Micro AUPRC 0.9063 Train Macro AUROC 0.9185 Train Macro AUPRC 0.9026
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9305746929025398
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9064156968328961
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9305746929025398
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9064156968328961
+----------------------------------------------
+Epoch: 120 LR: 0.00050 Loss 0.3580, Train Micro AUROC 0.9207 Train Micro AUPRC 0.9070 Train Macro AUROC 0.9200 Train Macro AUPRC 0.9036
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.930887423146684
+('gene/protein', 'rev_drug_protein', 'drug'): 0.909050503982099
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.930887423146684
+('gene/protein', 'rev_drug_protein', 'drug'): 0.909050503982099
+----------------------------------------------
+Validation.....
+Epoch: 120 LR: 0.00050 Validation Loss 0.5810,  Validation Micro AUROC 0.7859 Validation Micro AUPRC 0.7692 Validation Macro AUROC 0.7846 Validation Macro AUPRC 0.7636 (Best Macro AUROC 0.7846)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.822724139254133
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7464573087898447
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.822724139254133
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7464573087898447
+----------------------------------------------
+Epoch: 125 LR: 0.00050 Loss 0.3532, Train Micro AUROC 0.9227 Train Micro AUPRC 0.9095 Train Macro AUROC 0.9217 Train Macro AUPRC 0.9060
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9335456989465812
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9098762754463378
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9335456989465812
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9098762754463378
+----------------------------------------------
+Epoch: 130 LR: 0.00050 Loss 0.3477, Train Micro AUROC 0.9252 Train Micro AUPRC 0.9119 Train Macro AUROC 0.9245 Train Macro AUPRC 0.9088
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9346280058653966
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9144601637671321
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9346280058653966
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9144601637671321
+----------------------------------------------
+Epoch: 135 LR: 0.00050 Loss 0.3419, Train Micro AUROC 0.9279 Train Micro AUPRC 0.9156 Train Macro AUROC 0.9270 Train Macro AUPRC 0.9121
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9379815246354439
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9159743717100346
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9379815246354439
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9159743717100346
+----------------------------------------------
+Epoch: 140 LR: 0.00050 Loss 0.3377, Train Micro AUROC 0.9296 Train Micro AUPRC 0.9171 Train Macro AUROC 0.9287 Train Macro AUPRC 0.9135
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.939704637986843
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9176342198776398
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.939704637986843
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9176342198776398
+----------------------------------------------
+Validation.....
+Epoch: 140 LR: 0.00050 Validation Loss 0.5724,  Validation Micro AUROC 0.7933 Validation Micro AUPRC 0.7766 Validation Macro AUROC 0.7918 Validation Macro AUPRC 0.7709 (Best Macro AUROC 0.7918)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8277293579860394
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7559610701138032
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8277293579860394
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7559610701138032
+----------------------------------------------
+Epoch: 145 LR: 0.00050 Loss 0.3335, Train Micro AUROC 0.9312 Train Micro AUPRC 0.9192 Train Macro AUROC 0.9303 Train Macro AUPRC 0.9154
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9421460451130825
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9185260659902523
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9421460451130825
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9185260659902523
+----------------------------------------------
+Epoch: 150 LR: 0.00050 Loss 0.3312, Train Micro AUROC 0.9319 Train Micro AUPRC 0.9201 Train Macro AUROC 0.9311 Train Macro AUPRC 0.9168
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9418547239786709
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9202515852549588
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9418547239786709
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9202515852549588
+----------------------------------------------
+Epoch: 155 LR: 0.00050 Loss 0.3262, Train Micro AUROC 0.9342 Train Micro AUPRC 0.9222 Train Macro AUROC 0.9334 Train Macro AUPRC 0.9191
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9435866670758919
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9232041741865752
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9435866670758919
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9232041741865752
+----------------------------------------------
+Epoch: 160 LR: 0.00050 Loss 0.3223, Train Micro AUROC 0.9357 Train Micro AUPRC 0.9238 Train Macro AUROC 0.9349 Train Macro AUPRC 0.9208
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9457101846594322
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9240934164588257
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9457101846594322
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9240934164588257
+----------------------------------------------
+Validation.....
+Epoch: 160 LR: 0.00050 Validation Loss 0.5684,  Validation Micro AUROC 0.7990 Validation Micro AUPRC 0.7815 Validation Macro AUROC 0.7976 Validation Macro AUPRC 0.7762 (Best Macro AUROC 0.7976)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8322005243305861
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7629374864466019
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8322005243305861
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7629374864466019
+----------------------------------------------
+Epoch: 165 LR: 0.00050 Loss 0.3199, Train Micro AUROC 0.9365 Train Micro AUPRC 0.9243 Train Macro AUROC 0.9357 Train Macro AUPRC 0.9211
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9462487342784782
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9251382249975642
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9462487342784782
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9251382249975642
+----------------------------------------------
+Epoch: 170 LR: 0.00050 Loss 0.3203, Train Micro AUROC 0.9367 Train Micro AUPRC 0.9250 Train Macro AUROC 0.9358 Train Macro AUPRC 0.9214
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9462722106263357
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9254135888130011
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9462722106263357
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9254135888130011
+----------------------------------------------
+Epoch: 175 LR: 0.00050 Loss 0.3150, Train Micro AUROC 0.9386 Train Micro AUPRC 0.9270 Train Macro AUROC 0.9379 Train Macro AUPRC 0.9243
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9477928413021579
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9280235363241535
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9477928413021579
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9280235363241535
+----------------------------------------------
+Epoch: 180 LR: 0.00050 Loss 0.3115, Train Micro AUROC 0.9400 Train Micro AUPRC 0.9282 Train Macro AUROC 0.9392 Train Macro AUPRC 0.9252
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9491159594706617
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9291891419434662
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9491159594706617
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9291891419434662
+----------------------------------------------
+Validation.....
+Epoch: 180 LR: 0.00050 Validation Loss 0.5655,  Validation Micro AUROC 0.8038 Validation Micro AUPRC 0.7869 Validation Macro AUROC 0.8023 Validation Macro AUPRC 0.7817 (Best Macro AUROC 0.8023)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8364799491620928
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7681208663482975
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8364799491620928
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7681208663482975
+----------------------------------------------
+Epoch: 185 LR: 0.00050 Loss 0.3056, Train Micro AUROC 0.9421 Train Micro AUPRC 0.9315 Train Macro AUROC 0.9413 Train Macro AUPRC 0.9288
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9511687731119423
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9314236306289179
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9511687731119423
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9314236306289179
+----------------------------------------------
+Epoch: 190 LR: 0.00050 Loss 0.3053, Train Micro AUROC 0.9421 Train Micro AUPRC 0.9304 Train Macro AUROC 0.9413 Train Macro AUPRC 0.9272
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9510713083323139
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9314739469849657
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9510713083323139
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9314739469849657
+----------------------------------------------
+Epoch: 195 LR: 0.00050 Loss 0.3039, Train Micro AUROC 0.9424 Train Micro AUPRC 0.9305 Train Macro AUROC 0.9417 Train Macro AUPRC 0.9277
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9512004161499892
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9322805800026257
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9512004161499892
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9322805800026257
+----------------------------------------------
+Epoch: 200 LR: 0.00050 Loss 0.3021, Train Micro AUROC 0.9431 Train Micro AUPRC 0.9312 Train Macro AUROC 0.9424 Train Macro AUPRC 0.9283
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9530160098180265
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9317957400890181
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9530160098180265
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9317957400890181
+----------------------------------------------
+Validation.....
+Epoch: 200 LR: 0.00050 Validation Loss 0.5625,  Validation Micro AUROC 0.8077 Validation Micro AUPRC 0.7910 Validation Macro AUROC 0.8061 Validation Macro AUPRC 0.7858 (Best Macro AUROC 0.8061)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8397653683139983
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7723687114927211
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8397653683139983
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7723687114927211
+----------------------------------------------
+Epoch: 205 LR: 0.00050 Loss 0.2978, Train Micro AUROC 0.9454 Train Micro AUPRC 0.9343 Train Macro AUROC 0.9447 Train Macro AUPRC 0.9314
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9541818705433204
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9351813032491952
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9541818705433204
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9351813032491952
+----------------------------------------------
+Epoch: 210 LR: 0.00050 Loss 0.2972, Train Micro AUROC 0.9449 Train Micro AUPRC 0.9343 Train Macro AUROC 0.9441 Train Macro AUPRC 0.9310
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9548234499910114
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9333032580974774
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9548234499910114
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9333032580974774
+----------------------------------------------
+Epoch: 215 LR: 0.00050 Loss 0.2936, Train Micro AUROC 0.9460 Train Micro AUPRC 0.9350 Train Macro AUROC 0.9454 Train Macro AUPRC 0.9326
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9545099060467542
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9362216826202909
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9545099060467542
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9362216826202909
+----------------------------------------------
+Epoch: 220 LR: 0.00050 Loss 0.2929, Train Micro AUROC 0.9460 Train Micro AUPRC 0.9344 Train Macro AUROC 0.9455 Train Macro AUPRC 0.9322
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.954535684946013
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9363791434885289
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.954535684946013
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9363791434885289
+----------------------------------------------
+Validation.....
+Epoch: 220 LR: 0.00050 Validation Loss 0.5588,  Validation Micro AUROC 0.8111 Validation Micro AUPRC 0.7940 Validation Macro AUROC 0.8097 Validation Macro AUPRC 0.7896 (Best Macro AUROC 0.8097)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8432974970349584
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7760266739497544
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8432974970349584
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7760266739497544
+----------------------------------------------
+Epoch: 225 LR: 0.00050 Loss 0.2881, Train Micro AUROC 0.9480 Train Micro AUPRC 0.9375 Train Macro AUROC 0.9474 Train Macro AUPRC 0.9353
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9559811957070696
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9387947266321249
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9559811957070696
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9387947266321249
+----------------------------------------------
+Epoch: 230 LR: 0.00050 Loss 0.2864, Train Micro AUROC 0.9485 Train Micro AUPRC 0.9377 Train Macro AUROC 0.9477 Train Macro AUPRC 0.9350
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9568557155052465
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9385494697208729
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9568557155052465
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9385494697208729
+----------------------------------------------
+Epoch: 235 LR: 0.00050 Loss 0.2844, Train Micro AUROC 0.9491 Train Micro AUPRC 0.9383 Train Macro AUROC 0.9484 Train Macro AUPRC 0.9355
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9578312836623338
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9389804503841561
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9578312836623338
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9389804503841561
+----------------------------------------------
+Epoch: 240 LR: 0.00050 Loss 0.2833, Train Micro AUROC 0.9494 Train Micro AUPRC 0.9379 Train Macro AUROC 0.9487 Train Macro AUPRC 0.9353
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9581486146109013
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9391934946672822
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9581486146109013
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9391934946672822
+----------------------------------------------
+Validation.....
+Epoch: 240 LR: 0.00050 Validation Loss 0.5571,  Validation Micro AUROC 0.8147 Validation Micro AUPRC 0.7983 Validation Macro AUROC 0.8133 Validation Macro AUPRC 0.7942 (Best Macro AUROC 0.8133)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8461504469226294
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7803595579102481
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8461504469226294
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7803595579102481
+----------------------------------------------
+Epoch: 245 LR: 0.00050 Loss 0.2786, Train Micro AUROC 0.9514 Train Micro AUPRC 0.9417 Train Macro AUROC 0.9505 Train Macro AUPRC 0.9389
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9607328920826749
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9402721531307257
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9607328920826749
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9402721531307257
+----------------------------------------------
+Epoch: 250 LR: 0.00050 Loss 0.2776, Train Micro AUROC 0.9515 Train Micro AUPRC 0.9412 Train Macro AUROC 0.9509 Train Macro AUPRC 0.9387
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9595344338710933
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9422137339665451
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9595344338710933
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9422137339665451
+----------------------------------------------
+Epoch: 255 LR: 0.00050 Loss 0.2782, Train Micro AUROC 0.9524 Train Micro AUPRC 0.9425 Train Macro AUROC 0.9517 Train Macro AUPRC 0.9400
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9613632391700209
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9420989241793707
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9613632391700209
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9420989241793707
+----------------------------------------------
+Epoch: 260 LR: 0.00050 Loss 0.2730, Train Micro AUROC 0.9541 Train Micro AUPRC 0.9449 Train Macro AUROC 0.9534 Train Macro AUPRC 0.9425
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9626336273720062
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9442188614824134
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9626336273720062
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9442188614824134
+----------------------------------------------
+Validation.....
+Epoch: 260 LR: 0.00050 Validation Loss 0.5556,  Validation Micro AUROC 0.8171 Validation Micro AUPRC 0.8007 Validation Macro AUROC 0.8156 Validation Macro AUPRC 0.7965 (Best Macro AUROC 0.8156)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8484684821789251
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7827302978320168
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8484684821789251
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7827302978320168
+----------------------------------------------
+Epoch: 265 LR: 0.00050 Loss 0.2724, Train Micro AUROC 0.9534 Train Micro AUPRC 0.9435 Train Macro AUROC 0.9526 Train Macro AUPRC 0.9408
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9625700488037094
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9425493280842726
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9625700488037094
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9425493280842726
+----------------------------------------------
+Epoch: 270 LR: 0.00050 Loss 0.2706, Train Micro AUROC 0.9537 Train Micro AUPRC 0.9439 Train Macro AUROC 0.9530 Train Macro AUPRC 0.9416
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9621810319747727
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9439185808499998
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9621810319747727
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9439185808499998
+----------------------------------------------
+Epoch: 275 LR: 0.00050 Loss 0.2703, Train Micro AUROC 0.9540 Train Micro AUPRC 0.9438 Train Macro AUROC 0.9534 Train Macro AUPRC 0.9415
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9623153045889766
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9444655258749423
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9623153045889766
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9444655258749423
+----------------------------------------------
+Epoch: 280 LR: 0.00050 Loss 0.2646, Train Micro AUROC 0.9559 Train Micro AUPRC 0.9467 Train Macro AUROC 0.9553 Train Macro AUPRC 0.9444
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9640768575735567
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9465189475921181
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9640768575735567
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9465189475921181
+----------------------------------------------
+Validation.....
+Epoch: 280 LR: 0.00050 Validation Loss 0.5556,  Validation Micro AUROC 0.8200 Validation Micro AUPRC 0.8040 Validation Macro AUROC 0.8188 Validation Macro AUPRC 0.8007 (Best Macro AUROC 0.8188)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8509219975262221
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7865817262901218
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8509219975262221
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7865817262901218
+----------------------------------------------
+Epoch: 285 LR: 0.00050 Loss 0.2669, Train Micro AUROC 0.9547 Train Micro AUPRC 0.9445 Train Macro AUROC 0.9542 Train Macro AUPRC 0.9424
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9630508015236408
+('gene/protein', 'rev_drug_protein', 'drug'): 0.945411561116303
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9630508015236408
+('gene/protein', 'rev_drug_protein', 'drug'): 0.945411561116303
+----------------------------------------------
+Epoch: 290 LR: 0.00050 Loss 0.2655, Train Micro AUROC 0.9558 Train Micro AUPRC 0.9463 Train Macro AUROC 0.9552 Train Macro AUPRC 0.9439
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9647940385585125
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9456055296297504
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9647940385585125
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9456055296297504
+----------------------------------------------
+Epoch: 295 LR: 0.00050 Loss 0.2612, Train Micro AUROC 0.9569 Train Micro AUPRC 0.9478 Train Macro AUROC 0.9561 Train Macro AUPRC 0.9453
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9655972727288081
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9466548212162742
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9655972727288081
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9466548212162742
+----------------------------------------------
+Epoch: 300 LR: 0.00050 Loss 0.2595, Train Micro AUROC 0.9571 Train Micro AUPRC 0.9474 Train Macro AUROC 0.9564 Train Macro AUPRC 0.9450
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9654377006386552
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9473940985576801
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9654377006386552
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9473940985576801
+----------------------------------------------
+Validation.....
+Epoch: 300 LR: 0.00050 Validation Loss 0.5538,  Validation Micro AUROC 0.8211 Validation Micro AUPRC 0.8051 Validation Macro AUROC 0.8195 Validation Macro AUPRC 0.8011 (Best Macro AUROC 0.8195)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8524452593608444
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7865151179398921
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8524452593608444
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7865151179398921
+----------------------------------------------
+Epoch: 305 LR: 0.00050 Loss 0.2602, Train Micro AUROC 0.9570 Train Micro AUPRC 0.9473 Train Macro AUROC 0.9563 Train Macro AUPRC 0.9448
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9658927228414963
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9466508967626206
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9658927228414963
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9466508967626206
+----------------------------------------------
+Epoch: 310 LR: 0.00050 Loss 0.2568, Train Micro AUROC 0.9584 Train Micro AUPRC 0.9492 Train Macro AUROC 0.9576 Train Macro AUPRC 0.9467
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.967057945801837
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9481917995672065
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.967057945801837
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9481917995672065
+----------------------------------------------
+Epoch: 315 LR: 0.00050 Loss 0.2530, Train Micro AUROC 0.9594 Train Micro AUPRC 0.9502 Train Macro AUROC 0.9587 Train Macro AUPRC 0.9479
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9682011955603397
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9491792279532397
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9682011955603397
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9491792279532397
+----------------------------------------------
+Epoch: 320 LR: 0.00050 Loss 0.2524, Train Micro AUROC 0.9594 Train Micro AUPRC 0.9503 Train Macro AUROC 0.9588 Train Macro AUPRC 0.9482
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.967283854243913
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9502460591755797
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.967283854243913
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9502460591755797
+----------------------------------------------
+Validation.....
+Epoch: 320 LR: 0.00050 Validation Loss 0.5525,  Validation Micro AUROC 0.8235 Validation Micro AUPRC 0.8080 Validation Macro AUROC 0.8218 Validation Macro AUPRC 0.8041 (Best Macro AUROC 0.8218)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8542100573004261
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7894832851841904
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8542100573004261
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7894832851841904
+----------------------------------------------
+Epoch: 325 LR: 0.00050 Loss 0.2520, Train Micro AUROC 0.9596 Train Micro AUPRC 0.9505 Train Macro AUROC 0.9588 Train Macro AUPRC 0.9480
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9680800828960728
+('gene/protein', 'rev_drug_protein', 'drug'): 0.949456757970329
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9680800828960728
+('gene/protein', 'rev_drug_protein', 'drug'): 0.949456757970329
+----------------------------------------------
+Epoch: 330 LR: 0.00050 Loss 0.2522, Train Micro AUROC 0.9592 Train Micro AUPRC 0.9496 Train Macro AUROC 0.9586 Train Macro AUPRC 0.9475
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9669357907217496
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9502025042276339
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9669357907217496
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9502025042276339
+----------------------------------------------
+Epoch: 335 LR: 0.00050 Loss 0.2506, Train Micro AUROC 0.9599 Train Micro AUPRC 0.9507 Train Macro AUROC 0.9594 Train Macro AUPRC 0.9487
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9682353511723844
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9505656113055372
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9682353511723844
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9505656113055372
+----------------------------------------------
+Epoch: 340 LR: 0.00050 Loss 0.2518, Train Micro AUROC 0.9592 Train Micro AUPRC 0.9495 Train Macro AUROC 0.9585 Train Macro AUPRC 0.9473
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9677421774301861
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9493511770818698
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9677421774301861
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9493511770818698
+----------------------------------------------
+Validation.....
+Epoch: 340 LR: 0.00050 Validation Loss 0.5519,  Validation Micro AUROC 0.8251 Validation Micro AUPRC 0.8099 Validation Macro AUROC 0.8234 Validation Macro AUPRC 0.8061 (Best Macro AUROC 0.8234)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8558241780982261
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7909282983743682
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8558241780982261
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7909282983743682
+----------------------------------------------
+Epoch: 345 LR: 0.00050 Loss 0.2466, Train Micro AUROC 0.9612 Train Micro AUPRC 0.9523 Train Macro AUROC 0.9605 Train Macro AUPRC 0.9501
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9692289878703615
+('gene/protein', 'rev_drug_protein', 'drug'): 0.951844364124766
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9692289878703615
+('gene/protein', 'rev_drug_protein', 'drug'): 0.951844364124766
+----------------------------------------------
+Epoch: 350 LR: 0.00050 Loss 0.2475, Train Micro AUROC 0.9608 Train Micro AUPRC 0.9516 Train Macro AUROC 0.9602 Train Macro AUPRC 0.9493
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9692779858123073
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9510449928308181
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9692779858123073
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9510449928308181
+----------------------------------------------
+Epoch: 355 LR: 0.00050 Loss 0.2461, Train Micro AUROC 0.9614 Train Micro AUPRC 0.9516 Train Macro AUROC 0.9606 Train Macro AUPRC 0.9493
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9698780060765191
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9513949025725627
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9698780060765191
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9513949025725627
+----------------------------------------------
+Epoch: 360 LR: 0.00050 Loss 0.2414, Train Micro AUROC 0.9626 Train Micro AUPRC 0.9542 Train Macro AUROC 0.9620 Train Macro AUPRC 0.9523
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9704123640403877
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9535432742961792
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9704123640403877
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9535432742961792
+----------------------------------------------
+Validation.....
+Epoch: 360 LR: 0.00050 Validation Loss 0.5500,  Validation Micro AUROC 0.8272 Validation Micro AUPRC 0.8124 Validation Macro AUROC 0.8256 Validation Macro AUPRC 0.8088 (Best Macro AUROC 0.8256)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8574367899689981
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7937183044488773
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8574367899689981
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7937183044488773
+----------------------------------------------
+Epoch: 365 LR: 0.00050 Loss 0.2430, Train Micro AUROC 0.9620 Train Micro AUPRC 0.9529 Train Macro AUROC 0.9613 Train Macro AUPRC 0.9508
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9699797361841728
+('gene/protein', 'rev_drug_protein', 'drug'): 0.952547326250043
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9699797361841728
+('gene/protein', 'rev_drug_protein', 'drug'): 0.952547326250043
+----------------------------------------------
+Epoch: 370 LR: 0.00050 Loss 0.2403, Train Micro AUROC 0.9629 Train Micro AUPRC 0.9544 Train Macro AUROC 0.9623 Train Macro AUPRC 0.9525
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9709317741132595
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9537348204023981
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9709317741132595
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9537348204023981
+----------------------------------------------
+Epoch: 375 LR: 0.00050 Loss 0.2409, Train Micro AUROC 0.9625 Train Micro AUPRC 0.9533 Train Macro AUROC 0.9618 Train Macro AUPRC 0.9512
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9709319995301826
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9526717816823419
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9709319995301826
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9526717816823419
+----------------------------------------------
+Epoch: 380 LR: 0.00050 Loss 0.2404, Train Micro AUROC 0.9629 Train Micro AUPRC 0.9540 Train Macro AUROC 0.9622 Train Macro AUPRC 0.9517
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9709625957540302
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9533615123840231
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9709625957540302
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9533615123840231
+----------------------------------------------
+Validation.....
+Epoch: 380 LR: 0.00050 Validation Loss 0.5522,  Validation Micro AUROC 0.8280 Validation Micro AUPRC 0.8129 Validation Macro AUROC 0.8264 Validation Macro AUPRC 0.8096 (Best Macro AUROC 0.8264)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8588738274020287
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7940187964884251
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8588738274020287
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7940187964884251
+----------------------------------------------
+Epoch: 385 LR: 0.00050 Loss 0.2385, Train Micro AUROC 0.9635 Train Micro AUPRC 0.9546 Train Macro AUROC 0.9630 Train Macro AUPRC 0.9528
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9714430790732482
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9546182810054666
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9714430790732482
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9546182810054666
+----------------------------------------------
+Epoch: 390 LR: 0.00050 Loss 0.2354, Train Micro AUROC 0.9643 Train Micro AUPRC 0.9554 Train Macro AUROC 0.9636 Train Macro AUPRC 0.9534
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9722604221437481
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9549124819785219
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9722604221437481
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9549124819785219
+----------------------------------------------
+Epoch: 395 LR: 0.00050 Loss 0.2377, Train Micro AUROC 0.9633 Train Micro AUPRC 0.9544 Train Macro AUROC 0.9627 Train Macro AUPRC 0.9521
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9713450798905724
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9540085832078827
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9713450798905724
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9540085832078827
+----------------------------------------------
+Epoch: 400 LR: 0.00050 Loss 0.2324, Train Micro AUROC 0.9650 Train Micro AUPRC 0.9567 Train Macro AUROC 0.9643 Train Macro AUPRC 0.9546
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9732328817464845
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9553300233948019
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9732328817464845
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9553300233948019
+----------------------------------------------
+Validation.....
+Epoch: 400 LR: 0.00050 Validation Loss 0.5526,  Validation Micro AUROC 0.8289 Validation Micro AUPRC 0.8130 Validation Macro AUROC 0.8274 Validation Macro AUPRC 0.8102 (Best Macro AUROC 0.8274)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8597736868131417
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7950548904540533
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8597736868131417
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7950548904540533
+----------------------------------------------
+Epoch: 405 LR: 0.00050 Loss 0.2348, Train Micro AUROC 0.9642 Train Micro AUPRC 0.9551 Train Macro AUROC 0.9637 Train Macro AUPRC 0.9534
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9720792859010031
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9553485130804801
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9720792859010031
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9553485130804801
+----------------------------------------------
+Epoch: 410 LR: 0.00050 Loss 0.2316, Train Micro AUROC 0.9652 Train Micro AUPRC 0.9562 Train Macro AUROC 0.9646 Train Macro AUPRC 0.9543
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9732860801403653
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9559076361172503
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9732860801403653
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9559076361172503
+----------------------------------------------
+Epoch: 415 LR: 0.00050 Loss 0.2318, Train Micro AUROC 0.9651 Train Micro AUPRC 0.9562 Train Macro AUROC 0.9644 Train Macro AUPRC 0.9541
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9731470187910363
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9557268924298302
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9731470187910363
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9557268924298302
+----------------------------------------------
+Epoch: 420 LR: 0.00050 Loss 0.2296, Train Micro AUROC 0.9656 Train Micro AUPRC 0.9571 Train Macro AUROC 0.9650 Train Macro AUPRC 0.9551
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9729371248468617
+('gene/protein', 'rev_drug_protein', 'drug'): 0.957119696315858
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9729371248468617
+('gene/protein', 'rev_drug_protein', 'drug'): 0.957119696315858
+----------------------------------------------
+Validation.....
+Epoch: 420 LR: 0.00050 Validation Loss 0.5504,  Validation Micro AUROC 0.8312 Validation Micro AUPRC 0.8157 Validation Macro AUROC 0.8296 Validation Macro AUPRC 0.8124 (Best Macro AUROC 0.8296)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8615358980206758
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7975933368369181
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8615358980206758
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7975933368369181
+----------------------------------------------
+Epoch: 425 LR: 0.00050 Loss 0.2286, Train Micro AUROC 0.9660 Train Micro AUPRC 0.9581 Train Macro AUROC 0.9654 Train Macro AUPRC 0.9564
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9730469182827983
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9578521682653719
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9730469182827983
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9578521682653719
+----------------------------------------------
+Epoch: 430 LR: 0.00050 Loss 0.2296, Train Micro AUROC 0.9654 Train Micro AUPRC 0.9561 Train Macro AUROC 0.9648 Train Macro AUPRC 0.9541
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9737583571839833
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9558299156609069
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9737583571839833
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9558299156609069
+----------------------------------------------
+Epoch: 435 LR: 0.00050 Loss 0.2276, Train Micro AUROC 0.9661 Train Micro AUPRC 0.9574 Train Macro AUROC 0.9656 Train Macro AUPRC 0.9556
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9727996788022166
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9583593035620782
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9727996788022166
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9583593035620782
+----------------------------------------------
+Epoch: 440 LR: 0.00050 Loss 0.2262, Train Micro AUROC 0.9666 Train Micro AUPRC 0.9581 Train Macro AUROC 0.9660 Train Macro AUPRC 0.9561
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9742811595066511
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9577354022991418
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9742811595066511
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9577354022991418
+----------------------------------------------
+Validation.....
+Epoch: 440 LR: 0.00050 Validation Loss 0.5518,  Validation Micro AUROC 0.8314 Validation Micro AUPRC 0.8161 Validation Macro AUROC 0.8298 Validation Macro AUPRC 0.8131 (Best Macro AUROC 0.8298)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8619753191272883
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7976725555058808
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8619753191272883
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7976725555058808
+----------------------------------------------
+Epoch: 445 LR: 0.00050 Loss 0.2256, Train Micro AUROC 0.9668 Train Micro AUPRC 0.9583 Train Macro AUROC 0.9662 Train Macro AUPRC 0.9565
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9747621783285112
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9576261938476108
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9747621783285112
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9576261938476108
+----------------------------------------------
+Epoch: 450 LR: 0.00050 Loss 0.2227, Train Micro AUROC 0.9677 Train Micro AUPRC 0.9595 Train Macro AUROC 0.9670 Train Macro AUPRC 0.9576
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9753828962646538
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9586943907666273
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9753828962646538
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9586943907666273
+----------------------------------------------
+Epoch: 455 LR: 0.00050 Loss 0.2210, Train Micro AUROC 0.9682 Train Micro AUPRC 0.9603 Train Macro AUROC 0.9676 Train Macro AUPRC 0.9584
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.975865803090695
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9592681329155649
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.975865803090695
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9592681329155649
+----------------------------------------------
+Epoch: 460 LR: 0.00050 Loss 0.2196, Train Micro AUROC 0.9684 Train Micro AUPRC 0.9601 Train Macro AUROC 0.9678 Train Macro AUPRC 0.9584
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9754385841410429
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9601249404415501
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9754385841410429
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9601249404415501
+----------------------------------------------
+Validation.....
+Epoch: 460 LR: 0.00050 Validation Loss 0.5498,  Validation Micro AUROC 0.8336 Validation Micro AUPRC 0.8188 Validation Macro AUROC 0.8320 Validation Macro AUPRC 0.8155 (Best Macro AUROC 0.8320)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8631535755750412
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8008809654891145
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8631535755750412
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8008809654891145
+----------------------------------------------
+Epoch: 465 LR: 0.00050 Loss 0.2220, Train Micro AUROC 0.9675 Train Micro AUPRC 0.9588 Train Macro AUROC 0.9668 Train Macro AUPRC 0.9565
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9756807269999702
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9579773538285832
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9756807269999702
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9579773538285832
+----------------------------------------------
+Epoch: 470 LR: 0.00050 Loss 0.2205, Train Micro AUROC 0.9682 Train Micro AUPRC 0.9596 Train Macro AUROC 0.9676 Train Macro AUPRC 0.9576
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9761130535672242
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9589918399425663
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9761130535672242
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9589918399425663
+----------------------------------------------
+Epoch: 475 LR: 0.00040 Loss 0.2189, Train Micro AUROC 0.9685 Train Micro AUPRC 0.9609 Train Macro AUROC 0.9680 Train Macro AUPRC 0.9592
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9759199801239011
+('gene/protein', 'rev_drug_protein', 'drug'): 0.96004139323264
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9759199801239011
+('gene/protein', 'rev_drug_protein', 'drug'): 0.96004139323264
+----------------------------------------------
+Epoch: 480 LR: 0.00040 Loss 0.2193, Train Micro AUROC 0.9682 Train Micro AUPRC 0.9601 Train Macro AUROC 0.9676 Train Macro AUPRC 0.9581
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9761154286918787
+('gene/protein', 'rev_drug_protein', 'drug'): 0.958993287009254
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9761154286918787
+('gene/protein', 'rev_drug_protein', 'drug'): 0.958993287009254
+----------------------------------------------
+Validation.....
+Epoch: 480 LR: 0.00040 Validation Loss 0.5512,  Validation Micro AUROC 0.8340 Validation Micro AUPRC 0.8191 Validation Macro AUROC 0.8323 Validation Macro AUPRC 0.8159 (Best Macro AUROC 0.8323)
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8638971532582692
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8007814840857779
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8638971532582692
+('gene/protein', 'rev_drug_protein', 'drug'): 0.8007814840857779
+----------------------------------------------
+Epoch: 485 LR: 0.00040 Loss 0.2169, Train Micro AUROC 0.9690 Train Micro AUPRC 0.9610 Train Macro AUROC 0.9685 Train Macro AUPRC 0.9593
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9760112816749702
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9609071239700009
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9760112816749702
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9609071239700009
+----------------------------------------------
+Epoch: 490 LR: 0.00040 Loss 0.2195, Train Micro AUROC 0.9681 Train Micro AUPRC 0.9589 Train Macro AUROC 0.9676 Train Macro AUPRC 0.9574
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9744308583355668
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9607473385584666
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9744308583355668
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9607473385584666
+----------------------------------------------
+Epoch: 495 LR: 0.00040 Loss 0.2129, Train Micro AUROC 0.9700 Train Micro AUPRC 0.9620 Train Macro AUROC 0.9695 Train Macro AUPRC 0.9604
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9764542787096537
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9625843754236738
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.9764542787096537
+('gene/protein', 'rev_drug_protein', 'drug'): 0.9625843754236738
+----------------------------------------------
+Testing...
+Testing Loss 0.5551 Testing Micro AUROC 0.8290 Testing Micro AUPRC 0.8130 Testing Macro AUROC 0.8274 Testing Macro AUPRC 0.8098
+----- AUROC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8579888450745982
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7967940980104965
+----- AUPRC Performance in Each Relation -----
+('drug', 'drug_protein', 'gene/protein'): 0.8445676695384745
+('gene/protein', 'rev_drug_protein', 'drug'): 0.7751010638168336
+----------------------------------------------
