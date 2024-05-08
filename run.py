@@ -11,8 +11,8 @@ if __name__ == '__main__':
       parser.add_argument('--finetune_on_head', type=str, default=None, help='The method to use for embeddings')
       parser.add_argument('--finetune_on_relation', type=str, default=None, help='The method to use for embeddings')
       parser.add_argument('--finetune_on_tail', type=str, default=None, help='The method to use for embeddings')
-      parser.add_argument('--pretrain', type=bool, default=True, help='Whether to pretrain the model')
-      parser.add_argument('--finetune', type=bool, default=True, help='Whether to finetune the model')
+      parser.add_argument('--pretrain', action='store_true', help='Whether to pretrain the model')
+      parser.add_argument('--finetune', action='store_true', help='Whether to finetune the model')
       parser.add_argument('--save_path', type=str, default='saved_models/txgnn.pt', help='The path to save the model')
       parser.add_argument('--finetune_result_path', type=str, default='logs/fine_tuning', help='The path to save the fine tuning results')
       args = parser.parse_args()
@@ -30,6 +30,9 @@ if __name__ == '__main__':
       pretrain = True
       finetune = True
       finetune_result_path = 'logs/fine_tuning'
+  assert pretrain or finetune, "At least one of pretrain or finetune must be True"
+  if finetune:
+     assert finetune_on is not None, "If finetune is True, finetune_on must be provided"
   print(finetune_on, pretrain, finetune, save_path, finetune_result_path)
   # make data object 
   TxData = TxData(data_folder_path = 'data/dataverse/')
@@ -59,7 +62,10 @@ if __name__ == '__main__':
                  batch_size = 1024, 
                  train_print_per_n = 20)
   else:
-      TxGNN.load_pretrained(save_path)
+      try:
+        TxGNN.load_pretrained(save_path)
+      except:
+         raise ValueError("No pretrained model found")
   ## save model just in case 
   TxGNN.save_model(path = save_path)
   if finetune:
